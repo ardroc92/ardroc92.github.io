@@ -1,0 +1,286 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CSE 421: Introduction to Algorithms (Autumn 2026) | Andrea Coladangelo</title>
+  <meta name="description" content="Andrea Coladangelo&#x27;s Homepage - CSE421au26">
+  <link rel="stylesheet" href="../../assets/site.css">
+  <script src="../../assets/course-tabs.js" defer></script>
+</head>
+<body class="course-page">
+<a class="skip-link" href="#main">Skip to main content</a>
+<header class="site-header"><div class="header-inner">
+  <a class="site-name" href="../../index.html">Andrea Coladangelo</a>
+  <nav class="site-nav" aria-label="Main navigation">
+<a href="../../index.html">Home</a>
+<a href="../../publications/index.html">Publications</a>
+<a href="../index.html" aria-current="page">Teaching</a>
+<a href="../../advising/index.html">Advising</a>
+<a href="../../other/index.html">Other</a>
+  </nav>
+</div></header>
+<main id="main" class="content">
+<section class="source-section" id="h.575aa787e5590b10_1">
+<div class="text-block" data-source-block="0"><h1>CSE 421: "Introduction to Algorithms" (Autumn 2026)</h1></div>
+</section>
+
+<section class="source-section" id="h.575aa787e5590b10_5">
+<nav class="text-block course-nav" data-source-block="1" role="tablist" aria-label="Course sections"><a href="#home" id="tab-home" role="tab" aria-controls="home" aria-selected="true">Home </a><a href="#syllabus" id="tab-syllabus" role="tab" aria-controls="syllabus" aria-selected="false">Syllabus </a>    <a href="#calendar" id="tab-calendar" role="tab" aria-controls="calendar" aria-selected="false">Calendar </a>   <a href="#lecturematerial" id="tab-lecturematerial" role="tab" aria-controls="lecturematerial" aria-selected="false">Lecture &amp; Section Material</a>     <a href="#hw" id="tab-hw" role="tab" aria-controls="hw" aria-selected="false">Assignments </a><a href="#exams" id="tab-exams" role="tab" aria-controls="exams" aria-selected="false">Exams</a>       <a href="#staff" id="tab-staff" role="tab" aria-controls="staff" aria-selected="false">Course Staff</a> </nav>
+</section>
+
+<section id="home" class="course-panel" role="tabpanel" aria-labelledby="tab-home" tabindex="0" data-source-path="/teaching/cse421au26">
+<section class="source-section" id="h.575aa787e5590b10_9">
+<div class="text-block" data-source-block="2"><p>Welcome to the Autumn 2026 edition of CSE 421! See the links above for more information.</p>
+<p>You can find office hour information in <a href="#staff">Course Staff</a> or <a href="#calendar">Calendar</a>. </p></div>
+</section>
+</section>
+
+<section id="syllabus" class="course-panel" role="tabpanel" aria-labelledby="tab-syllabus" tabindex="0" data-source-path="/teaching/cse421au26/syllabus">
+<section class="source-section" id="h.3befca943e61f414_153">
+<div class="text-block" data-source-block="2"><h2>Course Description</h2>
+<p>The course introduces the design and theory of algorithms. Covers several algorithmic paradigms, including greedy algorithms, divide and conquer algorithms, linear programming, and dynamic programming through a series of optimization and graph problems. Explores techniques to identify and handle intractable problems, including the concepts of NP-hardness and NP-completeness. </p>
+<p>This is a proof-based course that focuses on how different algorithms work, how to prove their correctness, and how to design an algorithm when given a new problem to solve. There is almost no coding (mostly algorithm design in pseudocode and proofs), and the emphasis is on conceptual understanding of common algorithms and tools to explain why algorithms are correct. </p>
+<p>Prerequisites: CSE 312, 332. Math 208 is strongly encouraged.</p></div>
+</section>
+
+<section class="source-section" id="h.3befca943e61f414_157">
+<div class="text-block" data-source-block="3"><h2>Course Goals</h2>
+<p>The goal for the end of the course is that you will be able to:</p>
+<ul><li><p>Model word problems as computational problems.</p></li>
+<li><p>Determine an appropriate algorithm design paradigm for a new problem.</p></li>
+<li><p>Design an algorithm using a variety of algorithm-design paradigms (including greedy algorithms, divide and conquer, dynamic programming, flow modeling, and others).</p></li>
+<li><p>Prove your algorithm produces the correct answer.</p></li>
+<li><p>Reduce between a new problem and a known problem (for showing hardness or for reusing existing algorithms)</p></li>
+<li><p>Identify and cope with computational problems that are infeasible.</p></li>
+<li><p>Consider the implications of modeling decisions in the real world.</p></li></ul></div>
+</section>
+
+<section class="source-section" id="h.3befca943e61f414_161">
+<div class="text-block" data-source-block="4"><h2>Logistics</h2>
+<p>Communication: on Ed Discussion. You should have received an invitation to join (let Andrea know if not).</p>
+<p>Homework submissions: on Gradescope. </p>
+<p>Lecture recordings: lectures will be recorded, and available on Canvas.</p>
+<p>Office hours: info in <a href="#calendar">Calendar</a> or <a href="#staff">Course Staff</a>.</p>
+<p>Exams: there will be 1 midterm and 1 final. Date and location in <a href="#exams">Exams</a>.</p></div>
+</section>
+
+<section class="source-section" id="h.3befca943e61f414_165">
+<div class="text-block" data-source-block="5"><h2>Grading</h2>
+<p>There will be 8 homeworks, 1 midterm, and 1 final. The grade for the class will be determined based on a weighted average of homeworks and exams as follows: 36% homeworks, 28% midterm, 36% final. </p></div>
+</section>
+
+<section class="source-section" id="h.3befca943e61f414_169">
+<div class="text-block" data-source-block="6"><h2>Other Resources</h2>
+<p>All of the required content for this class can be obtained from lectures and sections. However, the following optional textbook is great, and may provide another perspective: "Algorithm Design" by Jon Kleinberg and Éva Tardos, Addison-Wesley, 2006.</p>
+<p>You can find some useful review material relating to CSE 332 <a href="https://courses.cs.washington.edu/courses/cse421/23wi/resources/" rel="noopener noreferrer" target="_blank">here</a>.</p>
+<p>Here is a <a href="https://courses.cs.washington.edu/courses/cse421/23wi/resources/styleguide.html" rel="noopener noreferrer" target="_blank">style guide</a> for writing your solutions for this class.</p>
+<p>This course is adapted from previous CSE 421 iterations by <a href="https://courses.cs.washington.edu/courses/cse421/23wi/" rel="noopener noreferrer" target="_blank">Robbie Weber</a> and <a href="https://courses.cs.washington.edu/courses/cse421/26wi/" rel="noopener noreferrer" target="_blank">Chinmay Nirkhe</a>, which you may also find useful.</p></div>
+</section>
+
+<section class="source-section" id="h.3befca943e61f414_173">
+<div class="text-block" data-source-block="7"><h2>Late submissions</h2>
+<p>You have<strong> </strong>6 tokens for 24 hours late submission of homeworks, no questions asked (you may use up to 3 on each homework). After the 6 tokens are used, homeworks submitted up to 24 hours late are graded with a 50% penalty, and homeworks submitted after 24 hours will not be counted for credit. Extenuating cirumstances are of course separate, and should be discussed directly with Andrea.</p></div>
+</section>
+
+<section class="source-section" id="h.3befca943e61f414_177">
+<div class="text-block" data-source-block="8"><h2>Collaboration</h2>
+<p>Collaboration with other classmates is encouraged! However, we ask that you write up your solutions individually, and mention your collaborators at the start of your homework solutions.</p></div>
+</section>
+
+<section class="source-section" id="h.59455da53f7544f0_0">
+<div class="text-block" data-source-block="9"><h2>Use of AI (and other external resources)</h2>
+<p>We will be following this <a href="https://docs.google.com/document/d/1XV_YeBqceJFZXUYnuDdiVdtyhw1KZNn9cxxJ2O5VJGY/edit?usp=sharing" rel="noopener noreferrer" target="_blank">policy</a> for the use of AI. In summary, you can use AI or external resources to clarify concepts from class, or concepts that you are not familiar with, but you are <em>not </em>allowed to use AI or external resources to directly look for the answer to a homework question or to get assistance with a specific homework problem. We understand that when searching for general information you may accidentally find the exact question we asked. In such cases, we ask that you tell the staff, and provide a link to what you found (if you do so, this will not count as a violation of the policy). </p>
+<p>If you are unsure about whether something is allowed, please feel free to ask Andrea.</p></div>
+<img class="media-image" src="../../assets/images/cse421-autumn-2026-ai-policy.png" alt="Course policy on AI use" width="484" height="512" loading="lazy" decoding="async">
+</section>
+
+<section class="source-section" id="h.3befca943e61f414_217">
+<div class="text-block" data-source-block="11"><h2>Academic Integrity</h2>
+<p>The goal of our assignments is for you to fully understand and internalize the content of the course. Working through homework problems is an integral part of developing this understanding (I believe that there is no substitute to this for learning!). The policies above are designed for you to go through this crucial part of the learning process.</p>
+<p>Not following these policies will likely detract from your learning, and it directly negatively affects other students who are following them, since grades are determined partly based on relative performance. Therefore, we take academic integrity seriously. We refer violations of <a href="https://www.cs.washington.edu/academics/misconduct" rel="noopener noreferrer" target="_blank">departmental policies</a> to the Office of Academic Affairs. If you are found responsible for a violation of academic integrity on a homework problem, you will receive a 0 on the relevant problem. </p>
+<p>I understand that sometimes life can get in the way of spending as much time as you'd like to on assignments. I hope the 6 late tokens can help mitigate busy or stressful times. You should always feel free to reach out directly to Andrea for extra help on the class material (I'm available!), or if there are extenuating circumstances. We can figure something out.</p></div>
+</section>
+</section>
+
+<section id="calendar" class="course-panel" role="tabpanel" aria-labelledby="tab-calendar" tabindex="0" data-source-path="/teaching/cse421au26/calendar">
+<section class="source-section" id="h.3befca943e61f414_185">
+<img class="media-image" src="../../assets/images/cse421-autumn-2026-calendar.png" alt="Course schedule" width="1280" height="945" loading="lazy" decoding="async">
+</section>
+
+<section class="source-section" id="h.3befca943e61f414_198">
+<div class="text-block" data-source-block="3"><p><strong>Sections: </strong>Thursday at 11.30am, and then every hour until 3.30. Check MyUW for the section you are assigned to and its location (which is not the same for all sections!)</p></div>
+</section>
+</section>
+
+<section id="lecturematerial" class="course-panel" role="tabpanel" aria-labelledby="tab-lecturematerial" tabindex="0" data-source-path="/teaching/cse421au26/lecturematerial">
+<section class="source-section" id="h.3befca943e61f414_22">
+<div class="text-block" data-source-block="2"><p>*The lecture and section material below is adapted from CSE 421 material by Robbie Weber and Chinmay Nirkhe.<br/>*Slides were created in keynote. So the converted ppt file may have formatting issues.</p></div>
+</section>
+
+<section class="source-section" id="h.3befca943e61f414_26">
+<div class="text-block" data-source-block="3"><h2>Lectures</h2>
+<p>09/30: Logistics; stable matchings (slides: <a href="https://drive.google.com/file/d/1m64TpTIKcQd8E4W9U4XFIlYIt1bPnzRN/view?usp=sharing" rel="noopener noreferrer" target="_blank">keynote</a>, <a href="https://docs.google.com/presentation/d/1U1Hw8TZirbCel2nToRaV7JFTM7SKYcgD/edit?usp=sharing&amp;ouid=106616928781092272648&amp;rtpof=true&amp;sd=true" rel="noopener noreferrer" target="_blank">ppt</a>, <a href="https://drive.google.com/file/d/1WWlEiwZAdNk7ddqKPLJ5nCvTo9-M-N-a/view?usp=sharing" rel="noopener noreferrer" target="_blank">pdf</a>)</p>
+<p>10/02: More stable matchings (slides: <a href="https://drive.google.com/file/d/1vdAjx-tvc68aY9ejkt1Y_KXj4Iy72ftz/view?usp=sharing" rel="noopener noreferrer" target="_blank">keynote</a>, <a href="https://docs.google.com/presentation/d/1E9t88kMkFLLOArltfReKXr1AOe7kaQxE/edit?usp=sharing&amp;ouid=106616928781092272648&amp;rtpof=true&amp;sd=true" rel="noopener noreferrer" target="_blank">ppt</a>, <a href="https://drive.google.com/file/d/1weyNVgQuIca9YQqtJDqR6SrPasmFV_WS/view?usp=sharing" rel="noopener noreferrer" target="_blank">pdf</a>)</p>
+<p>10/05: Graph traversal; Breadth-First Search (<a href="https://drive.google.com/file/d/1oyaCy8XJ_x4NcNZhSLYubMW9sfujlglU/view?usp=sharing" rel="noopener noreferrer" target="_blank">keynote</a>, <a href="https://docs.google.com/presentation/d/1esj9pMx8zw2wFZqI4fDPGrOj6Y4Q1uPQ/edit?usp=sharing&amp;ouid=106616928781092272648&amp;rtpof=true&amp;sd=true" rel="noopener noreferrer" target="_blank">ppt</a>, <a href="https://drive.google.com/file/d/1DmwAGY7gNxID5zPwnkgnEaKSioBMRm_2/view?usp=sharing" rel="noopener noreferrer" target="_blank">pdf</a>)</p>
+<p>10/07: BFS, DFS, and applications (bipartiteness testing) (<a href="https://drive.google.com/file/d/1tJgSusK5KUQqPtDIUyGqQFtX7Jo2xfRq/view?usp=sharing" rel="noopener noreferrer" target="_blank">keynote</a>, <a href="https://docs.google.com/presentation/d/1aQjy97e4nhfMnHspVFeVmWpjyWzIpzQe/edit?usp=sharing&amp;ouid=106616928781092272648&amp;rtpof=true&amp;sd=true" rel="noopener noreferrer" target="_blank">ppt</a>, <a href="https://drive.google.com/file/d/1Mj4H1QM4kKPp0yPTvpf97FbTZP7wmNQ6/view?usp=sharing" rel="noopener noreferrer" target="_blank">pdf</a>)</p>
+<p>10/09: DFS and applications (cycle detection, topological sorting) (slides: <a href="https://drive.google.com/file/d/1gG56Ts4cxpxsFycfi676mQrEwyOowryM/view?usp=sharing" rel="noopener noreferrer" target="_blank">keynote</a>, <a href="https://docs.google.com/presentation/d/1EWUP691W4ADPg-p6Qp5cbhcv_svBoeIZ/edit?usp=sharing&amp;ouid=106616928781092272648&amp;rtpof=true&amp;sd=true" rel="noopener noreferrer" target="_blank">ppt</a>, <a href="https://drive.google.com/file/d/1QcghgsJA9Zf6cTcCraulQrBfDfqZBSqK/view?usp=sharing" rel="noopener noreferrer" target="_blank">pdf</a>)</p>
+<p>10/12: Graph modeling; Greedy algorithms (intro and interval scheduling)</p>
+<p>10/14: Greedy graph algorithms (minimum spanning trees)</p>
+<p>10/16: Greedy graph approximation algorithms (max cut)</p>
+<p>10/19: Divide and Conquer (mergesort, 2D closest pair) </p>
+<p>10/21: Divide and Conquer (runtimes, Strassen's matrix multiplication)</p>
+<p>10/23: Divide and Conquer (Karatsuba's integer multiplication, median finding) </p>
+<p>10/26: Divide and Conquer (median/selection finding)</p>
+<p>10/28: Dynamic Programming (memoization, edit distance)</p>
+<p>10/30: Dynamic Programming (edit distance, knapsack)</p>
+<p>11/02: Dynamic Programming (Bellman-Ford)</p>
+<p>11/04: Dynamic Programming (Bellman-Ford continued)</p>
+<p>11/11: Max Flow and Min Cut (intro)</p>
+<p>11/13: Max Flow and Min Cut (Ford-Fulkerson)</p>
+<p>11/16: Max Flow and Min Cut (Ford-Fulkerson continued, and Max Flow-Min Cut theorem)</p>
+<p>11/18: Max Flow and Min Cut (Faster algorithms, and applications)</p>
+<p>11/20: Wrapping up Max Flow &amp; Intro to P, NP, and reductions</p>
+<p>11/23: NP-completeness</p>
+<p>11/25: More NP-completeness</p>
+<p>11/27: No class, Thanksgiving</p>
+<p>11/30: More NP-completeness (3-SAT)</p>
+<p>12/02: More NP-completeness (Vertex Cover and 3-coloring)</p>
+<p>12/04: Linear Programming</p>
+<p>12/07: Linear Programming (optimal solutions, and simplex method)</p>
+<p>12/09: Linear Programming (simplex method continued, LP approximation of vertex cover)</p></div>
+</section>
+
+<section class="source-section" id="h.3befca943e61f414_30">
+<div class="text-block" data-source-block="4"><h2>Section</h2>
+<p>10/01: <a href="https://docs.google.com/presentation/d/1GHfyPFygnwaZz54lLtjK_R08XkcLreUc/edit?usp=sharing&amp;ouid=106616928781092272648&amp;rtpof=true&amp;sd=true" rel="noopener noreferrer" target="_blank">slides</a>, <a href="https://drive.google.com/file/d/1Q4qn9spxFEAAiSOcJMKoMmNf0e9KD-_a/view?usp=sharing" rel="noopener noreferrer" target="_blank">handout</a>, <a href="https://drive.google.com/file/d/1QI56u30iio-B4WaHwBIepiBBvDwJ6pcW/view?usp=sharing" rel="noopener noreferrer" target="_blank">solutions</a></p>
+<p>10/08: <a href="https://docs.google.com/presentation/d/1m6c1rA-EradqZ-JTwnnancafvdJjEpuu/edit?usp=sharing&amp;ouid=106616928781092272648&amp;rtpof=true&amp;sd=true" rel="noopener noreferrer" target="_blank">slides</a>, <a href="https://drive.google.com/file/d/1PDs4Tv1hyPSDCZ-GTvmSG7IEN-zb8jDv/view?usp=sharing" rel="noopener noreferrer" target="_blank">handout</a>, <a href="https://drive.google.com/file/d/1uhVLDTRgTHWSguzpjRP1HFSnplhQJCl2/view?usp=sharing" rel="noopener noreferrer" target="_blank">solutions</a></p>
+<p>10/15: </p>
+<p>10/22: </p>
+<p>10/29: </p>
+<p>11/05: </p>
+<p>11/12: </p>
+<p>11/19: </p>
+<p>12/03:</p>
+<p>12/10:</p></div>
+</section>
+</section>
+
+<section id="hw" class="course-panel" role="tabpanel" aria-labelledby="tab-hw" tabindex="0" data-source-path="/teaching/cse421au26/hw">
+<section class="source-section" id="h.3befca943e61f414_136">
+<div class="text-block" data-source-block="2"><p>Blank homework <a href="https://drive.google.com/file/d/1n99w47qMewaWjEjXm-KoTjsBuZjCtcs3/view?usp=sharing" rel="noopener noreferrer" target="_blank">template</a> that you can use. When compiled, it looks like <a href="https://drive.google.com/file/d/1pca2jM7nkWfzGrxRWMY8Llzxi--z5xVF/view?usp=sharing" rel="noopener noreferrer" target="_blank">this</a>.</p></div>
+</section>
+
+<section class="source-section" id="h.3befca943e61f414_140">
+<div class="text-block" data-source-block="3"><h2>Homeworks</h2>
+<p>Homework 1 (due Oct 8 at 11.59pm): <a href="https://drive.google.com/file/d/1KjV7PBo00AKh-T9wM2Su-nafdr9bNjiI/view?usp=sharing" rel="noopener noreferrer" target="_blank">pdf</a>.</p>
+<p>Homework 2: (due Oct 15 at 11.59pm): <a href="https://drive.google.com/file/d/1wbmnzJdeEqQykdpqoGs2oEShFhI15bf1/view?usp=sharing" rel="noopener noreferrer" target="_blank">pdf</a>.</p>
+<p>Homework 3:</p>
+<p>Homework 4:</p>
+<p>Homework 5:</p>
+<p>Homework 6:</p>
+<p>Homework 7:</p>
+<p>Homework 8:</p></div>
+</section>
+</section>
+
+<section id="exams" class="course-panel" role="tabpanel" aria-labelledby="tab-exams" tabindex="0" data-source-path="/teaching/cse421au26/exams">
+<section class="source-section" id="h.3befca943e61f414_9">
+<div class="text-block" data-source-block="2"><h2>Exams</h2>
+<p>Midterm: TBA</p>
+<p>Final: Monday Dec 14, 2.30-4.20pm, Gates G20</p></div>
+</section>
+</section>
+
+<section id="staff" class="course-panel" role="tabpanel" aria-labelledby="tab-staff" tabindex="0" data-source-path="/teaching/cse421au26/staff">
+<section class="source-section staff-card" id="h.3befca943e61f414_64">
+<img class="media-image" src="../../assets/images/cse421au25-andrea-coladangelo.jpg" alt="Andrea Coladangelo" width="1280" height="1253" loading="lazy" decoding="async">
+<div class="text-block" data-source-block="4"><p><strong>Andrea Coladangelo</strong></p>
+<p><strong>Instructor</strong></p>
+<p>email: <a href="mailto:coladan@cs.washington.edu" rel="noopener noreferrer" target="_blank">coladan@cs.washington.edu</a></p>
+<p>Office hours: Wednesday 3.20pm (Gates G04)</p></div>
+</section>
+
+<section class="source-section staff-card" id="h.3befca943e61f414_71">
+<img class="media-image" src="../../assets/images/cse421au26-vinay-pritamani.jpg" alt="Vinay Pritamani" width="1280" height="1253" loading="lazy" decoding="async">
+<div class="text-block" data-source-block="6"><p><strong>Vinay</strong><strong> </strong><strong>Pritamani</strong></p>
+<p><strong>TA</strong></p>
+<p>email: <a href="mailto:vprita@cs.washington.edu" rel="noopener noreferrer" target="_blank">vprita@cs.washington.edu</a></p>
+<p>Office hours: Tuesday 11am (Allen 4th floor breakout)</p></div>
+</section>
+
+<section class="source-section staff-card" id="h.3befca943e61f414_78">
+<img class="media-image" src="../../assets/images/cse421au26-michael-whitmeyer.jpg" alt="Michael Whitmeyer" width="668" height="598" loading="lazy" decoding="async">
+<div class="text-block" data-source-block="8"><p><strong>Michael Whitmeyer</strong></p>
+<p><strong>TA</strong></p>
+<p>email: <a href="mailto:mdwhit@cs.washington.edu" rel="noopener noreferrer" target="_blank">mdwhit@cs.washington.edu</a></p>
+<p>Office hours: Thursday 9.30am (Allen 2nd floor breakout)</p></div>
+</section>
+
+<section class="source-section staff-card" id="h.3befca943e61f414_85">
+<img class="media-image" src="../../assets/images/cse421au26-runjia-li.jpg" alt="Runjia Li " width="225" height="201" loading="lazy" decoding="async">
+<div class="text-block" data-source-block="10"><p><strong>Runjia Li </strong></p>
+<p><strong>TA</strong></p>
+<p>email: <a href="mailto:runjiali@cs.washington.edu" rel="noopener noreferrer" target="_blank">runjiali@cs.washington.edu</a></p>
+<p>Office hours: Friday 3.30pm (Gates 276)</p></div>
+</section>
+
+<section class="source-section staff-card" id="h.3befca943e61f414_92">
+<img class="media-image" src="../../assets/images/cse421au25-parker-vladimiroff.jpg" alt="Parker Vladimiroff" width="800" height="716" loading="lazy" decoding="async">
+<div class="text-block" data-source-block="12"><p><strong>Parker Vladimiroff</strong></p>
+<p><strong>TA</strong></p>
+<p>email: <a href="mailto:pvladim@cs.washington.edu" rel="noopener noreferrer" target="_blank">pvladim@cs.washington.edu</a></p>
+<p>Office hours: Friday 10.30am (Allen 2nd floor breakout)</p></div>
+</section>
+
+<section class="source-section staff-card" id="h.3befca943e61f414_99">
+<img class="media-image" src="../../assets/images/cse421au26-sophia-li.jpg" alt="Sophia Li" width="479" height="429" loading="lazy" decoding="async">
+<div class="text-block" data-source-block="14"><p><strong>Sophia Li</strong></p>
+<p><strong>TA</strong></p>
+<p>email: <a href="mailto:sophia81@cs.washington.edu" rel="noopener noreferrer" target="_blank">sophia81@cs.washington.edu</a></p>
+<p>Office hours: Wednesday 12.15pm (Allen 220)</p></div>
+</section>
+
+<section class="source-section staff-card" id="h.3befca943e61f414_106">
+<img class="media-image" src="../../assets/images/cse421au26-toprak-yildirim.jpg" alt="Toprak Yildirim" width="225" height="201" loading="lazy" decoding="async">
+<div class="text-block" data-source-block="16"><p><strong>Toprak Yildirim</strong></p>
+<p><strong>TA</strong></p>
+<p>email: <a href="mailto:topbatu@cs.washington.edu" rel="noopener noreferrer" target="_blank">topbatu@cs.washington.edu</a></p>
+<p>Office hours: Tuesday 3.30pm (Allen 4th floor breakout)</p></div>
+</section>
+
+<section class="source-section staff-card" id="h.3befca943e61f414_113">
+<img class="media-image" src="../../assets/images/cse421au26-sami-badal-khan.jpg" alt="Sami Badal Khan" width="1140" height="1140" loading="lazy" decoding="async">
+<div class="text-block" data-source-block="18"><p><strong>Sami Badal Khan</strong></p>
+<p><strong>TA</strong></p>
+<p>email: <a href="mailto:skbk@cs.washington.edu" rel="noopener noreferrer" target="_blank">skbk@cs.washington.edu</a></p>
+<p>Office hours: Tuesday 4.30pm (Allen 5th floor breakout)</p></div>
+</section>
+
+<section class="source-section staff-card" id="h.3befca943e61f414_120">
+<img class="media-image" src="../../assets/images/cse421au26-aaryan-pawar.jpg" alt="Aaryan Pawar" width="225" height="201" loading="lazy" decoding="async">
+<div class="text-block" data-source-block="20"><p><strong>Aaryan Pawar</strong></p>
+<p><strong>TA</strong></p>
+<p>email: <a href="mailto:aarynpwr@cs.washington.edu" rel="noopener noreferrer" target="_blank">aarynpwr@cs.washington.edu</a></p>
+<p>Office hours: Monday 4pm (Allen 5th floor breakout)</p></div>
+</section>
+
+<section class="source-section staff-card" id="h.3befca943e61f414_199">
+<img class="media-image" src="../../assets/images/cse421au26-escher-crawford.jpg" alt="Escher Crawford" width="1078" height="965" loading="lazy" decoding="async">
+<div class="text-block" data-source-block="22"><p><strong>Escher Crawford</strong></p>
+<p><strong>TA</strong></p>
+<p>email: <a href="mailto:ecraw4d@cs.washington.edu" rel="noopener noreferrer" target="_blank">ecraw4d@cs.washington.edu</a></p>
+<p>Office hours: Monday 2.30pm (Gates 153)</p></div>
+</section>
+
+<section class="source-section staff-card" id="h.3befca943e61f414_206">
+<img class="media-image" src="../../assets/images/cse421au26-brice-liu.png" alt="Brice Liu" width="505" height="452" loading="lazy" decoding="async">
+<div class="text-block" data-source-block="24"><p><strong>Brice Liu</strong></p>
+<p><strong>TA</strong></p>
+<p>email: <a href="mailto:briceliu@cs.washington.edu" rel="noopener noreferrer" target="_blank">briceliu@cs.washington.edu</a></p>
+<p>Office hours: Thursday 4.30pm (Allen 2nd floor breakout)</p></div>
+</section>
+</section>
+</main>
+</body>
+</html>

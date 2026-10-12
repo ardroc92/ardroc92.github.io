@@ -1,0 +1,3338 @@
+{
+  "captured_on": "2026-10-12",
+  "source": "https://www.andreacoladangelo.com",
+  "pages": [
+    {
+      "source_url": "https://www.andreacoladangelo.com/advising",
+      "original_path": "/advising",
+      "file": "advising/index.html",
+      "title": "Andrea Coladangelo's Homepage - Advising",
+      "source_blocks": [
+        "Postdocs:Joe Slote (jointly with Chinmay Nirkhe and Jerry Li)PhD students:Er-Cheng TangBoyang Chen (co-advised with Zhengfeng Ji at Tsinghua University)Nikos Skoumios Yiming WangUndergraduates & Master's:Sami Badal Khan (UW)Haocheng Zhang (Johns Hopkins, Quantum@UW REU)Ellen Wu (MIT, Quantum@UW REU) Undergraduates & Master's (Past):Lukshya Ganjoo (2024-25, UW -> now a PhD student at UC San Diego)Ethan Fisher (2024-26, UW -> now at Qumulo)Justin Tysdal (2024, UW -> now at Google)Saachi Mutreja (2022, UC Berkeley -> now a PhD student at Columbia)",
+        "I am always on the look out for motivated PhD students! If you are interested in working with me, please apply to the UW CSE PhD program, and make sure to mention my name in your application."
+      ],
+      "links": [
+        {
+          "href": "https://joeslote.com/",
+          "text": "Joe Slote"
+        },
+        {
+          "href": "https://sites.google.com/view/erchengtang",
+          "text": "Er-Cheng Tang"
+        },
+        {
+          "href": "https://chenboyang12.github.io/",
+          "text": "Boyang Chen"
+        },
+        {
+          "href": "https://sites.google.com/view/nikos-skoumios/home",
+          "text": "Nikos Skoumios"
+        },
+        {
+          "href": "https://homes.cs.washington.edu/~ymwang25/",
+          "text": "Yiming Wang"
+        },
+        {
+          "href": "https://www.cs.washington.edu/academics/phd/admissions",
+          "text": "UW CSE PhD program"
+        }
+      ],
+      "images": [],
+      "embeds": []
+    },
+    {
+      "source_url": "https://www.andreacoladangelo.com/home",
+      "original_path": "/home",
+      "file": "index.html",
+      "title": "Andrea Coladangelo's Homepage",
+      "source_blocks": [
+        "Andrea ColadangeloI am an assistant professor at the University of Washington, Seattle since January 2023, where I co-lead the Quantum group at the Allen School of Computer Science & Engineering. I am also part of the Theory and Crypto groups. I coordinate the NSF-funded Quantum@UW REU program. I am broadly interested in quantum computation. Recently, I have been most excited about understanding the interplay between quantum computation and cryptography. Previously, I have studied foundational questions about entanglement and quantum correlations, inspired by the question of certifying quantum devices. Short Bio: Before UW, I was a postdoctoral researcher at UC Berkeley and the Simons Institute, working with Umesh Vazirani. I obtained my PhD at Caltech, where I was fortunate to be advised by Thomas Vidick. In a previous life, I received a B.A. in Mathematics from the University of Oxford and a Master in Mathematics from the University of Cambridge. I co-founded qBraid, a cloud-based platform for learning quantum computing and developing quantum algorithms.",
+        "Assistant ProfessorComputer ScienceUniversity of WashingtonGates Center 212coladan (at) cs washington edu",
+        "News: Thankful to the NSF for an NSF Career award.Congratulations to Er-Cheng on the Machtey Award for best student paper at FOCS 2025, for this work with Miryam Huang!Welcome to new postdoc Joe Slote, and PhD students Nikos, Yiming, and Daniel!Thankful to Google for a 2025 Research Scholar award in quantum computing.Applications are open for the first cohort of our NSF-funded Quantum@UW REU summer program! Consider applying if you are an undergrad interested in experiencing research in quantum information (projects ranging from theory to experiments). Deadline is March 13.I'm spending Fall quarter 2024 in Oxford, at the department of Computer Science.I'm giving a lecture series at the 22nd Bellairs Crypto Workshop in Barbados (Mar 3-7 2024) titled \"Random and pseudorandom quantum states: how to use them\".Er-Cheng Tang is the first PhD student to join my group. Welcome!I received the CSE undergraduate teaching award for my Spring 2023 course!",
+        "Selected and Recent Publications (view all)The power of two bases: robust and copy-optimal certification of nearly all quantum states with few-qubit measurements [arXiv]A. Coladangelo, J. Li, J. Slote, E. Wu.STOC 2026. A meta-complexity characterization of minimal quantum cryptography [arXiv]B. Cavalar, B. Chen, A. Coladangelo, M. Gray, Z. Hu, Z. Ji, X. Li.STOC 2026, QIP 2026.The power of a single Haar random state: constructing and separating quantum pseudorandomness [arXiv]B. Chen, A. Coladangelo, O. Sattath.Eurocrypt 2025, QIP 2025, QCrypt 2024 (merged with arXiv:2407.07908).A computational test of quantum contextuality, and even simpler proofs of quantumness [arXiv]A. S. Arora, K. Bharti, A. Cojocaru, A. Coladangelo.FOCS 2024, QIP 2025.Deniable Encryption in a Quantum World [arXiv]A. Coladangelo, S. Goldwasser, U. Vazirani.STOC 2022.One-way Functions Imply Secure Computation in a Quantum World [arXiv]J. Bartusek, A. Coladangelo, D. Khurana, F. Ma.CRYPTO 2021, QIP 2022 (Long plenary talk), QCrypt 2021 (invited talk merged with arXiv:2011.14980).Unconditional separation of finite and infinite-dimensional quantum correlations [arXiv]A. Coladangelo, J. Stark.Nature Communications, QIP 2019 (Long plenary talk and best student paper award)ServiceEditor: Quantum (2020-2024)Program Committees: QIP 2020, QCrypt 2021, QIP 2022, Quantum Crypto Workshop @ Asiacrypt 2023, QIP 2023, ITCS 2024, QCrypt 2024, TQC 2025, Eurocrypt 2026, FOCS 2026"
+      ],
+      "links": [
+        {
+          "href": "https://quantum.cs.washington.edu",
+          "text": "Quantum group"
+        },
+        {
+          "href": "https://www.cs.washington.edu",
+          "text": "Allen School of Computer Science & Engineering"
+        },
+        {
+          "href": "https://theory.cs.washington.edu",
+          "text": "Theory"
+        },
+        {
+          "href": "https://crypto.cs.washington.edu",
+          "text": "Crypto"
+        },
+        {
+          "href": "https://quantumreu.cs.washington.edu",
+          "text": "Quantum@UW REU program"
+        },
+        {
+          "href": "https://qbraid.com",
+          "text": "qBraid"
+        },
+        {
+          "href": "https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2541085",
+          "text": "NSF Career award"
+        },
+        {
+          "href": "https://sites.google.com/view/erchengtang",
+          "text": "Er-Cheng"
+        },
+        {
+          "href": "https://arxiv.org/abs/2507.11970",
+          "text": "this work"
+        },
+        {
+          "href": "https://sites.google.com/view/miyinghuang",
+          "text": "Miryam Huang"
+        },
+        {
+          "href": "https://joeslote.com/",
+          "text": "Joe Slote"
+        },
+        {
+          "href": "https://sites.google.com/view/nikos-skoumios/home",
+          "text": "Nikos"
+        },
+        {
+          "href": "https://homes.cs.washington.edu/~ymwang25/",
+          "text": "Yiming"
+        },
+        {
+          "href": "https://research.google/programs-and-events/research-scholar-program/recipients/",
+          "text": "Research Scholar award"
+        },
+        {
+          "href": "https://quantumreu.cs.washington.edu",
+          "text": "Applications are open"
+        },
+        {
+          "href": "https://sites.google.com/view/erchengtang",
+          "text": "Er-Cheng Tang"
+        },
+        {
+          "href": "https://news.cs.washington.edu/2023/06/22/take-advantage-of-the-doors-that-open-allen-school-celebrates-the-class-of-2023/#:~:text=and%20Andrea%20Coladangelo-,Undergraduate%20Teaching%20Awards,-Each%20year%2C%20student",
+          "text": "CSE undergraduate teaching award"
+        },
+        {
+          "href": "/teaching/cse493qsp23",
+          "text": "Spring 2023"
+        },
+        {
+          "href": "/publications",
+          "text": "view all"
+        },
+        {
+          "href": "https://arxiv.org/abs/2602.11616",
+          "text": "arXiv"
+        },
+        {
+          "href": "https://arxiv.org/abs/2510.07859",
+          "text": "arXiv"
+        },
+        {
+          "href": "https://arxiv.org/abs/2404.03295",
+          "text": "arXiv"
+        },
+        {
+          "href": "https://orsattath.wordpress.com/about/",
+          "text": "O. Sattath"
+        },
+        {
+          "href": "https://arxiv.org/abs/2407.07908",
+          "text": "arXiv:2407.07908"
+        },
+        {
+          "href": "https://arxiv.org/abs/2405.06787",
+          "text": "arXiv"
+        },
+        {
+          "href": "https://github.com/AtulSinghArora/QR/blob/master/_/README.md#atul-singh-arora",
+          "text": "A. S. Arora"
+        },
+        {
+          "href": "https://arxiv.org/abs/2112.14988",
+          "text": "arXiv"
+        },
+        {
+          "href": "https://arxiv.org/abs/2011.13486",
+          "text": "arXiv"
+        },
+        {
+          "href": "https://sites.google.com/view/jamesbartusek",
+          "text": "J. Bartusek"
+        },
+        {
+          "href": "https://www.dakshitakhurana.com",
+          "text": "D. Khurana"
+        },
+        {
+          "href": "https://www.cs.princeton.edu/~fermim/",
+          "text": "F. Ma"
+        },
+        {
+          "href": "https://arxiv.org/abs/2011.14980",
+          "text": "arXiv:2011.14980"
+        },
+        {
+          "href": "https://arxiv.org/abs/1804.05116",
+          "text": "arXiv"
+        },
+        {
+          "href": "https://jalexstark.com/",
+          "text": "J. Stark"
+        },
+        {
+          "href": "https://quantum-journal.org/",
+          "text": "Quantum"
+        }
+      ],
+      "images": [
+        {
+          "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vEIjs80iuONPlnm3F1ZF10YTamq6bOXXKLQoTia_X9Vow7GVHZlyIgvD8TOeJfzqH6oSTltsSXNPan10LyidjtVy_cpD_qKOscDI57vXSLRxdk-XpWBttWp1IVAwgjiLncs9Hq53P5hNkHPyStiR9ZiuzOJc30olxJwDOnIfj_pnZ5GnMW3Z_P_3YxOGULP-mMhsk33e_erNW6WIl-Rizu3qxCPv0k0LPtUkRJoGA=w1280",
+          "local": "assets/images/andrea-coladangelo-portrait.jpg"
+        }
+      ],
+      "embeds": []
+    },
+    {
+      "source_url": "https://www.andreacoladangelo.com/other",
+      "original_path": "/other",
+      "file": "other/index.html",
+      "title": "Andrea Coladangelo's Homepage - Other",
+      "source_blocks": [
+        "Music"
+      ],
+      "links": [],
+      "images": [],
+      "embeds": [
+        {
+          "kind": "iframe",
+          "src": "https://www.youtube.com/embed/B7gJs7cUL24?embed_config=%7B%22enc%22:%22AXH1eznHMUXAVQ1qgkwEAq3jgFSgqMaD34CUiQa-MYjlF6NpaegFXXx8b0Trlo3g0K0YLuGWa95vIWY-WLQI5mZ14xHN-IVQQs1Zkex1r6Qr9tP8kLJ0q9GkPgjnmkSQ9S-wZyucANyk6gLgZR_x0KiXtNyvtvGo0Esg0QigsGwOZkl0%22%7D&enablejsapi=1&errorlinks=1&origin=https://www.andreacoladangelo.com&vl=1"
+        }
+      ]
+    },
+    {
+      "source_url": "https://www.andreacoladangelo.com/publications",
+      "original_path": "/publications",
+      "file": "publications/index.html",
+      "title": "Andrea Coladangelo's Homepage - Publications",
+      "source_blocks": [
+        "(See Google Scholar for a more reliably up-to-date list)(For papers marked with **, their results were obtained primarily by AI. For all of these papers, substantial work by the authors went into the presentation of the results.)The I3322 Bell inequality requires infinite dimensions ** [arXiv]A. Coladangelo.Unclonable encryption from BB84 states: a simultaneous Goldreich-Levin reduction ** [arXiv]A. Coladangelo, Q. Liu, Z. Xie.Unconditional certified randomness without structure [arXiv]A. Coladangelo, D. Khurana, S. Mutreja, B. Roberts, J. Slote, A. Tal.Robust quantum state certification and uncertainty principles for total influence [arXiv]A. Coladangelo, J. Li, J. Slote.On the limits of stretching quantum pseudorandomness [arXiv]B. Chen, A. Coladangelo, Y. Lin, N. Skoumios, J. Tysdal, Y. Wang.The power of two bases: robust and copy-optimal certification of nearly all quantum states with few-qubit measurements [arXiv]A. Coladangelo, J. Li, J. Slote, E. Wu.STOC 2026. A meta-complexity characterization of minimal quantum cryptography [arXiv]B. Cavalar, B. Chen, A. Coladangelo, M. Gray, Z. Hu, Z. Ji, X. Li.STOC 2026. Contributed talk at QIP 2026.The curios case of \"XOR repetition\" of monogamy-of-entanglement games [arXiv]ITCS 2026. A. Coladangelo, Q. Liu, Z. Xie.MPC in the Quantum Head (or: Superposition-Secure (Quantum) Zero-Knowledge) [arXiv]A. Coladangelo, R. Jawale, D. Khurana, G. Malavolta, H. Waldner.Quantum (2026).All multipartite entangled states of qubits can be self-tested up to complex conjugation [arXiv]M. Balanzó-Juandó, A. Coladangelo, R. Augusiak, A. Acín, I. Supić.Nature Communications 17 (2026). Contributed talk at QIP 2026, QPL 2025.The power of a single Haar random state: constructing and separating quantum pseudorandomness [arXiv]B. Chen, A. Coladangelo, O. Sattath.Eurocrypt 2025. Contributed talk at QIP 2025, QCrypt 2024 (merged with arXiv:2407.07908).On black-box separations of quantum digital signatures from pseudorandom states [arXiv]A. Coladangelo, S. Mutreja.TCC 2024.A computational test of quantum contextuality, and even simpler proofs of quantumness [arXiv]A. S. Arora, K. Bharti, A. Cojocaru, A. Coladangelo.FOCS 2024. Contributed talk at QIP 2025.How to Use Quantum Indistinguishability Obfuscation [arxiv]A. Coladangelo, S. Gunn.STOC 2024.Quantum trapdoor functions from classical one-way functions [arXiv]A. Coladangelo.Quantum depth in the random oracle model [arXiv]A. S. Arora, A. Coladangelo, M. Coudron, A. Gheorghiu, U. Singh, H. Waldner.STOC 2023.Deniable Encryption in a Quantum World [arXiv]A. Coladangelo, S. Goldwasser, U. Vazirani.STOC 2022.Hidden Cosets and Applications to Unclonable Cryptography [arXiv]A. Coladangelo, J. Liu, Q. Liu, M. Zhandry.CRYPTO 2021. Contributed talk at QIP 2022, QCrypt 2021.One-way Functions Imply Secure Computation in a Quantum World [arXiv]J. Bartusek, A. Coladangelo, D. Khurana, F. Ma.CRYPTO 2021. QIP 2022 (Long plenary talk), QCrypt 2021 (Invited talk merged with arXiv:2011.14980).On the Round Complexity of Secure Quantum Computation [arXiv]J. Bartusek, A. Coladangelo, D. Khurana, F. Ma.CRYPTO 2021. Contributed talk at QIP 2021, QCrypt 2021.Device-independent quantum key distribution from computational assumptions [arXiv]T. Metger, Y. Dulek, A. Coladangelo, R. Arnon-Friedman.Contributed talk at QIP 2021 and QCrypt 2021 (merged with arXiv:2001.09161).Quantum copy-protection of compute-and-compare programs in the quantum random oracle model [arXiv]A. Coladangelo, C. Majenz, A. Poremba.Quantum (2024). Contributed talk at QIP 2021 (merged with arXiv 2101.12739).A quantum money solution to the blockchain scalabilty problem [arXiv]A. Coladangelo, O. Sattath.Quantum (2020). Contributed talk at QCrypt 2020.Non-interactive zero-knowledge arguments for QMA, with preprocessing [arXiv]A. Coladangelo, T. Vidick, T. Zhang.CRYPTO 2020. Contributed talk at QIP 2021.Additive entanglement measures cannot be more than asymptotically continuous [arXiv]A. Coladangelo, D. Leung.A two-player dimension witness based on embezzlement, and an elementary proof of the non-closure of the set of quantum correlations [arXiv]A. Coladangelo.Quantum (2020).Smart-contracts meet quantum cryptography [arXiv]A. Coladangelo.(superseded by arXiv:2002.11998).Unconditional separation of finite and infinite-dimensional quantum correlations [arXiv]A. Coladangelo, J. Stark.Nature Communications 11 (2020). QIP 2019 (Long plenary talk and best student paper award).Generalization of the Clauser-Horne-Shimony-Holt inequality self-testing maximally entangled states of any local dimension [arXiv]A. Coladangelo.Physical Review A, 98 (5), 052115 (2018).Robust self-testing for linear constraint system games [arXiv]A. Coladangelo, J. Stark.Contributed talk at QIP 2018.Verifier-on-a-leash: new schemes for verifiable delegated quantum computation, with quasilinear resources [arXiv]A. Coladangelo, A. Grilo, S. Jeffery, T. Vidick. Eurocrypt 2019. Contributed talk at QIP 2018. Separation of finite and infinite-dimensional quantum correlations, with infinite question or answer sets [arXiv]A. Coladangelo, J. Stark.(superseded by arXiv:1804.05116).Self-testing multipartite entangled state through projections onto two systems [arXiv]I. Supic, A. Coladangelo, R. Augusiak, A. Acin.New Journal of Physics 20 (8), 083041 (2018).All pure bipartite entangled states can be self-tested [arXiv]A. Coladangelo, K.T. Goh, V. Scarani.Nature Communications 8 (2017). Contributed talk at QIP 2018.Parallel self-testing of (tilted) EPR pairs via copies of (tilted) CHSH and the magic square game [arXiv]A. W. Coladangelo.Quantum Information and Computation Vol. 17, 9&10 (2017). Contributed talk at QIP 2017."
+      ],
+      "links": [
+        {
+          "href": "https://scholar.google.com/citations?user=IMZujucAAAAJ&hl=en",
+          "text": "Google Scholar"
+        },
+        {
+          "href": "https://arxiv.org/abs/2609.06038",
+          "text": "arXiv"
+        },
+        {
+          "href": "https://arxiv.org/abs/2608.17629",
+          "text": "arXiv"
+        },
+        {
+          "href": "https://sites.google.com/view/qipengliu",
+          "text": "Q. Liu"
+        },
+        {
+          "href": "https://zoeabcd.github.io/",
+          "text": "Z. Xie"
+        },
+        {
+          "href": "https://arxiv.org/abs/2608.31112",
+          "text": "arXiv"
+        },
+        {
+          "href": "https://www.dakshitakhurana.com/",
+          "text": "D. Khurana"
+        },
+        {
+          "href": "https://sites.google.com/view/saachimutreja",
+          "text": "S. Mutreja"
+        },
+        {
+          "href": "https://joeslote.com/",
+          "text": "J. Slote"
+        },
+        {
+          "href": "https://www.avishaytal.org/",
+          "text": "A. Tal"
+        },
+        {
+          "href": "https://arxiv.org/abs/2607.27184",
+          "text": "arXiv"
+        },
+        {
+          "href": "https://jerryzli.github.io/",
+          "text": "J. Li"
+        },
+        {
+          "href": "https://joeslote.com/",
+          "text": "J. Slote"
+        },
+        {
+          "href": "https://arxiv.org/abs/2606.24736",
+          "text": "arXiv"
+        },
+        {
+          "href": "https://chenboyang12.github.io/",
+          "text": "B. Chen"
+        },
+        {
+          "href": "https://sites.google.com/view/yao-ting-lin",
+          "text": "Y. Lin"
+        },
+        {
+          "href": "https://sites.google.com/view/nikos-skoumios",
+          "text": "N. Skoumios"
+        },
+        {
+          "href": "https://homes.cs.washington.edu/~ymwang25/",
+          "text": "Y. Wang"
+        },
+        {
+          "href": "https://arxiv.org/abs/2602.11616",
+          "text": "arXiv"
+        },
+        {
+          "href": "https://jerryzli.github.io/",
+          "text": "J. Li"
+        },
+        {
+          "href": "https://joeslote.com/",
+          "text": "J. Slote"
+        },
+        {
+          "href": "https://arxiv.org/abs/2510.07859",
+          "text": "arXiv"
+        },
+        {
+          "href": "https://brunopc.github.io/",
+          "text": "B. Cavalar"
+        },
+        {
+          "href": "https://chenboyang12.github.io/",
+          "text": "B. Chen"
+        },
+        {
+          "href": "https://www.graytmatter.com/",
+          "text": "M. Gray"
+        },
+        {
+          "href": "https://zihanhu.cn/",
+          "text": "Z. Hu"
+        },
+        {
+          "href": "https://sites.google.com/view/lixingjian/",
+          "text": "X. Li"
+        },
+        {
+          "href": "https://arxiv.org/abs/2509.01831",
+          "text": "arXiv"
+        },
+        {
+          "href": "https://sites.google.com/view/qipengliu",
+          "text": "Q. Liu"
+        },
+        {
+          "href": "https://zoeabcd.github.io/",
+          "text": "Z. Xie"
+        },
+        {
+          "href": "https://arxiv.org/abs/2506.22961",
+          "text": "arXiv"
+        },
+        {
+          "href": "https://arxiv.org/abs/2412.13266",
+          "text": "arXiv"
+        },
+        {
+          "href": "https://arxiv.org/abs/2404.03295",
+          "text": "arXiv"
+        },
+        {
+          "href": "https://chenboyang12.github.io/",
+          "text": "B. Chen"
+        },
+        {
+          "href": "https://orsattath.wordpress.com/about/",
+          "text": "O. Sattath"
+        },
+        {
+          "href": "https://arxiv.org/abs/2407.07908",
+          "text": "arXiv:2407.07908"
+        },
+        {
+          "href": "https://arxiv.org/abs/2402.08194",
+          "text": "arXiv"
+        },
+        {
+          "href": "https://sites.google.com/view/saachimutreja",
+          "text": "S. Mutreja"
+        },
+        {
+          "href": "https://arxiv.org/abs/2405.06787",
+          "text": "arXiv"
+        },
+        {
+          "href": "https://github.com/AtulSinghArora/QR/blob/master/_/README.md#atul-singh-arora",
+          "text": "A. S. Arora"
+        },
+        {
+          "href": "https://arxiv.org/abs/2311.07794",
+          "text": "arxiv"
+        },
+        {
+          "href": "https://people.eecs.berkeley.edu/~gunn/",
+          "text": "S. Gunn"
+        },
+        {
+          "href": "https://arxiv.org/abs/2302.12821",
+          "text": "arXiv"
+        },
+        {
+          "href": "https://arxiv.org/abs/2210.06454",
+          "text": "arXiv"
+        },
+        {
+          "href": "https://atulsingharora.github.io/",
+          "text": "A. S. Arora"
+        },
+        {
+          "href": "https://www.agheorghiu.com/",
+          "text": "A. Gheorghiu"
+        },
+        {
+          "href": "https://hendrikwaldner.github.io/",
+          "text": "H. Waldner"
+        },
+        {
+          "href": "https://arxiv.org/abs/2112.14988",
+          "text": "arXiv"
+        },
+        {
+          "href": "https://arxiv.org/abs/2011.13486",
+          "text": "arXiv"
+        },
+        {
+          "href": "https://www.cs.utexas.edu/~jiahui/",
+          "text": "J. Liu"
+        },
+        {
+          "href": "https://sites.google.com/view/qipengliu",
+          "text": "Q. Liu"
+        },
+        {
+          "href": "https://www.cs.princeton.edu/~mzhandry/",
+          "text": "M. Zhandry"
+        },
+        {
+          "href": "https://arxiv.org/abs/2011.13486",
+          "text": "arXiv"
+        },
+        {
+          "href": "https://sites.google.com/view/jamesbartusek",
+          "text": "J. Bartusek"
+        },
+        {
+          "href": "https://www.dakshitakhurana.com",
+          "text": "D. Khurana"
+        },
+        {
+          "href": "https://www.cs.princeton.edu/~fermim/",
+          "text": "F. Ma"
+        },
+        {
+          "href": "https://arxiv.org/abs/2011.14980",
+          "text": "arXiv:2011.14980"
+        },
+        {
+          "href": "https://arxiv.org/abs/2011.11212",
+          "text": "arXiv"
+        },
+        {
+          "href": "https://sites.google.com/view/jamesbartusek",
+          "text": "J. Bartusek"
+        },
+        {
+          "href": "https://www.dakshitakhurana.com",
+          "text": "D. Khurana"
+        },
+        {
+          "href": "https://www.cs.princeton.edu/~fermim/",
+          "text": "F. Ma"
+        },
+        {
+          "href": "https://arxiv.org/abs/2010.04175",
+          "text": "arXiv"
+        },
+        {
+          "href": "https://rotemaf.info",
+          "text": "R. Arnon-Friedman"
+        },
+        {
+          "href": "https://arxiv.org/abs/2009.13865",
+          "text": "arXiv"
+        },
+        {
+          "href": "http://www.christianmajenz.info",
+          "text": "C. Majenz"
+        },
+        {
+          "href": "http://www.its.caltech.edu/~aporemba/",
+          "text": "A. Poremba"
+        },
+        {
+          "href": "https://arxiv.org/abs/2002.11998",
+          "text": "arXiv"
+        },
+        {
+          "href": "https://orsattath.wordpress.com/about/",
+          "text": "O. Sattath"
+        },
+        {
+          "href": "https://arxiv.org/abs/1911.07546",
+          "text": "arXiv"
+        },
+        {
+          "href": "http://users.cms.caltech.edu/~vidick",
+          "text": "T. Vidick"
+        },
+        {
+          "href": "https://arxiv.org/abs/1910.11354",
+          "text": "arXiv"
+        },
+        {
+          "href": "http://www.math.uwaterloo.ca/~wcleung/",
+          "text": "D. Leung"
+        },
+        {
+          "href": "https://arxiv.org/abs/1904.02350",
+          "text": "arXiv"
+        },
+        {
+          "href": "https://arxiv.org/abs/1902.05214",
+          "text": "arXiv"
+        },
+        {
+          "href": "https://arxiv.org/abs/1804.05116",
+          "text": "arXiv"
+        },
+        {
+          "href": "https://jalexstark.com/",
+          "text": "J. Stark"
+        },
+        {
+          "href": "https://arxiv.org/abs/1803.05904",
+          "text": "arXiv"
+        },
+        {
+          "href": "https://arxiv.org/abs/1709.09267",
+          "text": "arXiv"
+        },
+        {
+          "href": "https://jalexstark.com/",
+          "text": "J. Stark"
+        },
+        {
+          "href": "https://arxiv.org/abs/1708.07359",
+          "text": "arXiv"
+        },
+        {
+          "href": "https://www.irif.fr/~abgrilo/",
+          "text": "A. Grilo"
+        },
+        {
+          "href": "http://homepages.cwi.nl/~jeffery/",
+          "text": "S. Jeffery"
+        },
+        {
+          "href": "http://users.cms.caltech.edu/~vidick",
+          "text": "T. Vidick"
+        },
+        {
+          "href": "http://arxiv.org/abs/1708.06522",
+          "text": "arXiv"
+        },
+        {
+          "href": "https://jalexstark.com/",
+          "text": "J. Stark"
+        },
+        {
+          "href": "https://arxiv.org/abs/1707.06534",
+          "text": "arXiv"
+        },
+        {
+          "href": "http://www.cft.edu.pl/users/raugusiak",
+          "text": "R. Augusiak"
+        },
+        {
+          "href": "https://arxiv.org/abs/1611.08062",
+          "text": "arXiv"
+        },
+        {
+          "href": "https://sites.google.com/site/valeriosgroup/group-members/valerio-scarani-homepage/",
+          "text": "V. Scarani"
+        },
+        {
+          "href": "https://arxiv.org/abs/arXiv:1609.03687",
+          "text": "arXiv"
+        }
+      ],
+      "images": [],
+      "embeds": []
+    },
+    {
+      "source_url": "https://www.andreacoladangelo.com/talks",
+      "original_path": "/talks",
+      "file": "talks/index.html",
+      "title": "Andrea Coladangelo's Homepage - Talks",
+      "source_blocks": [
+        "Quantum trapdoor functions from classical one-way functions -- Workshop on Minimal Assumptions in Quantum Cryptography, Simons Institute, June 2023Quantum cryptography: a modern view -- University of Washington, QISE Seminar, March 2023Quantum trapdoor functions from classical one-way functions -- University of Washington, Theory Seminar, January 2023Deniable encryption in a quantum world -- University of Ottawa quantum cryptography seminar, October 2022Deniable encryption in a quantum world -- STOC 2022, Rome, June 2022 (video)Deniable encryption in a quantum world -- UC Santa Barbara Theory Colloquium, December 2021One-way functions imply secure computation in a quantum world -- Quantum Wave in Computing Reunion, Simons Institute, July 2021 (video)Non-interactive zero-knowledge arguments for QMA, with preprocessing -- Quantum Information Seminar, Perimeter Institute, September 2020Non-interactive zero-knowledge arguments for QMA, with preprocessing -- Workshop on Quantum Information, Computation, and Foundation, Yukawa Institute for Theoretical Physics, Kyoto University, September 2020 (video) A quantum money solution to the blockchain scalability problem -- QCrypt 2020, August 2020 (video)Self-testing as an approach to certifying quantum systems -- Workshop on Quantum Protocols: Testing & Quantum PCPs, Simons Institute, March 2020 (video)Non-interactive zero-knowledge arguments for QMA, with preprocessing -- Quantum Seminar, Simons Institute, March 2020A two-player dimension witness based on embezzlement -- QuICS, University of Maryland, October 2019 (video)A two-player dimension witness based on embezzlement -- IQC Waterloo, June 2019A two-player dimension witness based on embezzlement -- UC Berkeley quantum lunch, May 2019Unconditional separation of finite and infinite-dimensional quantum correlations -- Caltech IQIM Seminar, January 2019Unconditional separation of finite and infinite-dimensional quantum correlations -- QIP 2019 (plenary), University of Colorado, Boulder, January 2019 (video)Unconditional separation of finite and infinite-dimensional quantum correlations -- Quantum Innovators Workshop, IQC Waterloo, October 2018All pure bipartite entangled states can be self-tested -- QIP 2018, Delft, January 2018 (video)Verifier-on-a-leash: New schemes for two-prover verifiable delegated quantum computation -- QIP 2018, Delft, January 2018 (video)Verifier-on-a-leash: New schemes for two-prover verifiable delegated quantum computation -- ICFO Seminar, July 2017Verifier-on-a-leash: New schemes for two-prover verifiable delegated quantum computation -- ETH Zurich, July 2017All pure bipartite entangled states can be self-tested -- TQC 2017, Paris, June 2017Parallel self-testing of (tilted) EPR pairs via copies of (tilted) CHSH -- QIP 2017, Seattle, January 2017 (video)"
+      ],
+      "links": [
+        {
+          "href": "https://www.youtube.com/watch?v=X_FG4rAyuG0",
+          "text": "video"
+        },
+        {
+          "href": "https://www.youtube.com/watch?v=vbEQPZhI0Pk",
+          "text": "video"
+        },
+        {
+          "href": "http://www2.yukawa.kyoto-u.ac.jp/~qicf20/AndreaColadangelo.mp4",
+          "text": "video"
+        },
+        {
+          "href": "https://www.youtube.com/watch?v=P5fpNHi9wLc",
+          "text": "video"
+        },
+        {
+          "href": "https://www.youtube.com/watch?v=pO-mzsZuCYo&feature=emb_title",
+          "text": "video"
+        },
+        {
+          "href": "https://www.youtube.com/watch?v=WP2dzRlTdz0&t=3074s&frags=pl%2Cwn",
+          "text": "video"
+        },
+        {
+          "href": "https://www.youtube.com/watch?v=TSDFgg5-qY8&t=1221s",
+          "text": "video"
+        },
+        {
+          "href": "https://collegerama.tudelft.nl/Mediasite/Showcase/qip2018/Presentation/e635cc1235204642afc3d78df0b9f1621d",
+          "text": "video"
+        },
+        {
+          "href": "https://collegerama.tudelft.nl/Mediasite/Showcase/qip2018/Presentation/69349212eebb4e7cbb0d65429cca26dd1d",
+          "text": "video"
+        },
+        {
+          "href": "https://www.youtube.com/watch?v=TP7jMlE5qCk&t=856s&frags=pl%2Cwn",
+          "text": "video"
+        }
+      ],
+      "images": [],
+      "embeds": []
+    },
+    {
+      "source_url": "https://www.andreacoladangelo.com/teaching",
+      "original_path": "/teaching",
+      "file": "teaching/index.html",
+      "title": "Andrea Coladangelo's Homepage - Teaching",
+      "source_blocks": [
+        "Courses:CSE 421 \"Introduction to Algorithms (undergraduate)\" (Autumn 2026)CSE 434 \"Intro to Quantum Computation (undergraduate)\" (Spring 2026)CSE 599C \"Modern Quantum Cryptography (graduate)\" (Winter 2026)CSE 421 \"Introduction to Algorithms (undergraduate)\" (Autumn 2025)CSE 434 \"Intro to Quantum Computation (undergraduate)\" (Spring 2025)CSE 599C \"Special Topics: Quantum Learning Theory (graduate)\" (Winter 2025)CSE 434 \"Intro to Quantum Computation (undergraduate)\" (Spring 2024)CSE 534 \"Quantum Information and Computation (graduate)\" (Autumn 2023)CSE 434 \"Intro to Quantum Computation (undergraduate)\" (Spring 2023) (CSE undergraduate teaching award)Other:Random and Pseudorandom Quantum States (Barbados Crypto Workshop 2024)Running quantum programs on quantum devices in the cloud: tutorial and homeworks"
+      ],
+      "links": [
+        {
+          "href": "/teaching/cse421au26",
+          "text": "CSE 421 \"Introduction to Algorithms (undergraduate)\""
+        },
+        {
+          "href": "/teaching/cse434sp26",
+          "text": "CSE 434 \"Intro to Quantum Computation (undergraduate)\""
+        },
+        {
+          "href": "/teaching/modernquantumcryptowi26",
+          "text": "CSE 599C \"Modern Quantum Cryptography (graduate)\""
+        },
+        {
+          "href": "/teaching/cse421au25",
+          "text": "CSE 421 \"Introduction to Algorithms (undergraduate)\""
+        },
+        {
+          "href": "/teaching/cse434sp25",
+          "text": "CSE 434 \"Intro to Quantum Computation (undergraduate)\""
+        },
+        {
+          "href": "/teaching/quantumlearningtheorywi25",
+          "text": "CSE 599C \"Special Topics: Quantum Learning Theory (graduate)\""
+        },
+        {
+          "href": "/teaching/cse493qsp24",
+          "text": "CSE 434 \"Intro to Quantum Computation (undergraduate)\""
+        },
+        {
+          "href": "/teaching/cse-599qau23",
+          "text": "CSE 534 \"Quantum Information and Computation (graduate)\""
+        },
+        {
+          "href": "/teaching/cse493qsp23",
+          "text": "CSE 434 \"Intro to Quantum Computation (undergraduate)\""
+        },
+        {
+          "href": "/teaching/barbados2024",
+          "text": "Random and Pseudorandom Quantum States"
+        },
+        {
+          "href": "/teaching/quantumprogramming",
+          "text": "tutorial and homeworks"
+        }
+      ],
+      "images": [],
+      "embeds": []
+    },
+    {
+      "source_url": "https://www.andreacoladangelo.com/teaching/barbados2024",
+      "original_path": "/teaching/barbados2024",
+      "file": "teaching/barbados2024/index.html",
+      "title": "Andrea Coladangelo's Homepage - Barbados2024",
+      "source_blocks": [
+        "\"Random and Pseudorandom Quantum States\"(Barbados Crypto Workshop 2024)",
+        "Handwritten NotesDay 1Day 2Day 3Day 4"
+      ],
+      "links": [
+        {
+          "href": "https://drive.google.com/file/d/1R0HtBnQJQM7OVjejFgiwFUroC1y6Cvu7/view?usp=sharing",
+          "text": "Day 1"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1kA3CQ5S5w2DlrN_lHf80h0U0nfppn3pu/view?usp=sharing",
+          "text": "Day 2"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1-fmqXGhqfubsY3AaT-KdZyhXQJkgPcKj/view?usp=sharing",
+          "text": "Day 3"
+        },
+        {
+          "href": "https://drive.google.com/file/d/169vqqx2GlH2C8qMfm5ZNCJ1mHK4T-UBu/view?usp=sharing",
+          "text": "Day 4"
+        }
+      ],
+      "images": [],
+      "embeds": []
+    },
+    {
+      "source_url": "https://www.andreacoladangelo.com/teaching/cse-599qau23",
+      "original_path": "/teaching/cse-599qau23",
+      "file": "teaching/cse-599qau23/index.html",
+      "title": "Andrea Coladangelo's Homepage - CSE 599Qau23",
+      "source_blocks": [
+        "CSE 534: \"Quantum Information and Computation\"(Autumn 2023)*this particular iteration of the course was officially designated as 599Q, but is now offered each year as 534",
+        "Course InformationInstructor: Andrea ColadangeloTAs: Xun Cao, Lukshya GanjooTime & location: Tuesdays and Thursdays 11.30am-12.50pm, CSE2 G01 (remote until further notice. Zoom link on Ed Discussion)Class Q&A: Ed DiscussionOffice hours: Xun: Wednesday 4.30-5.30pm (CSE2 151)Andrea: Thursday 4.30-5.30pm (same zoom link as for lecture for the time being. Eventually CSE2 212)Lukshya: Monday 2.30-3.30pm (CSE2 151)",
+        "Course DescriptionThis is an introduction to quantum information and computation aimed at graduate students. The goal of the course is to understand and familiarize with the fundamentals from an abstract point of view, while exploring several key applications. This will be almost entirely a theory course, with a small programming component (running algorithms on quantum devices in the cloud).Prerequisites: Students should eitherHave a solid background in mathematics and/or theoretical computer science (e.g. having taken multiple upper-level or graduate level classes, including at least one upper-level abstract linear algebra class), ORHave done very well in the undergraduate “Intro to Quantum Computation” class CSE 493Q, or have equivalent experience (please check with the instructor if unsure).",
+        "Tentative Schedule09/28: Course overview. Linear algebra review. (slides, notes)10/03: Linear algebra review (continued). (notes)10/05: Axioms of quantum mechanics, qubits, bra-ket notation. (notes)10/10: Axioms of quantum mechanics (continued). Elitzur-Vaidman tester. (notes)10/12: Elitzur-Vaidman tester (continued). Tensor products and states of multiple qubits. Entanglement. (slides, notes)10/17: Multi-qubit measurements and gates. Partial measurements. Non-local games. (notes, slides)10/19: Magic square game perfect quantum strategy. (notes)10/24: Magic square game perfect strategy (continued). CHSH game. (notes)10/26: CHSH game optimal quantum strategy. Tsirelson's bound. (notes)10/31: Tsirelson's bound (continued). Mixed states and density matrices. (notes)11/02: No class (take home midterm).11/07: Mixed states and density matrices (continued). The quantum one-time pad. Quantum circuit model. (notes)11/09: Midterm review.11/14: Universal gate sets. Reversible computation. (notes)11/16: Deutsch's and Simon's algorithms. (slides)11/21: Simon's algorithm (continued). Grover's algorithm. (notes)11/23: No class (Thanksgiving).11/28: Grover's algorithm (analysis). Amplitude amplification. (notes)11/30: Period-finding and QFT. (notes)12/05: Period-finding and QFT (continued). Phase Estimation. (notes)12/07: Shor's algorithm. Hamiltonian Simulation. (notes, slides)",
+        "Homeworks & Exams(submissions are all on Gradescope)HW1 (due Monday 10/09 at 11.59pm): pdfHW2 (due Monday 10/23 at 11.59pm): pdfMidterm (due Monday 11/06 at 11.59pm, no extension tokens allowed): pdfHW3 (due Wednesday 11/29 at 11.59pm): pdfFinal (due Thursday 12/14 at 11.59pm): pdf",
+        "GradingThree homeworks 50%, take-home midterm 25%, take-home final 25%",
+        "Late submissionsYou have three tokens for a 24h late submission (no questions asked). These can be used on homeworks, but not on the midterm and final. You may use more than one on the same homework. Late submissions without tokens left will be accepted only in exceptional circumstances."
+      ],
+      "links": [
+        {
+          "href": "https://docs.google.com/presentation/d/1AFjcNXkt9VZqX-ysezrCnoTmL0B6AHCN/edit?usp=share_link&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "slides"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1v83CElEJjHeegVwAP3bEJqrq6hRt2zl6/view?usp=share_link",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1Q-TMRHyV14eN7tVsrQcYiNMoIPQeycoC/view?usp=share_link",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1ZYt2KsByGDxo_fyvePb6i6YNLBFnea4J/view?usp=share_link",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/19WKFLtZw0fvtpyfgAxxyrCiIsGLd47s2/view?usp=share_link",
+          "text": "notes"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/1xSdJEb3w9iG63HNILQghegKh0h7JNXTj/edit?usp=share_link&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "slides"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1c0Kutr-ntwZ5XPNi9PDpWWUF7qYnUSZr/view?usp=share_link",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1kIoBPOAs3nl9PCEMYftYLIsmMN1oNJII/view?usp=share_link",
+          "text": "notes"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/14raqIi7w8bkkDwWBaW6qbCMpGQiSWV8l/edit?usp=share_link&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "slides"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1DKRM_sX1byv6gtE2Kzo_md6jUr9XPOiS/view?usp=share_link",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1YMdTJLgUBP5mtSNhiFvNa-vsFrWJLel8/view?usp=share_link",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1X8mafwAdwGub1miIm3bR8q263Xhn76r8/view?usp=share_link",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1YxbaDC2q3g9_bMC-lpVT8l2Hi7s_zOQ4/view?usp=share_link",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1g2X2twi7wnoeSlLWvf5LOKhI_5c5CMyn/view?usp=share_link",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1pZerrvBeBYA4fkNh8BWlRLHi80eCT_sL/view?usp=share_link",
+          "text": "notes"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/1Bn1thmaESn4cI5EEzVl348NG9pJvYBt6/edit?usp=share_link&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "slides"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1e011AVvlLdK2xG9pEHu5veRhZUkV7A2z/view?usp=share_link",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1lsdrDvdxGx7_cdBExIBRZ-Otge4W8-rw/view?usp=share_link",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1TWT2UihATPwwtQtbujOBffHo0RzRB5jj/view?usp=share_link",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1RHaIybpxmT1sYiPmZ-EhG4e5RqECFxBM/view?usp=share_link",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1AVLSNPaQDlWa-jhmsUPO2_XgXkJ3kYEQ/view?usp=share_link",
+          "text": "notes"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/1AbG-AbRZFiZuvsEcw2qY1OS9_-fYHj69/edit?usp=share_link&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "slides"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1vFGFNU6SQMnjW1EMaIoddGP4LaIYNDcD/view?usp=share_link",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1HEhW9tgFacNmhFE2ETp1R-e7ZHSggY3z/view?usp=share_link",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1-hzptIiwf9gsLmofSmX5rJSvhJKvufff/view?usp=share_link",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1Isadgytz5r2utmkZqWZyEcvHwoOBO-87/view?usp=share_link",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1je8vt1lo82PWu3JZx1_9jvMmI_TpmRUw/view?usp=share_link",
+          "text": "pdf"
+        }
+      ],
+      "images": [],
+      "embeds": []
+    },
+    {
+      "source_url": "https://www.andreacoladangelo.com/teaching/cse421au25",
+      "original_path": "/teaching/cse421au25",
+      "file": "teaching/cse421au25/index.html",
+      "title": "Andrea Coladangelo's Homepage - CSE421au25",
+      "source_blocks": [
+        "CSE 421: \"Introduction to Algorithms\" (Autumn 2025)",
+        "Home Syllabus Calendar Lecture & Section Material Assignments Exams Course Staff",
+        "Welcome to the Autumn 2025 edition of CSE 421! See the links above for more information.You can find office hour information in Course Staff or Calendar."
+      ],
+      "links": [
+        {
+          "href": "/teaching/cse421au25",
+          "text": "Home"
+        },
+        {
+          "href": "/teaching/cse421au25/syllabus",
+          "text": "Syllabus"
+        },
+        {
+          "href": "/teaching/cse421au25/calendar",
+          "text": "Calendar"
+        },
+        {
+          "href": "/teaching/cse421au25/lecturematerial",
+          "text": "Lecture & Section Material"
+        },
+        {
+          "href": "/teaching/cse421au25/hw",
+          "text": "Assignments"
+        },
+        {
+          "href": "/teaching/cse421au25/exams",
+          "text": "Exams"
+        },
+        {
+          "href": "/teaching/cse421au25/staff",
+          "text": "Course Staff"
+        },
+        {
+          "href": "/teaching/cse421au25/staff",
+          "text": "Course Staff"
+        },
+        {
+          "href": "/teaching/cse421au25/calendar",
+          "text": "Calendar"
+        }
+      ],
+      "images": [],
+      "embeds": []
+    },
+    {
+      "source_url": "https://www.andreacoladangelo.com/teaching/cse421au25/calendar",
+      "original_path": "/teaching/cse421au25/calendar",
+      "file": "teaching/cse421au25/calendar/index.html",
+      "title": "Andrea Coladangelo's Homepage - Calendar",
+      "source_blocks": [
+        "CSE 421: \"Introduction to Algorithms\" (Autumn 2025)",
+        "Home Syllabus Calendar Lecture & Section Material Assignments Exams Course Staff",
+        "*lectures & sections are 50 minutes, even though calendar shows 1hr."
+      ],
+      "links": [
+        {
+          "href": "/teaching/cse421au25",
+          "text": "Home"
+        },
+        {
+          "href": "/teaching/cse421au25/syllabus",
+          "text": "Syllabus"
+        },
+        {
+          "href": "/teaching/cse421au25/calendar",
+          "text": "Calendar"
+        },
+        {
+          "href": "/teaching/cse421au25/lecturematerial",
+          "text": "Lecture & Section Material"
+        },
+        {
+          "href": "/teaching/cse421au25/hw",
+          "text": "Assignments"
+        },
+        {
+          "href": "/teaching/cse421au25/exams",
+          "text": "Exams"
+        },
+        {
+          "href": "/teaching/cse421au25/staff",
+          "text": "Course Staff"
+        }
+      ],
+      "images": [],
+      "embeds": [
+        {
+          "kind": "html",
+          "code": "<!-- Elfsight Event Calendar | CSE 421 -->\n<script src=\"https://elfsightcdn.com/platform.js\" async></script>\n<div class=\"elfsight-app-500fec4f-3c56-49c3-80fc-9e1b97ce0373\" data-elfsight-app-lazy></div>"
+        }
+      ]
+    },
+    {
+      "source_url": "https://www.andreacoladangelo.com/teaching/cse421au25/exams",
+      "original_path": "/teaching/cse421au25/exams",
+      "file": "teaching/cse421au25/exams/index.html",
+      "title": "Andrea Coladangelo's Homepage - Exams",
+      "source_blocks": [
+        "CSE 421: \"Introduction to Algorithms\" (Autumn 2025)",
+        "Home Syllabus Calendar Lecture & Section Material Assignments Exams Course Staff",
+        "ExamsMidterm: Monday Nov 3, 5.30-7.20pm, ECE 105Final: Monday Dec 8, 2.30-4.20pm, Gates G20"
+      ],
+      "links": [
+        {
+          "href": "/teaching/cse421au25",
+          "text": "Home"
+        },
+        {
+          "href": "/teaching/cse421au25/syllabus",
+          "text": "Syllabus"
+        },
+        {
+          "href": "/teaching/cse421au25/calendar",
+          "text": "Calendar"
+        },
+        {
+          "href": "/teaching/cse421au25/lecturematerial",
+          "text": "Lecture & Section Material"
+        },
+        {
+          "href": "/teaching/cse421au25/hw",
+          "text": "Assignments"
+        },
+        {
+          "href": "/teaching/cse421au25/exams",
+          "text": "Exams"
+        },
+        {
+          "href": "/teaching/cse421au25/staff",
+          "text": "Course Staff"
+        }
+      ],
+      "images": [],
+      "embeds": []
+    },
+    {
+      "source_url": "https://www.andreacoladangelo.com/teaching/cse421au25/hw",
+      "original_path": "/teaching/cse421au25/hw",
+      "file": "teaching/cse421au25/hw/index.html",
+      "title": "Andrea Coladangelo's Homepage - HW",
+      "source_blocks": [
+        "CSE 421: \"Introduction to Algorithms\" (Autumn 2025)",
+        "Home Syllabus Calendar Lecture & Section Material Assignments Exams Course Staff",
+        "Blank homework template that you can use. When compiled, it looks like this.",
+        "HomeworksHomework 1 (due Thursday Oct 2 at 11.59pm): pdfHomework 2 (due Thursday Oct 9 at 11.59pm): pdfHomework 3 (due Friday Oct 17 at 10am): pdfHomework 4 (due Thursday Oct 23 at 11.59pm): pdfHomework 5 (due Thursday Oct 30 at 11.59pm): pdfHomework 6 (due Friday Nov 14 at 10am): pdfHomework 7 (due Friday Nov 21 at 10am): pdfHomework 8 (due Monday Dec 1 at 10am): pdf"
+      ],
+      "links": [
+        {
+          "href": "/teaching/cse421au25",
+          "text": "Home"
+        },
+        {
+          "href": "/teaching/cse421au25/syllabus",
+          "text": "Syllabus"
+        },
+        {
+          "href": "/teaching/cse421au25/calendar",
+          "text": "Calendar"
+        },
+        {
+          "href": "/teaching/cse421au25/lecturematerial",
+          "text": "Lecture & Section Material"
+        },
+        {
+          "href": "/teaching/cse421au25/hw",
+          "text": "Assignments"
+        },
+        {
+          "href": "/teaching/cse421au25/exams",
+          "text": "Exams"
+        },
+        {
+          "href": "/teaching/cse421au25/staff",
+          "text": "Course Staff"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1n99w47qMewaWjEjXm-KoTjsBuZjCtcs3/view?usp=sharing",
+          "text": "template"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1pca2jM7nkWfzGrxRWMY8Llzxi--z5xVF/view?usp=sharing",
+          "text": "this"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1axVtoDZ2w4cn-m6kn3_m2yPw2OrmdkM7/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1SwUPi8ROy_jJU2w059wQ2N28vlYL9gXJ/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1OaJ4Qgbxg81bQS5ajlTmfo6wSlKsVuAM/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1B1eLhUSYaNRt6voantfAK9mg4hsHetxe/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1cxwQWaIf-EaZs3l2ATdt36eGWKF72ndR/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1N40u3-aw97a88n8dvtdZfVD5uDLAG33V/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/12naRKVppAjC4x9qnLPG4iHQ67ZPZY3lM/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/13oVAjDpkzKBVr82hXsSmjPYC1kHnXNXI/view?usp=sharing",
+          "text": "pdf"
+        }
+      ],
+      "images": [],
+      "embeds": []
+    },
+    {
+      "source_url": "https://www.andreacoladangelo.com/teaching/cse421au25/lecturematerial",
+      "original_path": "/teaching/cse421au25/lecturematerial",
+      "file": "teaching/cse421au25/lecturematerial/index.html",
+      "title": "Andrea Coladangelo's Homepage - LectureMaterial",
+      "source_blocks": [
+        "CSE 421: \"Introduction to Algorithms\" (Autumn 2025)",
+        "Home Syllabus Calendar Lecture & Section Material Assignments Exams Course Staff",
+        "*The lecture and section material below is based heavily on previous CSE 421 iterations by Robbie Weber and Chinmay Nirkhe.*Slides were created in keynote (and are best viewed in that format). The converted ppt file has occasional formatting issues.",
+        "Lectures09/24: Logistics; stable matchings (slides: keynote, ppt, pdf)09/26: More stable matchings (slides: keynote, ppt, pdf)09/29: Graph traversal; Breadth-First Search (slides: keynote, ppt, pdf)10/01: BFS, DFS, and applications (bipartiteness testing) (slides: keynote, ppt, pdf)10/03: DFS and applications (cycle detection, topological sorting) (slides: keynote, ppt, pdf)10/06: Graph modeling; Greedy algorithms (intro and interval scheduling) (slides: keynote, ppt, pdf)10/08: Greedy graph algorithms (minimum spanning trees) (slides: keynote, ppt, pdf)10/10: Greedy graph approximation algorithms (max cut) (slides: keynote, ppt, pdf)10/13: Divide and Conquer (mergesort, 2D closest pair)(slides: keynote, ppt, pdf)10/15: Divide and Conquer (runtimes, Strassen's matrix multiplication) (slides: keynote, ppt, pdf)10/17: Divide and Conquer (Karatsuba's integer multiplication, median finding) (slides: keynote, ppt, pdf)10/20: Divide and Conquer (median/selection finding) (slides: keynote, ppt, pdf)10/22: Dynamic Programming (memoization, edit distance) (slides: keynote, ppt, pdf)10/24: Dynamic Programming (edit distance, knapsack) (slides: keynote, ppt, pdf)10/27: Dynamic Programming (Bellman-Ford) (slides: keynote, ppt, pdf)10/29: Dynamic Programming (Bellman-Ford continued) (slides: keynote, ppt, pdf)11/05: Max Flow and Min Cut (intro) (slides: keynote, pdf)11/07: Max Flow and Min Cut (Ford-Fulkerson) (slides: keynote, ppt, pdf)11/10: Max Flow and Min Cut (Ford-Fulkerson continued, and Max Flow-Min Cut theorem) (slides: keynote, ppt, pdf)11/12: Max Flow and Min Cut (Faster algorithms, and applications) (slides: keynote, ppt, pdf)11/14: Wrapping up Max Flow & Intro to P, NP, and reductions (slides: keynote, ppt, pdf)11/17: NP-completeness (slides: keynote, ppt, pdf)11/19: More NP-completeness (slides: keynote, ppt, pdf)11/21: More NP-completeness (3-SAT) (slides: keynote, ppt, pdf)11/24: More NP-completeness (Vertex Cover and 3-coloring) (slides: keynote, ppt, pdf)11/27: Linear Programming (slides: keynote, ppt, pdf)12/01: Linear Programming (optimal solutions, and simplex method) (slides: keynote, ppt, pdf)12/03: Linear Programming (simplex method continued, LP approximation of vertex cover) (slides: keynote, ppt, pdf)",
+        "Section09/25: slides, handout, solutions10/02: slides, handout, solutions10/09: slides, handout, solutions10/16: slides, handout, solutions10/23: slides, handout, solutions10/30: slides, handout, solutions11/06: slides, handout, solutions11/13: slides, handout, solutions11/20: slides, handout, solutions12/04: slides, handout, solutions"
+      ],
+      "links": [
+        {
+          "href": "/teaching/cse421au25",
+          "text": "Home"
+        },
+        {
+          "href": "/teaching/cse421au25/syllabus",
+          "text": "Syllabus"
+        },
+        {
+          "href": "/teaching/cse421au25/calendar",
+          "text": "Calendar"
+        },
+        {
+          "href": "/teaching/cse421au25/lecturematerial",
+          "text": "Lecture & Section Material"
+        },
+        {
+          "href": "/teaching/cse421au25/hw",
+          "text": "Assignments"
+        },
+        {
+          "href": "/teaching/cse421au25/exams",
+          "text": "Exams"
+        },
+        {
+          "href": "/teaching/cse421au25/staff",
+          "text": "Course Staff"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1ZQPPZABbLP-gMui737BT9Fb7GG0TeJSC/view?usp=sharing",
+          "text": "keynote"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/1Rdpmu_ufASxAaS5eYceqzAB-I1dD2CNE/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "ppt"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1U2oLr7dUKZCBsKdhwUBkRz4EZ8c-1syt/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/11RPBZ6A39o-NzYkPwhzUK4N9PY6oaGIo/view?usp=sharing",
+          "text": "keynote"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/1TvglrjOww__dVh4kg8I6B8UHLklZoGJT/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "ppt"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1tj-u885EpeFSuGpcfhHar48QByojJhWJ/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1T_bZ96xDumbXJ8wJJC_mscmaOhnZnm4_/view?usp=sharing",
+          "text": "keynote"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/1JJqv02Nyyw5Za9Ctt-uOQbw_-nmAKVKm/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "ppt"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1YBB5DJrKCn7S6KQ7GpSAmab9AeRrS_xZ/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/13YTHG6U9n5C22tnYyCnVyu5sT1keRZz8/view?usp=sharing",
+          "text": "keynote"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/1dvHaEG-fJuFn3g0hLU9g7He8ghR-RRyn/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "ppt"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1bDJ0vTXJeTB0-wbL9yU2rE_QSQstdLe9/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1ykvXNzA4Bb0S6BfYLtkAaqhMQWRKaWGv/view?usp=sharing",
+          "text": "keynote"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/1-FnJW-Bur866N5gsyeEi1sn48dZqNG2O/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "ppt"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1hNB6REjvnKGhyvgdVMKjYrVPSe36ow3l/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1IU7WzqEz-An5RaJiZcmAwWo7lW8Q43x6/view?usp=sharing",
+          "text": "keynote"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/1j0cFNp1RRS9AlFCCQjXV2h5ZOBr0o8yt/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "ppt"
+        },
+        {
+          "href": "https://drive.google.com/file/d/178Yy93lmARMxNWSoet2v6Z3iVNKHipDF/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1qy4JOX_dKrahm8XRdCX2TJkLGEllgO2-/view?usp=sharing",
+          "text": "keynote"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/1gSrc7uiOtRMTMm4PR8t_071PES3v02f2/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "ppt"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1VwAiDAWgDG1ytMIhrAAHOw1EjG5OJxct/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/148A8_4f49zp9B5enCaHPIHM7T4WYlEom/view?usp=sharing",
+          "text": "keynote"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/1dNWYp1kmmABWFPEcCXy5w0GhxNyBp5qG/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "ppt"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1skvadBdLfPbS4BGlMP7-ThOFBfK_15pw/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1zFcrcf9s54n1N9NTWgQ5qrtGuI3mJ_3U/view?usp=sharing",
+          "text": "keynote"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/1o482KWBbswq_6mTBWwJiAQ6RXYUnSADW/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "ppt"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1H93yaJgeQQ989WiQW7RV5-zZEb1OoQB1/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1zFcrcf9s54n1N9NTWgQ5qrtGuI3mJ_3U/view?usp=sharing",
+          "text": "keynote"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/1zCky5_U38FfNte4iMydlxPa0Cwru5-__/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "ppt"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1xBtu1MbSwwT0kXHTn4YTtmIipxyQH2xA/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/150OXjzvsrPU6wiHtwJ8u9FF3m7X4ht3_/view?usp=sharing",
+          "text": "keynote"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/1VyzNXOvpATI2Sca55s3dKljXud7GW0pd/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "ppt"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1kfSFxkgc4dOxvbrKa9azv9kt2wXzb_1O/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1Fd_IjZg-Jv0d75cDSWNLhIRFtKL071vv/view?usp=sharing",
+          "text": "keynote"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/17OBtToLvZDSfiSpCjabe7lto1D8Nvwo4/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "ppt"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1Fd_IjZg-Jv0d75cDSWNLhIRFtKL071vv/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1eTILPsahAhD6SdAJ_3CujJk8_ML00kzR/view?usp=sharing",
+          "text": "keynote"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/11eS2_Detu5bINDxEuK5B3YejCbArQXbd/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "ppt"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1Bs-BLlCcUiepHQPy49IeT8LABuLvmY_K/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1fS3mhVRglnagPWXiAWaySEAqDpAh1jqc/view?usp=sharing",
+          "text": "keynote"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/1G66Z8IKHAY5eVCCNUICC5I4AGvL-rjSa/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "ppt"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1-asZinibPM4Y-zlcjkbz0o_9y7-0Ztnj/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1-obuSTC9NxMziWEu8-X2inz5Ehm8VoBn/view?usp=sharing",
+          "text": "keynote"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/1V5DfoGzrr9xLlqsAabmEAJfo7-nvs49u/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "ppt"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1ue0GGRBO7jEC4fcSYi9iWFBfm9zKVOp3/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/17XV8tvO2yeJdT_yR4zbWTSQcKwCYK5CM/view?usp=sharing",
+          "text": "keynote"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/1fCQm2yryiB9wWkUIa-iPMP_CRGm3o_Fk/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "ppt"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1fE3vnlWRDGMpaAJpINnQ6zZBf-hugUDr/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1ZiXrdh8N49Jf1-etjTmuTQtkZ582ujD_/view?usp=sharing",
+          "text": "keynote"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1DkBpdCmw3MsE3q72tCFJB4QdrBRjxC6z/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1_YFl2SFoaOwZeUwNjcRfDsV4qZ2mksd-/view?usp=sharing",
+          "text": "keynote"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/1bttdpQ9PffQBD1EiHEeSXxDuNxml3iU4/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "ppt"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1VQjKNk_eWkQV0B2ITUNajqucOtlOTHaz/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1UlryctSaMqwvbwpz6MFnIpmb_erRMa0b/view?usp=sharing",
+          "text": "keynote"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/1hyL5MI4mkNGSeyd_SNsSibgbhfOpyDdS/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "ppt"
+        },
+        {
+          "href": "https://drive.google.com/file/d/16VykD9u0ianoyquAgSfyZ8e8rpOIsLI7/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1S7RQWexq6f6V6aRjUjnu0mGft2ZNEHYM/view?usp=sharing",
+          "text": "keynote"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/18gfSWvt2UXvcJEZjNPCQU3WZn88Ai42p/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "ppt"
+        },
+        {
+          "href": "https://drive.google.com/file/d/19E3OCf2n82FF3u7cg0ZX9saWOt0d_lel/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1rJtSIVP7vilY8MsyxO0PoqRzVrX4ijuV/view?usp=sharing",
+          "text": "keynote"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/13iWaM-6mVjJY6BqHs2Wd2lKzCZZ43Fjv/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "ppt"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1dlkjQcuDa3aF490Qzj3QzuQ5xeY_ZuvG/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1g7vl0X57CJ4g_LQquoEZeg2aFqhT_SUN/view?usp=sharing",
+          "text": "keynote"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/1b6wD8Pq1Sh464i3IZq8V_1e6GwtrS1p1/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "ppt"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1qLIMkmS2wwsx4FIdm9nXKko-StklMJqI/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1RVtfeT22nZtTvX_vi9YRFneeCkAfPUna/view?usp=sharing",
+          "text": "keynote"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/1QqzlOaGgFg1o3J8y9luW5CZQ5VxnQltD/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "ppt"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1rFfQr-Ya0w9j6a6LiEFu3-fmwa13y_-2/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1MRpOFG8AykmMlQP6VKnYBkoKBNwOuu9C/view?usp=sharing",
+          "text": "keynote"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1X3Xx2GQ0grtSOUiNc3-0OXtAM_q-m-M6/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1GJSMgyDdTCQFA4ZmyGvokU1Butjb4Jj-/view?usp=sharing",
+          "text": "keynote"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/1DGpN9yr0CEOkd5F7KoPQxF2iBAdiu-H3/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "ppt"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1ZVC7wJlNKfDiz-LVkGvpeu8qcwUa1-dN/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1QswtPqbQjg5I5jW7P2LfFrZgXJlT3EJs/view?usp=sharing",
+          "text": "keynote"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/1j_-DWZiGZPMoy80ATZce9ENwGlx3LuxE/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "ppt"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1rQMGjsrIFZnvMUR5bxgpbUKJzI1dvr7c/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1Gv4nuhm4QPf21wO20rzmbFJ1tiPD4tvO/view?usp=sharing",
+          "text": "keynote"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/1hRVsNR3fW6ywBcI3BOLty0bo7-Oj79S8/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "ppt"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1eo4fCU8eIme36QJ2WH2HogrkpWV1FEwp/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1Yc6FdNV3VrlSIcKiBjyksuQi-6wcCjDJ/view?usp=sharing",
+          "text": "keynote"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/1Af8rvPm9GrNR64Rc7mY8G5vAmbvlfAfz/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "ppt"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1hH0lf2EWY9t93gu55iikwHbhhVjfku5D/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/1bR0kGdKtuCYP84sE5FfYgi-LjVGK2tqY/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "slides"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1Bsg5xfms_qZG_Fv6r9Wt9le_-7478xC4/view?usp=sharing",
+          "text": "handout"
+        },
+        {
+          "href": "https://drive.google.com/file/d/12CvRipemw2y1Te7InRthz9lN6LTS9hOo/view?usp=sharing",
+          "text": "solutions"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/1BIPG9a1Qo5RBrL-qaYMEQVwjJIuabICd/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "slides"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1zEXV7IXBP1a_1sjvySYcK6ZXU5SVu3fE/view?usp=sharing",
+          "text": "handout"
+        },
+        {
+          "href": "https://drive.google.com/file/d/14aFyonULgw-Uin6uZht_t-rX3YSNBfNq/view?usp=sharing",
+          "text": "solutions"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/1ZLR1hbbExR0u2i2QD3pmidPCFRq2ar56/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "slides"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1Qbfs5hK3ClV7ZbAR9_kGdqvFLm-uBrRY/view?usp=sharing",
+          "text": "handout"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1KmJJciAbnwoPeszB4ip4df5TwIGm_nm2/view?usp=sharing",
+          "text": "solutions"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/1vKFhNvJV8yGm7BCOkZDw3m2OdNhRs23a/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "slides"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1PcPKmmVLmR2AAGJxzZAf0wPOW8n_JLF7/view?usp=sharing",
+          "text": "handout"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1QJXj4j9s6OvAe0E-3LzqEH8dl-gL44BI/view?usp=sharing",
+          "text": "solutions"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/134y1Esvw6zJTt9B3qfA-wxZLwo6K1hMK/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "slides"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1gez2rTw_h7ROwNVpj5my92gRFavDeiZj/view?usp=sharing",
+          "text": "handout"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1Qn1Q2nMl9Uji2WM5Bq0zIHddSIKPdrty/view?usp=sharing",
+          "text": "solutions"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/1YcUTnBRy2ongdROZ8-xMuk5tKp50E6ql/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "slides"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1gMXuGq-k8Fpu0U5Cw10v1vT6x6iSjK27/view?usp=sharing",
+          "text": "handout"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1e-ZQqeYANQ7_8DTM0pb_BDfE5H8AcTT-/view?usp=sharing",
+          "text": "solutions"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/10gIaWwlRpX8SHVplZGLUP2qwQufPycn1/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "slides"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1V36FaDl5X5lS7B9j74-ITco0GZiV4F0V/view?usp=sharing",
+          "text": "handout"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1RKepiQzVrUvKVft8Qg9wRsDNvdo0mi62/view?usp=sharing",
+          "text": "solutions"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/1irltRMpD1eybLPOcPT954JLVg_r5WBU_/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "slides"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1wj-5ZU2k4sxp3HEcIZR6no2X8HpCv865/view?usp=sharing",
+          "text": "handout"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1mSIxpxcXcA42D8XZt7zGZZWY4cH-aJ08/view?usp=sharing",
+          "text": "solutions"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/1mkSucI9HkkWWAl1bSt7jnWovt8DVQ_6l/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "slides"
+        },
+        {
+          "href": "https://drive.google.com/file/d/18dxgwOPogQj8uIReCGNNxa6wWnc6BySC/view?usp=sharing",
+          "text": "handout,"
+        },
+        {
+          "href": "https://drive.google.com/file/d/11HhN9dRCi-V_hd52GXcTd5ZfvmMF-3QI/view?usp=sharing",
+          "text": "solutions"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/1oUK84qzGc60HgCr8LER-XgodGDytWgrb/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "slides"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1-vpxWcZX0UNtvkxdl6bdGBoCD3Nrps98/view?usp=sharing",
+          "text": "handout"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1uCTV1wL4dmM9AdRXTC3NJCggK0CuCAZn/view?usp=sharing",
+          "text": "solutions"
+        }
+      ],
+      "images": [],
+      "embeds": []
+    },
+    {
+      "source_url": "https://www.andreacoladangelo.com/teaching/cse421au25/staff",
+      "original_path": "/teaching/cse421au25/staff",
+      "file": "teaching/cse421au25/staff/index.html",
+      "title": "Andrea Coladangelo's Homepage - Staff",
+      "source_blocks": [
+        "CSE 421: \"Introduction to Algorithms\" (Autumn 2025)",
+        "Home Syllabus Calendar Lecture & Section Material Assignments Exams Course Staff",
+        "Andrea ColadangeloInstructoremail: coladan@cs.washington.eduOffice hours: Monday 3pm (Gates 371)",
+        "Jay DharmadhikariHead TAemail: jayd1903@uw.eduOffice hours: Thursday 10.30am (Gates 131)",
+        "Timothy TranHead TAemail: timttran@cs.washington.eduOffice hours: Tuesday 10.30am (Allen 2nd floor breakout)",
+        "Toby ThornburgTAemail: tthornb1@cs.washington.eduOffice hours: Tuesday 7pm (Gates 121)",
+        "Parker VladimiroffTAemail: pvladim@uw.eduOffice hours: Tuesday 1.30pm (Allen 3rd floor breakout)",
+        "Diana HsiehTAemail: dhsieh3@uw.eduOffice hours: Wednesday 4.30pm (Allen 5th floor breakout)",
+        "Darin ErshovTAemail: dkershov@cs.washington.eduOffice hours: Thursday 1.30pm (Gates 121)",
+        "Ronald LinTAemail: rlin0622@cs.washington.eduOffice hours: Thursday 4.30pm (Allen 2nd floor breakout)",
+        "Frank LiuTAemail: frankl1u@cs.washington.eduOffice hours: Wednesday 2.30pm (Allen 3rd floor breakout)"
+      ],
+      "links": [
+        {
+          "href": "/teaching/cse421au25",
+          "text": "Home"
+        },
+        {
+          "href": "/teaching/cse421au25/syllabus",
+          "text": "Syllabus"
+        },
+        {
+          "href": "/teaching/cse421au25/calendar",
+          "text": "Calendar"
+        },
+        {
+          "href": "/teaching/cse421au25/lecturematerial",
+          "text": "Lecture & Section Material"
+        },
+        {
+          "href": "/teaching/cse421au25/hw",
+          "text": "Assignments"
+        },
+        {
+          "href": "/teaching/cse421au25/exams",
+          "text": "Exams"
+        },
+        {
+          "href": "/teaching/cse421au25/staff",
+          "text": "Course Staff"
+        },
+        {
+          "href": "mailto:coladan@cs.washington.edu",
+          "text": "coladan@cs.washington.edu"
+        },
+        {
+          "href": "mailto:jayd1903@uw.edu",
+          "text": "jayd1903@uw.edu"
+        },
+        {
+          "href": "mailto:timttran@cs.washington.edu",
+          "text": "timttran@cs.washington.edu"
+        },
+        {
+          "href": "mailto:tthornb1@cs.washington.edu",
+          "text": "tthornb1@cs.washington.edu"
+        },
+        {
+          "href": "mailto:pvladim@uw.edu",
+          "text": "pvladim@uw.edu"
+        },
+        {
+          "href": "mailto:dhsieh3@uw.edu",
+          "text": "dhsieh3@uw.edu"
+        },
+        {
+          "href": "mailto:dkershov@cs.washington.edu",
+          "text": "dkershov@cs.washington.edu"
+        },
+        {
+          "href": "mailto:rlin0622@cs.washington.edu",
+          "text": "rlin0622@cs.washington.edu"
+        },
+        {
+          "href": "mailto:frankl1u@cs.washington.edu",
+          "text": "frankl1u@cs.washington.edu"
+        }
+      ],
+      "images": [
+        {
+          "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uWn4irhuhCWBJxLgYPwEsGFOTyEcXo0EBJOoAeYE6ufz6ezf-yY3Qktfks1c1Gf749EmatTyEaut8paoW_jn2Dmuwy4e_yLHl7tw2PkqWa0Okw9ITelBsRYamqAdWNrgC7KtYjwocJCcuYdUhkxHtkqB-WtmMwItFdNOpT8zJk_xeCTeiphFAq7YOt8_xPb4rNCYA-sFAug8pPdujBpzZd9kb4eNQghFkfMEIUrvI=w1280",
+          "local": "assets/images/cse421au25-andrea-coladangelo.jpg"
+        },
+        {
+          "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vLqVracX7rZvvciFTCBTwYCb8FPU7ma49xpWIwOSm52bhR07G25h-5sYb0aKzhR7TBbMmuMw1EmupSv7A0vHddLgj0aJzFEzJgRobo9P3vfErsHsBuFJqI6mHhyuCd0cFg4kOEbdiTkXWRrYua66RYxsxd0BHo3ab9DsqaYiNUigzp8jKdaMTHBT01Ysy9SmMy0vUJ_VCpQWoYQs1-3-sq5xMSG5rql9CJutFRucc=w1280",
+          "local": "assets/images/cse421au25-jay-dharmadhikari.jpg"
+        },
+        {
+          "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vvLCKBpl7qxqS7vp3GwFabNvQao1wAgJoytxuZCI_-R2mGtGeTegRDARvwPGnmW8qzKZJJqG6VTRyncIWNfXeeD7XTJTGmTlgk0jkTd8b38ccdBHc-9Z9cpM5OFBnpLW9vl2T2GpiDUQlJpmXGoaNjgGguaiea0gSq4S5f9QUuGksNeowrATlG7BWXXTiZY0OK-dVNsP8FarhTbVeDOPMUY2s5lxJiTxh7F124-eI=w1280",
+          "local": "assets/images/cse421au25-timothy-tran.png"
+        },
+        {
+          "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72urxWAHp8_Nlb9M4pLlml2Y9fr1z-dlWYzbA0tE7jPK0F9Lr9myORObVEkkZvYn0fGfjTcUURiBnLjkv1Ey6K0IQzq1-UYHduehQMMreNrfG3B--0S8TEwRHn-JYG-stoF-oUwjOOkZSR0ijA5X0bpdLC7QJyXgI1I4k_cKScMo0SD0jRtxwF12iexTx4ZzG5SuJotJlyacsxl4KM9i7tMGvORtlpClKPr2h2QoZXA=w1280",
+          "local": "assets/images/cse421au25-toby-thornburg.jpg"
+        },
+        {
+          "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tPMUtPZfBtjaw4QxKQ7sP-rtSAJSi5ghz3d3aiQpXHKcVnHaGt8Nf0rtRnU7_5EXKDF2L5tWzuvwRPwqrivkxcjfW0danv-r2ExdDCumZJ5Ll3DTV1TvZdOU7ovoWMTNLiFvA-l2D_X8q7I9KSuflokKloPIu1WDE1BwKG9LYXT1ytaIt5054zLKEjsRxr27RkXGRgFHqdyy8y9oTE62FoQYziTiT3IsLQqJs0=w1280",
+          "local": "assets/images/cse421au25-parker-vladimiroff.jpg"
+        },
+        {
+          "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uCmkZhdihRp43OtT81F1wJjT9wEZb4DRRhgH_vJ7wRg7xcMHkipo5jKcWNI_6J0OTnDUROd_nO2lFF6XqnYAzDjy7q7lpHXllPPBXztnfjhSF9zhgR_VSsxgRM5kKB61M5e32trgSPBW3UgF_rX7DyjJ0SNl2sWfQOQ7FJwDJ97M5x3Rn2SIfCjKtsjLt-wWftQ-7A741gEtSjwt5Nu_nQeFXOzmZo0WN4BD7GQAw=w1280",
+          "local": "assets/images/cse421au25-diana-hsieh.png"
+        },
+        {
+          "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vgJrXuI2LL24IolFC-6odpUrT0uOyWiPX1Hn3e6uQACnmwCzU-OH_LRCX5CpEcfN3Dgohm1K-fmgmFqjDaCPktMtfPYsHg37n-45huDafEw99QifIGf4B9Zo2lR5G7u2F2Y7ZRmNrNFSE72sPtTM84j6x-58na_NYbcXlIS1NS0_9ljGBcUA6HoeHj7IKQO2rgp-LWPMeLq5KKO4bw1GaXio47Tyixy6fH-Ptfosw=w1280",
+          "local": "assets/images/cse421au25-darin-ershov.jpg"
+        },
+        {
+          "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72s4L5WeYxhWuziMYnF0qOqAQXrtiDHP_XUXoXd8EpMrNBTG_WMt4xjNb_q8g_Ol1solL9nTB7cIVNoQ-joxF89gDapGr5sqCzfXo5vYlGr5x9W15OQNer68v64dabxvqMuxQTR2QWZGx1kDSL9tDvXz4csQjmv8zJ5gY-etGOTt75r4NWAbNFBAuKm6SYePwhMdTqrVoyHIEnHy6z4zskfCT5cDCu3mipM8eTDrnnw=w1280",
+          "local": "assets/images/cse421au25-ronald-lin.jpg"
+        },
+        {
+          "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vwV5xMU9zZqFCCqpUIdpkYGL1URl8hqONFmTwN9EIfS10EaXIVApdYWE19IpnS_p9IFWTZQuYoXjxIeKLG6UbixlzfLhsRAkUrkwfIQaNDT5fZZGnws3CmhtM68RfwExzIRppRx1kThcDt-gYOwJcJExFNVTeJyfx70yxFwsfzPX2okahjrD46DwOkG7psAzFIrlAAhoUsfSw7kPR9Z-SRkSrJa_HhyMQ7-5lD=w1280",
+          "local": "assets/images/cse421au25-frank-liu.jpg"
+        }
+      ],
+      "embeds": []
+    },
+    {
+      "source_url": "https://www.andreacoladangelo.com/teaching/cse421au25/syllabus",
+      "original_path": "/teaching/cse421au25/syllabus",
+      "file": "teaching/cse421au25/syllabus/index.html",
+      "title": "Andrea Coladangelo's Homepage - Syllabus",
+      "source_blocks": [
+        "CSE 421: \"Introduction to Algorithms\" (Autumn 2025)",
+        "Home Syllabus Calendar Lecture & Section Material Assignments Exams Course Staff",
+        "Course DescriptionThe course introduces the design and theory of algorithms. Covers several algorithmic paradigms, including greedy algorithms, divide and conquer algorithms, linear programming, and dynamic programming through a series of optimization and graph problems. Explores techniques to identify and handle intractable problems, including the concepts of NP-hardness and NP-completeness. This is a proof-based course that focuses on how different algorithms work, how to prove their correctness, and how to design an algorithm when given a new problem to solve. There is almost no coding (mostly algorithm design in pseudocode and proofs), and the emphasis is on conceptual understanding of common algorithms and tools to explain why algorithms are correct. Prerequisites: CSE 312, 332. Math 208 is strongly encouraged.",
+        "Course GoalsThe goal for the end of the course is that you will be able to:Model word problems as computational problems.Determine an appropriate algorithm design paradigm for a new problem.Design an algorithm using a variety of algorithm-design paradigms (including greedy algorithms, divide and conquer, dynamic programming, flow modeling, and others).Prove your algorithm produces the correct answer.Reduce between a new problem and a known problem (for showing hardness or for reusing existing algorithms)Identify and cope with computational problems that are infeasible.Consider the implications of modeling decisions in the real world.",
+        "LogisticsCommunication: on Ed Discussion. You should have received an invitation to join (let Andrea know if not).Homework submissions: on Gradescope. Lecture recordings: lectures will be recorded, and available on Canvas.Office hours: info in Calendar or Course Staff.Exams: there will be 1 midterm and 1 final. Date and location in Exams.",
+        "GradingThere will be 8 homeworks, 1 midterm, and 1 final. The grade for the class will be determined based on a weighted average of homeworks and exams as follows: 50% homeworks, 22% midterm, 28% final.",
+        "Other ResourcesAll of the required content for this class can be obtained from lectures and sections. However, the following optional textbook is great, and may provide another perspective: \"Algorithm Design\" by Jon Kleinberg and Éva Tardos, Addison-Wesley, 2006.You can find some useful review material relating to CSE 332 here.Here is a style guide for writing your solutions for this class.This course is heavily based on previous CSE 421 iterations by Robbie Weber and Chinmay Nirkhe, which you may also find useful.",
+        "Late submissionsYou have 6 tokens for 24 hours late submission of homeworks, no questions asked (you may use up to 3 on each homework). After the 6 tokens are used, homeworks submitted up to 24 hours late are graded with a 50% penalty, and homeworks submitted after 24 hours will not be counted for credit. Extenuating cirumstances are of course separate, and should be discussed directly with Andrea.",
+        "Collaboration and use of external resources (including AI)Collaboration with other classmates is encouraged! However, we ask that you write up your solutions individually, and mention your collaborators at the start of your homework solutions.You can use AI or external resources to clarify concepts from class, or concepts that you are not familiar with, but you are not allowed to use AI or external resources to directly look for the answer to a homework question. We understand that when searching for general information you may accidentally find the exact question we asked. In such cases, we ask that you tell the staff, and provide a link to what you found (if you do so, this will not count as a violation of the policy).If you are unsure about whether something is allowed, please feel free to ask Andrea.",
+        "Academic IntegrityThe goal of our assignments is for you to fully understand and internalize the content of the course. Working through homework problems is an integral part of developing this understanding (I firmly believe that there is no substitute to this for learning!). The policies above are designed for you to go through this crucial part of the learning process.Not following these policies will likely detract from your learning, and it directly negatively affects other students who are following them, since grades are determined partly based on relative performance. Therefore, we take academic integrity seriously. We refer violations of departmental policies to the Office of Academic Affairs. If you are found responsible for a violation of academic integrity on a homework problem, you will receive a 0 on the relevant problem. I understand that sometimes life can get in the way of spending as much time as you'd like to on assignments. I hope the 6 late tokens can help mitigate busy or stressful times. You should always feel free to reach out directly to Andrea for extra help on the class material (I'm available!), or if there are extenuating circumstances. We can figure something out."
+      ],
+      "links": [
+        {
+          "href": "/teaching/cse421au25",
+          "text": "Home"
+        },
+        {
+          "href": "/teaching/cse421au25/syllabus",
+          "text": "Syllabus"
+        },
+        {
+          "href": "/teaching/cse421au25/calendar",
+          "text": "Calendar"
+        },
+        {
+          "href": "/teaching/cse421au25/lecturematerial",
+          "text": "Lecture & Section Material"
+        },
+        {
+          "href": "/teaching/cse421au25/hw",
+          "text": "Assignments"
+        },
+        {
+          "href": "/teaching/cse421au25/exams",
+          "text": "Exams"
+        },
+        {
+          "href": "/teaching/cse421au25/staff",
+          "text": "Course Staff"
+        },
+        {
+          "href": "/teaching/cse421au25/calendar",
+          "text": "Calendar"
+        },
+        {
+          "href": "/teaching/cse421au25/staff",
+          "text": "Course Staff"
+        },
+        {
+          "href": "/teaching/cse421au25/exams",
+          "text": "Exams"
+        },
+        {
+          "href": "https://courses.cs.washington.edu/courses/cse421/23wi/resources/",
+          "text": "here"
+        },
+        {
+          "href": "https://courses.cs.washington.edu/courses/cse421/23wi/resources/styleguide.html",
+          "text": "style guide"
+        },
+        {
+          "href": "https://courses.cs.washington.edu/courses/cse421/23wi/",
+          "text": "Robbie Weber"
+        },
+        {
+          "href": "https://courses.cs.washington.edu/courses/cse421/25sp/",
+          "text": "Chinmay Nirkhe"
+        },
+        {
+          "href": "https://www.cs.washington.edu/academics/misconduct",
+          "text": "departmental policies"
+        }
+      ],
+      "images": [],
+      "embeds": []
+    },
+    {
+      "source_url": "https://www.andreacoladangelo.com/teaching/cse421au26",
+      "original_path": "/teaching/cse421au26",
+      "file": "teaching/cse421au26/index.html",
+      "title": "Andrea Coladangelo's Homepage - CSE421au26",
+      "source_blocks": [
+        "CSE 421: \"Introduction to Algorithms\" (Autumn 2026)",
+        "Home Syllabus Calendar Lecture & Section Material Assignments Exams Course Staff",
+        "Welcome to the Autumn 2026 edition of CSE 421! See the links above for more information.You can find office hour information in Course Staff or Calendar."
+      ],
+      "links": [
+        {
+          "href": "/teaching/cse421au26/syllabus",
+          "text": "Syllabus"
+        },
+        {
+          "href": "/teaching/cse421au26/calendar",
+          "text": "Calendar"
+        },
+        {
+          "href": "/teaching/cse421au26/lecturematerial",
+          "text": "Lecture & Section Material"
+        },
+        {
+          "href": "/teaching/cse421au26/hw",
+          "text": "Assignments"
+        },
+        {
+          "href": "/teaching/cse421au26/exams",
+          "text": "Exams"
+        },
+        {
+          "href": "/teaching/cse421au26/staff",
+          "text": "Course Staff"
+        },
+        {
+          "href": "/teaching/cse421au26/staff",
+          "text": "Course Staff"
+        },
+        {
+          "href": "/teaching/cse421au26/calendar",
+          "text": "Calendar"
+        }
+      ],
+      "images": [],
+      "embeds": []
+    },
+    {
+      "source_url": "https://www.andreacoladangelo.com/teaching/cse421au26/calendar",
+      "original_path": "/teaching/cse421au26/calendar",
+      "file": "teaching/cse421au26/calendar/index.html",
+      "title": "Andrea Coladangelo's Homepage - Calendar",
+      "source_blocks": [
+        "CSE 421: \"Introduction to Algorithms\" (Autumn 2026)",
+        "Home Syllabus Calendar Lecture & Section Material Assignments Exams Course Staff",
+        "Sections: Thursday at 11.30am, and then every hour until 3.30. Check MyUW for the section you are assigned to and its location (which is not the same for all sections!)"
+      ],
+      "links": [
+        {
+          "href": "/teaching/cse421au26",
+          "text": "Home"
+        },
+        {
+          "href": "/teaching/cse421au26/syllabus",
+          "text": "Syllabus"
+        },
+        {
+          "href": "/teaching/cse421au26/lecturematerial",
+          "text": "Lecture & Section Material"
+        },
+        {
+          "href": "/teaching/cse421au26/hw",
+          "text": "Assignments"
+        },
+        {
+          "href": "/teaching/cse421au26/exams",
+          "text": "Exams"
+        },
+        {
+          "href": "/teaching/cse421au26/staff",
+          "text": "Course Staff"
+        }
+      ],
+      "images": [
+        {
+          "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72ta4eWLhVzzktpKxfIb-bEYokVavQ-zSECCwyo8fFnMhr5YOlW3q1lYwGTEPs4WTChiWdiKLh7cV3mBKt91jTV0GGBk6DpDEYQoiYFmVUHjPQJs5a0kgk7Dp2c2EQn73FgGMa-GPwreQry6R7msvC7GHJGrQGFj55639WVTmUCuy37BU9dnBv2JiQbh-qPP1XDaoVD-_hJeUgZ-KSpwBSY5pzmAt57nu1RAqUseumg=w1280",
+          "local": "assets/images/cse421-autumn-2026-calendar.png"
+        }
+      ],
+      "embeds": []
+    },
+    {
+      "source_url": "https://www.andreacoladangelo.com/teaching/cse421au26/exams",
+      "original_path": "/teaching/cse421au26/exams",
+      "file": "teaching/cse421au26/exams/index.html",
+      "title": "Andrea Coladangelo's Homepage - Exams",
+      "source_blocks": [
+        "CSE 421: \"Introduction to Algorithms\" (Autumn 2026)",
+        "Home Syllabus Calendar Lecture & Section Material Assignments Exams Course Staff",
+        "ExamsMidterm: TBAFinal: Monday Dec 14, 2.30-4.20pm, Gates G20"
+      ],
+      "links": [
+        {
+          "href": "/teaching/cse421au26",
+          "text": "Home"
+        },
+        {
+          "href": "/teaching/cse421au26/syllabus",
+          "text": "Syllabus"
+        },
+        {
+          "href": "/teaching/cse421au26/calendar",
+          "text": "Calendar"
+        },
+        {
+          "href": "/teaching/cse421au26/lecturematerial",
+          "text": "Lecture & Section Material"
+        },
+        {
+          "href": "/teaching/cse421au26/hw",
+          "text": "Assignments"
+        },
+        {
+          "href": "/teaching/cse421au26/staff",
+          "text": "Course Staff"
+        }
+      ],
+      "images": [],
+      "embeds": []
+    },
+    {
+      "source_url": "https://www.andreacoladangelo.com/teaching/cse421au26/hw",
+      "original_path": "/teaching/cse421au26/hw",
+      "file": "teaching/cse421au26/hw/index.html",
+      "title": "Andrea Coladangelo's Homepage - HW",
+      "source_blocks": [
+        "CSE 421: \"Introduction to Algorithms\" (Autumn 2026)",
+        "Home Syllabus Calendar Lecture & Section Material Assignments Exams Course Staff",
+        "Blank homework template that you can use. When compiled, it looks like this.",
+        "HomeworksHomework 1 (due Oct 8 at 11.59pm): pdf.Homework 2: (due Oct 15 at 11.59pm): pdf.Homework 3:Homework 4:Homework 5:Homework 6:Homework 7:Homework 8:"
+      ],
+      "links": [
+        {
+          "href": "/teaching/cse421au26",
+          "text": "Home"
+        },
+        {
+          "href": "/teaching/cse421au26/syllabus",
+          "text": "Syllabus"
+        },
+        {
+          "href": "/teaching/cse421au26/calendar",
+          "text": "Calendar"
+        },
+        {
+          "href": "/teaching/cse421au26/lecturematerial",
+          "text": "Lecture & Section Material"
+        },
+        {
+          "href": "/teaching/cse421au26/exams",
+          "text": "Exams"
+        },
+        {
+          "href": "/teaching/cse421au26/staff",
+          "text": "Course Staff"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1n99w47qMewaWjEjXm-KoTjsBuZjCtcs3/view?usp=sharing",
+          "text": "template"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1pca2jM7nkWfzGrxRWMY8Llzxi--z5xVF/view?usp=sharing",
+          "text": "this"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1KjV7PBo00AKh-T9wM2Su-nafdr9bNjiI/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1wbmnzJdeEqQykdpqoGs2oEShFhI15bf1/view?usp=sharing",
+          "text": "pdf"
+        }
+      ],
+      "images": [],
+      "embeds": []
+    },
+    {
+      "source_url": "https://www.andreacoladangelo.com/teaching/cse421au26/lecturematerial",
+      "original_path": "/teaching/cse421au26/lecturematerial",
+      "file": "teaching/cse421au26/lecturematerial/index.html",
+      "title": "Andrea Coladangelo's Homepage - LectureMaterial",
+      "source_blocks": [
+        "CSE 421: \"Introduction to Algorithms\" (Autumn 2026)",
+        "Home Syllabus Calendar Lecture & Section Material Assignments Exams Course Staff",
+        "*The lecture and section material below is adapted from CSE 421 material by Robbie Weber and Chinmay Nirkhe.*Slides were created in keynote. So the converted ppt file may have formatting issues.",
+        "Lectures09/30: Logistics; stable matchings (slides: keynote, ppt, pdf)10/02: More stable matchings (slides: keynote, ppt, pdf)10/05: Graph traversal; Breadth-First Search (keynote, ppt, pdf)10/07: BFS, DFS, and applications (bipartiteness testing) (keynote, ppt, pdf)10/09: DFS and applications (cycle detection, topological sorting) (slides: keynote, ppt, pdf)10/12: Graph modeling; Greedy algorithms (intro and interval scheduling)10/14: Greedy graph algorithms (minimum spanning trees)10/16: Greedy graph approximation algorithms (max cut)10/19: Divide and Conquer (mergesort, 2D closest pair) 10/21: Divide and Conquer (runtimes, Strassen's matrix multiplication)10/23: Divide and Conquer (Karatsuba's integer multiplication, median finding) 10/26: Divide and Conquer (median/selection finding)10/28: Dynamic Programming (memoization, edit distance)10/30: Dynamic Programming (edit distance, knapsack)11/02: Dynamic Programming (Bellman-Ford)11/04: Dynamic Programming (Bellman-Ford continued)11/11: Max Flow and Min Cut (intro)11/13: Max Flow and Min Cut (Ford-Fulkerson)11/16: Max Flow and Min Cut (Ford-Fulkerson continued, and Max Flow-Min Cut theorem)11/18: Max Flow and Min Cut (Faster algorithms, and applications)11/20: Wrapping up Max Flow & Intro to P, NP, and reductions11/23: NP-completeness11/25: More NP-completeness11/27: No class, Thanksgiving11/30: More NP-completeness (3-SAT)12/02: More NP-completeness (Vertex Cover and 3-coloring)12/04: Linear Programming12/07: Linear Programming (optimal solutions, and simplex method)12/09: Linear Programming (simplex method continued, LP approximation of vertex cover)",
+        "Section10/01: slides, handout, solutions10/08: slides, handout, solutions10/15: 10/22: 10/29: 11/05: 11/12: 11/19: 12/03:12/10:"
+      ],
+      "links": [
+        {
+          "href": "/teaching/cse421au26",
+          "text": "Home"
+        },
+        {
+          "href": "/teaching/cse421au26/syllabus",
+          "text": "Syllabus"
+        },
+        {
+          "href": "/teaching/cse421au26/calendar",
+          "text": "Calendar"
+        },
+        {
+          "href": "/teaching/cse421au26/hw",
+          "text": "Assignments"
+        },
+        {
+          "href": "/teaching/cse421au26/exams",
+          "text": "Exams"
+        },
+        {
+          "href": "/teaching/cse421au26/staff",
+          "text": "Course Staff"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1m64TpTIKcQd8E4W9U4XFIlYIt1bPnzRN/view?usp=sharing",
+          "text": "keynote"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/1U1Hw8TZirbCel2nToRaV7JFTM7SKYcgD/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "ppt"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1WWlEiwZAdNk7ddqKPLJ5nCvTo9-M-N-a/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1vdAjx-tvc68aY9ejkt1Y_KXj4Iy72ftz/view?usp=sharing",
+          "text": "keynote"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/1E9t88kMkFLLOArltfReKXr1AOe7kaQxE/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "ppt"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1weyNVgQuIca9YQqtJDqR6SrPasmFV_WS/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1oyaCy8XJ_x4NcNZhSLYubMW9sfujlglU/view?usp=sharing",
+          "text": "keynote"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/1esj9pMx8zw2wFZqI4fDPGrOj6Y4Q1uPQ/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "ppt"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1DmwAGY7gNxID5zPwnkgnEaKSioBMRm_2/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1tJgSusK5KUQqPtDIUyGqQFtX7Jo2xfRq/view?usp=sharing",
+          "text": "keynote"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/1aQjy97e4nhfMnHspVFeVmWpjyWzIpzQe/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "ppt"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1Mj4H1QM4kKPp0yPTvpf97FbTZP7wmNQ6/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1gG56Ts4cxpxsFycfi676mQrEwyOowryM/view?usp=sharing",
+          "text": "keynote"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/1EWUP691W4ADPg-p6Qp5cbhcv_svBoeIZ/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "ppt"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1QcghgsJA9Zf6cTcCraulQrBfDfqZBSqK/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/1GHfyPFygnwaZz54lLtjK_R08XkcLreUc/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "slides"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1Q4qn9spxFEAAiSOcJMKoMmNf0e9KD-_a/view?usp=sharing",
+          "text": "handout"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1QI56u30iio-B4WaHwBIepiBBvDwJ6pcW/view?usp=sharing",
+          "text": "solutions"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/1m6c1rA-EradqZ-JTwnnancafvdJjEpuu/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "slides"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1PDs4Tv1hyPSDCZ-GTvmSG7IEN-zb8jDv/view?usp=sharing",
+          "text": "handout"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1uhVLDTRgTHWSguzpjRP1HFSnplhQJCl2/view?usp=sharing",
+          "text": "solutions"
+        }
+      ],
+      "images": [],
+      "embeds": []
+    },
+    {
+      "source_url": "https://www.andreacoladangelo.com/teaching/cse421au26/staff",
+      "original_path": "/teaching/cse421au26/staff",
+      "file": "teaching/cse421au26/staff/index.html",
+      "title": "Andrea Coladangelo's Homepage - Staff",
+      "source_blocks": [
+        "CSE 421: \"Introduction to Algorithms\" (Autumn 2026)",
+        "Home Syllabus Calendar Lecture & Section Material Assignments Exams Course Staff",
+        "Andrea ColadangeloInstructoremail: coladan@cs.washington.eduOffice hours: Wednesday 3.20pm (Gates G04)",
+        "Vinay PritamaniTAemail: vprita@cs.washington.eduOffice hours: Tuesday 11am (Allen 4th floor breakout)",
+        "Michael WhitmeyerTAemail: mdwhit@cs.washington.eduOffice hours: Thursday 9.30am (Allen 2nd floor breakout)",
+        "Runjia Li TAemail: runjiali@cs.washington.eduOffice hours: Friday 3.30pm (Gates 276)",
+        "Parker VladimiroffTAemail: pvladim@cs.washington.eduOffice hours: Friday 10.30am (Allen 2nd floor breakout)",
+        "Sophia LiTAemail: sophia81@cs.washington.eduOffice hours: Wednesday 12.15pm (Allen 220)",
+        "Toprak YildirimTAemail: topbatu@cs.washington.eduOffice hours: Tuesday 3.30pm (Allen 4th floor breakout)",
+        "Sami Badal KhanTAemail: skbk@cs.washington.eduOffice hours: Tuesday 4.30pm (Allen 5th floor breakout)",
+        "Aaryan PawarTAemail: aarynpwr@cs.washington.eduOffice hours: Monday 4pm (Allen 5th floor breakout)",
+        "Escher CrawfordTAemail: ecraw4d@cs.washington.eduOffice hours: Monday 2.30pm (Gates 153)",
+        "Brice LiuTAemail: briceliu@cs.washington.eduOffice hours: Thursday 4.30pm (Allen 2nd floor breakout)"
+      ],
+      "links": [
+        {
+          "href": "/teaching/cse421au26",
+          "text": "Home"
+        },
+        {
+          "href": "/teaching/cse421au26/syllabus",
+          "text": "Syllabus"
+        },
+        {
+          "href": "/teaching/cse421au26/calendar",
+          "text": "Calendar"
+        },
+        {
+          "href": "/teaching/cse421au26/lecturematerial",
+          "text": "Lecture & Section Material"
+        },
+        {
+          "href": "/teaching/cse421au26/hw",
+          "text": "Assignments"
+        },
+        {
+          "href": "/teaching/cse421au26/exams",
+          "text": "Exams"
+        },
+        {
+          "href": "mailto:coladan@cs.washington.edu",
+          "text": "coladan@cs.washington.edu"
+        },
+        {
+          "href": "mailto:vprita@cs.washington.edu",
+          "text": "vprita@cs.washington.edu"
+        },
+        {
+          "href": "mailto:mdwhit@cs.washington.edu",
+          "text": "mdwhit@cs.washington.edu"
+        },
+        {
+          "href": "mailto:runjiali@cs.washington.edu",
+          "text": "runjiali@cs.washington.edu"
+        },
+        {
+          "href": "mailto:pvladim@cs.washington.edu",
+          "text": "pvladim@cs.washington.edu"
+        },
+        {
+          "href": "mailto:sophia81@cs.washington.edu",
+          "text": "sophia81@cs.washington.edu"
+        },
+        {
+          "href": "mailto:topbatu@cs.washington.edu",
+          "text": "topbatu@cs.washington.edu"
+        },
+        {
+          "href": "mailto:skbk@cs.washington.edu",
+          "text": "skbk@cs.washington.edu"
+        },
+        {
+          "href": "mailto:aarynpwr@cs.washington.edu",
+          "text": "aarynpwr@cs.washington.edu"
+        },
+        {
+          "href": "mailto:ecraw4d@cs.washington.edu",
+          "text": "ecraw4d@cs.washington.edu"
+        },
+        {
+          "href": "mailto:briceliu@cs.washington.edu",
+          "text": "briceliu@cs.washington.edu"
+        }
+      ],
+      "images": [
+        {
+          "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uWn4irhuhCWBJxLgYPwEsGFOTyEcXo0EBJOoAeYE6ufz6ezf-yY3Qktfks1c1Gf749EmatTyEaut8paoW_jn2Dmuwy4e_yLHl7tw2PkqWa0Okw9ITelBsRYamqAdWNrgC7KtYjwocJCcuYdUhkxHtkqB-WtmMwItFdNOpT8zJk_xeCTeiphFAq7YOt8_xPb4rNCYA-sFAug8pPdujBpzZd9kb4eNQghFkfMEIUrvI=w1280",
+          "local": "assets/images/cse421au25-andrea-coladangelo.jpg"
+        },
+        {
+          "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72ujcoxC4jHGWR_ogAHnR07sNmulRlwh2r3LEWoxt3cgz1ikXJYJnaGOLlZi5gSd4mJr9ddGio7ALHtjHT19XmDLJ2xDi95NO5TMTBeh9OXa3bsU6j1XyJwoN7Ztok9wALHV1of4uAcgSyrVdp-Y1ZvTVhwOZeJgBtqzazOIICheGpDfL4Tzpo79dQj1UBIov2ukxgwzw8zA3-LrEnRKYG6J0zAY-_ESAWwRhdX5kN0=w1280",
+          "local": "assets/images/cse421au26-vinay-pritamani.jpg"
+        },
+        {
+          "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uf5TLFXleKE-tzpsEap6IMpnStiPqULiD6iEPYOTaUBo4cHJQg92r4b3pdxuoDmy-I-e-4sqC73XJw9Raf5OsbfACXEjt6jaNJpAqRrhRqtNkomfT6-ygZ4TIeKBTwnxsIoap4jkoK9Rvp33t_zMyqFsaGvIGJC85ar6WllRMCSQA0_WYYucD7CRL19Y-H48LIwTC-JEw82GUuKPs-_WntR-8yx_b15J3ip5LA=w1280",
+          "local": "assets/images/cse421au26-michael-whitmeyer.jpg"
+        },
+        {
+          "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72ucvOgQ-jlZf6R0A9lEZ43J9SucERAVVOUHSMmRj22iHPN5oRFBBtnIAaOKIoMtddf4axvL3Cbwr_-09hSrTTdySf1RUwfStBqdkPhA46jhQHmm0ujSs_N-yhp0dN-2XWmrU7Xg1Klg1o6eFYMEie_YQx22C9ZA8smjuB2-I_TwSl_8IWgH1jhGWwKnq9u0o6KSO3Tox7o1r2SScv1XhPuE9ZW3eTXC14VJ14xbcDA=w1280",
+          "local": "assets/images/cse421au26-runjia-li.jpg"
+        },
+        {
+          "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tPMUtPZfBtjaw4QxKQ7sP-rtSAJSi5ghz3d3aiQpXHKcVnHaGt8Nf0rtRnU7_5EXKDF2L5tWzuvwRPwqrivkxcjfW0danv-r2ExdDCumZJ5Ll3DTV1TvZdOU7ovoWMTNLiFvA-l2D_X8q7I9KSuflokKloPIu1WDE1BwKG9LYXT1ytaIt5054zLKEjsRxr27RkXGRgFHqdyy8y9oTE62FoQYziTiT3IsLQqJs0=w1280",
+          "local": "assets/images/cse421au25-parker-vladimiroff.jpg"
+        },
+        {
+          "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vMboZtk3VFoS-_T_JfO-v3v5c4muHc6QyyuO8aEPwEUCk61WE9hbAmuq0n58au7WhAhFcpaClgUDeakl_EodV_0RqLdOxgcrojrBXvs1SE6biDS08ZOBX_Zf0lJUYsWiwdgxOp81jn9FvXFQBjAZyRBGCIA3uxIK8tijJ2xrGdLggo1t7F_YR1KJ64AdHmZXu-bn-fAV8hKJeZSA-lPOjig4bFo9S4C5NG1vynuso=w1280",
+          "local": "assets/images/cse421au26-sophia-li.jpg"
+        },
+        {
+          "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sdx7VJstv0yisbPgOJ3iuWoyHJJllXmGlv5qNWKlzDMrE7-u9es2F0oZIdZUfLklFbWwqeh3nST4cmfaABUH1TzF6UW77L0EqyaREGI292knlmEOwP9sAVrF3t_7nd2fWkyChVfRqhvu7_XEB2suBb3cK_qD8dOftEvDeOxP-u-oqDGwFbkS0Q_bDcjL3za5uMbrymCjpAd76eNJR1kjlXhU3Y2UBIPLvpU1uuUKY=w1280",
+          "local": "assets/images/cse421au26-toprak-yildirim.jpg"
+        },
+        {
+          "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vRqhhXygxnvtwOz25DWjk8f46K4bzLv8Tpn8Lsd-5eZESDFF4_yff3zseXdpqmru_97-336HZqqC-G3U1xCO06D8YAvKE1bx2qXdKndfEEApGY04wDzGvzqRh8KVEGAm3J1lFU8Ss8LDwVWAaHvrONFR0YVHu6RV0C55Q7PmyUm54pGCw48fz4a5wC3wThbF0qOJa8FLfjAIwckl_OyShM_9t4VA1Lm7R8WvPrdSs=w1280",
+          "local": "assets/images/cse421au26-sami-badal-khan.jpg"
+        },
+        {
+          "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vTr0ow6mzqah-tdFTALW8meplNx7leOxg8sOUf7xCy6hOHf3mfkXV8SzvJmJ9kBZ2lHvZSTJRM3qDnCq7VbK7OZWisa-WzEL3fETacM6sRpkjVpETp50CV5s-gG3z_nxFHJoxZ23VhboJCOYPtQeLygDOpewpMm1N9NP0f8whJwEb-1pxpdcKHOay7c0Z6r9Q8w32Hqb6_AZzykDq7V-9LWEyzetmmUgpwuTyJ4Bk=w1280",
+          "local": "assets/images/cse421au26-aaryan-pawar.jpg"
+        },
+        {
+          "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72ve_TktirT-MbgbrS1n8F9Kbrhb2ZZXh_c98eEjiiu7CKVLW1YRsmjfRHYoDf4eEEKFVM0XdNyOqp5Pq-VUbdOVfHZf-WIEEPVYR74speNKsaLWIwg7ljR-ieE7QsPI0FpCqUjkGigGVcvOLmxmiR0DJBXYEQl6ngbrcZIymuXKbZYwwj2e5A2hYTljVYHj8Iu6NROoYlPzNs_o6ebnYkUxb_cloGZvShEQeFdg=w1280",
+          "local": "assets/images/cse421au26-escher-crawford.jpg"
+        },
+        {
+          "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72spd8WbMzVQ-qmBcn2WGO4ek8rlBehqrlviu4Q4VtGCmMZJ-Hn7hChcogaQWaT_qzTewlxmZAOtsCT6-f-a_ApSfoX4gay8ixzJAN57i3_fKMQTK6NIy7EdrEgTdlmXjdvs0_A8s-7IjzVidQjigLlNProRKo7hYf40wNdm--exsR6Txqha_wpSanDi7N-ZdprmTBqhxb32IYw1pEOEVc7ZdzV7RKdOL18DVJpF6ig=w1280",
+          "local": "assets/images/cse421au26-brice-liu.png"
+        }
+      ],
+      "embeds": []
+    },
+    {
+      "source_url": "https://www.andreacoladangelo.com/teaching/cse421au26/syllabus",
+      "original_path": "/teaching/cse421au26/syllabus",
+      "file": "teaching/cse421au26/syllabus/index.html",
+      "title": "Andrea Coladangelo's Homepage - Syllabus",
+      "source_blocks": [
+        "CSE 421: \"Introduction to Algorithms\" (Autumn 2026)",
+        "Home Syllabus Calendar Lecture & Section Material Assignments Exams Course Staff",
+        "Course DescriptionThe course introduces the design and theory of algorithms. Covers several algorithmic paradigms, including greedy algorithms, divide and conquer algorithms, linear programming, and dynamic programming through a series of optimization and graph problems. Explores techniques to identify and handle intractable problems, including the concepts of NP-hardness and NP-completeness. This is a proof-based course that focuses on how different algorithms work, how to prove their correctness, and how to design an algorithm when given a new problem to solve. There is almost no coding (mostly algorithm design in pseudocode and proofs), and the emphasis is on conceptual understanding of common algorithms and tools to explain why algorithms are correct. Prerequisites: CSE 312, 332. Math 208 is strongly encouraged.",
+        "Course GoalsThe goal for the end of the course is that you will be able to:Model word problems as computational problems.Determine an appropriate algorithm design paradigm for a new problem.Design an algorithm using a variety of algorithm-design paradigms (including greedy algorithms, divide and conquer, dynamic programming, flow modeling, and others).Prove your algorithm produces the correct answer.Reduce between a new problem and a known problem (for showing hardness or for reusing existing algorithms)Identify and cope with computational problems that are infeasible.Consider the implications of modeling decisions in the real world.",
+        "LogisticsCommunication: on Ed Discussion. You should have received an invitation to join (let Andrea know if not).Homework submissions: on Gradescope. Lecture recordings: lectures will be recorded, and available on Canvas.Office hours: info in Calendar or Course Staff.Exams: there will be 1 midterm and 1 final. Date and location in Exams.",
+        "GradingThere will be 8 homeworks, 1 midterm, and 1 final. The grade for the class will be determined based on a weighted average of homeworks and exams as follows: 36% homeworks, 28% midterm, 36% final.",
+        "Other ResourcesAll of the required content for this class can be obtained from lectures and sections. However, the following optional textbook is great, and may provide another perspective: \"Algorithm Design\" by Jon Kleinberg and Éva Tardos, Addison-Wesley, 2006.You can find some useful review material relating to CSE 332 here.Here is a style guide for writing your solutions for this class.This course is adapted from previous CSE 421 iterations by Robbie Weber and Chinmay Nirkhe, which you may also find useful.",
+        "Late submissionsYou have 6 tokens for 24 hours late submission of homeworks, no questions asked (you may use up to 3 on each homework). After the 6 tokens are used, homeworks submitted up to 24 hours late are graded with a 50% penalty, and homeworks submitted after 24 hours will not be counted for credit. Extenuating cirumstances are of course separate, and should be discussed directly with Andrea.",
+        "CollaborationCollaboration with other classmates is encouraged! However, we ask that you write up your solutions individually, and mention your collaborators at the start of your homework solutions.",
+        "Use of AI (and other external resources)We will be following this policy for the use of AI. In summary, you can use AI or external resources to clarify concepts from class, or concepts that you are not familiar with, but you are not allowed to use AI or external resources to directly look for the answer to a homework question or to get assistance with a specific homework problem. We understand that when searching for general information you may accidentally find the exact question we asked. In such cases, we ask that you tell the staff, and provide a link to what you found (if you do so, this will not count as a violation of the policy). If you are unsure about whether something is allowed, please feel free to ask Andrea.",
+        "Academic IntegrityThe goal of our assignments is for you to fully understand and internalize the content of the course. Working through homework problems is an integral part of developing this understanding (I believe that there is no substitute to this for learning!). The policies above are designed for you to go through this crucial part of the learning process.Not following these policies will likely detract from your learning, and it directly negatively affects other students who are following them, since grades are determined partly based on relative performance. Therefore, we take academic integrity seriously. We refer violations of departmental policies to the Office of Academic Affairs. If you are found responsible for a violation of academic integrity on a homework problem, you will receive a 0 on the relevant problem. I understand that sometimes life can get in the way of spending as much time as you'd like to on assignments. I hope the 6 late tokens can help mitigate busy or stressful times. You should always feel free to reach out directly to Andrea for extra help on the class material (I'm available!), or if there are extenuating circumstances. We can figure something out."
+      ],
+      "links": [
+        {
+          "href": "/teaching/cse421au26",
+          "text": "Home"
+        },
+        {
+          "href": "/teaching/cse421au26/calendar",
+          "text": "Calendar"
+        },
+        {
+          "href": "/teaching/cse421au26/lecturematerial",
+          "text": "Lecture & Section Material"
+        },
+        {
+          "href": "/teaching/cse421au26/hw",
+          "text": "Assignments"
+        },
+        {
+          "href": "/teaching/cse421au26/exams",
+          "text": "Exams"
+        },
+        {
+          "href": "/teaching/cse421au26/staff",
+          "text": "Course Staff"
+        },
+        {
+          "href": "/teaching/cse421au26/calendar",
+          "text": "Calendar"
+        },
+        {
+          "href": "/teaching/cse421au26/staff",
+          "text": "Course Staff"
+        },
+        {
+          "href": "/teaching/cse421au26/exams",
+          "text": "Exams"
+        },
+        {
+          "href": "https://courses.cs.washington.edu/courses/cse421/23wi/resources/",
+          "text": "here"
+        },
+        {
+          "href": "https://courses.cs.washington.edu/courses/cse421/23wi/resources/styleguide.html",
+          "text": "style guide"
+        },
+        {
+          "href": "https://courses.cs.washington.edu/courses/cse421/23wi/",
+          "text": "Robbie Weber"
+        },
+        {
+          "href": "https://courses.cs.washington.edu/courses/cse421/26wi/",
+          "text": "Chinmay Nirkhe"
+        },
+        {
+          "href": "https://docs.google.com/document/d/1XV_YeBqceJFZXUYnuDdiVdtyhw1KZNn9cxxJ2O5VJGY/edit?usp=sharing",
+          "text": "policy"
+        },
+        {
+          "href": "https://www.cs.washington.edu/academics/misconduct",
+          "text": "departmental policies"
+        }
+      ],
+      "images": [
+        {
+          "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sW4dKm55O_aN5hwPkeA3XWrl3m7R3rw_K4KLOjwxE8NuHR8Ja6t72f54SuXj6Tj1qAxBbfXMAuIJYMz8pU4txxovszZNycanNdv1SVbGnVLuySVL4yk06F_eSjB7GqHd5ieGOhp7kwaHMV3CieNwbWHcPA-dDT9Ciz5-zOMAr7r1QyvGWNQM14OiP2NWR9VQ5OnKhIQzVMWPoXypHXVv6RN1N2OGwLtikMZQSyA9U=w1280",
+          "local": "assets/images/cse421-autumn-2026-ai-policy.png"
+        }
+      ],
+      "embeds": []
+    },
+    {
+      "source_url": "https://www.andreacoladangelo.com/teaching/cse434sp25",
+      "original_path": "/teaching/cse434sp25",
+      "file": "teaching/cse434sp25/index.html",
+      "title": "Andrea Coladangelo's Homepage - CSE434sp25",
+      "source_blocks": [
+        "CSE 434: \"Intro to Quantum Computation\"(Spring 2025)",
+        "Course InformationInstructor: Andrea ColadangeloTAs: Aadi Anand, Sami Badal Khan, Lukshya Ganjoo, Assaf HarelTime & location: Tuesday and Thursday 10-11.20am, CSE2 G01Class Q&A: Ed DiscussionOffice hours: Sami: Monday 11-12. Allen 3rd floor breakoutAndrea: Tuesday 4-5. Gates 212Aadi: Wednesday 5-6. Allen 5th floor breakoutAssaf: Thursday 1-2. Gates 121Luksh: Friday 3:30-4.30. Gates 121",
+        "Course DescriptionThe goal of the course is to rigorously understand the basics of the theory of quantum computation, and to explore many fascinating applications and phenomena in quantum information. Prerequisites: Math 208 (Linear Algebra) and CSE 312 (Foundations of Computing II).",
+        "Tentative Schedule04/01: Course overview; the double-slit experiment; complex numbers, linear algebra review (slides, notes)04/03: Linear algebra review (continued); single-qubit states and measurements (notes)04/08: Measurements in a different basis; uncertainty principle; global and relative phases (notes) 04/10: Unitary evolution; Bra-ket notation; Elitzur-Vaidman tester; Quantum Key Distribution (notes, Elitzur-Vaidman slides, QKD slides)04/15: States of many qubits, measurements (notes)04/17: Quantum gates on multiple qubits; partial measurements (notes)04/22: The Magic Square game; The CHSH game (slides, notes)04/24: The CHSH game (continued) (notes)04/29: Quantum teleportation; Basics of quantum computation (notes)05/01: Midterm review05/06: Basics of quantum computation (continued) (notes)05/08: Basics of quantum computation (continued); Deutsch's algorithm (notes, slides)05/13: Simon's algorithm; (slides, notes)05/15: No class05/20: Grover's algorithm (notes)05/22: Grover's algorithm (continued); Shor's algorithm (intro) (notes)05/27: Period-finding and Fourier Transform (notes)05/29: Period-finding and Quantum Fourier Transform (notes)06/03: Shor's algorithm (putting things together) (notes)06/05: Implementing the Quantum Fourier Transform; Hamiltonian Simulation (notes, slides)",
+        "Homeworks & ExamsHomework 1 (due Wednesday 04/09 at 11.59pm): pdf, texHomework 2 (due Wednesday 04/16 at 11.59pm): pdf, texHomework 3 (due Wednesday 04/23 at 11.59pm): pdf, texMidterm (due Wednesday 04/30 at 11.59pm): pdfHomework 4 (due Wednesday 05/14 at 11.59pm): pdf, texHomework 5 (due Wednesday 05/21 at 11.59pm): pdf, texHomework 6 (due Wednesday 05/28 at 11.59pm): pdf, texFinal (in person, Monday 06/09, 10.30-12.20am, CSE2 G01 - same location as class): pdf",
+        "Grading60% homeworks, 20% mid-term, 20% final",
+        "Late submission policy3 tokens for 24 hours late submission of homeworks, no questions asked (you may use all 3 on each homework). The tokens cannot be used on the take-home midterm."
+      ],
+      "links": [
+        {
+          "href": "https://docs.google.com/presentation/d/1JXZveii4Bp7PbkFWzDh8FG3pDuUPIDX5/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "slides"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1UP8mqalLsdXOoBrXL63vzD0ZOINUxbER/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/19HE-YsPE0wab_y1wTofRvjP-lijbe-0g/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1m_fMNWeFb-tj07-MpVBrKSrFAWWVoE0X/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1Ruz72KfPukLA05sUaVZuGwDAX7DvshwU/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/1BBmZAkhqu-HUriqMHoL1n-pO9bENVAu1/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "Elitzur-Vaidman slides"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/1cm1pwMjDGswtESLkKgkgbq8yApshm02_/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "QKD slides"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1bUkGjlbW3wHAQvIl-Ujmt_4WsXi_MSzU/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/16A-KDi49r82UjO5sCmOrk_kFobb8iSpQ/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/1tbvOrEn2bPt9Dl9xbu_PHqbTP6oEf39T/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "slides"
+        },
+        {
+          "href": "https://drive.google.com/file/d/18NVUZKTJxDBuE_BaBOTTqlscTEyo6l2s/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1n9uYd5SLAxMJ97zM8XLRuSyWk_UPyPNv/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1Uiln7BHc5h1cL491863sC6H4RlD3I3Vz/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1HX7-oVQquK1iI0o9pysdLdHFZLsBznx4/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1KEE6FXALrD3EsJUM5e1OmrLE8dHdHWf4/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/1ipj5O8xCBBpLuqoM8e3jXTpNYwyH7mwm/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "slides"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/1YK5HreBjzIc9H4IHVMDNRbvL2SMmePe-/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "slides"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1Jt_cmOrUHAXMWJF4QVX7SwIs5ZMdeh0M/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1Vs-gn73eh_tol18jqDch-yyehbC57AXx/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/14r5kFobcKyGgYSeT4GPtMYr440liDSnd/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1BZOSJn_j_oTGlZzmX_uf_Q2wERZ86aJm/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1yckYQVWGuAqrMk_9qISIKhKUi2RfN1Xe/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1Er9hpZJXcRrsJ-R8ouwxCn6C9VTxLuyL/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1_aIGC6ID9wTWSUuNRoTO1EmSmXF_Sea-/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/1uPYwlVLial9ylXPLF8hT9RaV728iB08p/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "slides"
+        },
+        {
+          "href": "https://drive.google.com/file/d/11wkeYzdGnnq2wTOHO8ye6HNu2Yfo_Qrp/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1Jz2oGz3pdB6DD_UceAirpcdj78re7I3o/view?usp=sharing",
+          "text": "tex"
+        },
+        {
+          "href": "https://drive.google.com/file/d/143OK9izjIzfFzV_XUscUwHI4t-mIz0GF/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1jELt3fMYoOsQnKp6mwCtfv4h5OTbuTWF/view?usp=sharing",
+          "text": "tex"
+        },
+        {
+          "href": "https://drive.google.com/file/d/18Mf-KLhBO_8XGwY1Qn5Vakn3cILKfpAk/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1JxccQ-CPY82J33LzMa6jcFNEjo4-Y5ZL/view?usp=sharing",
+          "text": "tex"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1LB46UigkAxXFi8vWaxVCO27TIuFrgld-/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/19FAbzc0ngalmkj7tOJmFJRn6afkyF5bZ/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1wm7VClkbJxdzsEa3BJ7w3KE22mgqtdco/view?usp=sharing",
+          "text": "tex"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1x06TbVZwZ-ql32QBrkhv_tWb1_tEc_tY/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1cN5Db4IfJC27QKkI-S4ZIVb3nhS-468t/view?usp=sharing",
+          "text": "tex"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1YHe0pZ4pw10XL_AbgUkhqVojWhDEN3Ih/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1-Ak8pFZRQKHQAhomevuvXXzTNOSw5NDR/view?usp=sharing",
+          "text": "tex"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1WRcEGzS8lqgZzDnLBnJaL65dWBkSbd-c/view?usp=sharing",
+          "text": "pdf"
+        }
+      ],
+      "images": [],
+      "embeds": []
+    },
+    {
+      "source_url": "https://www.andreacoladangelo.com/teaching/cse434sp26",
+      "original_path": "/teaching/cse434sp26",
+      "file": "teaching/cse434sp26/index.html",
+      "title": "Andrea Coladangelo's Homepage - CSE434sp26",
+      "source_blocks": [
+        "CSE 434: \"Intro to Quantum Computation\"(Spring 2026)",
+        "Course InformationInstructor: Andrea ColadangeloTAs: Arjun Aggarwal, Nikos Skoumios, Er-Cheng Tang, Yiming WangTime & location: Tuesday and Thursday 10-11.20am, CSE2 G01Class Q&A: Ed DiscussionOffice hours:Er-Cheng: Monday 4.30-5.30, Allen 4th floor breakout. Andrea: Tuesday 4.30-5.30pm, Gates 271.Yiming: Wednesday 1-2pm, Gates 152.Nikos: Wednesday 5.30-6.30pm, Gates 151.Arjun: Thursday 3-4pm, Allen 220.",
+        "Course DescriptionThe goal of the course is to rigorously understand the basics of the theory of quantum computation, and to explore many fascinating applications and phenomena in quantum information. Prerequisites: Math 208 (Linear Algebra) and CSE 312 (Foundations of Computing II).",
+        "Tentative Schedule03/31: Course overview; the double-slit experiment; complex numbers, linear algebra review (ppt, notes)04/02: Linear algebra review (continued); single-qubit states and measurements (notes)04/07: Measurements in a different basis; uncertainty principle; global and relative phases (notes)04/09: Unitary evolution; Bra-ket notation; Elitzur-Vaidman tester; Quantum Key Distribution (notes, Elitzur-Vaidman ppt, QKD ppt (part 1))04/14: Quantum Key Distribution (continued), states of many qubits, measurements (QKD ppt (part 2), notes)04/16: Quantum gates on multiple qubits; partial measurements (notes)04/21: Non-local games: the Magic Square game (ppt)04/23: The CHSH game (notes)04/28: Quantum teleportation (notes)04/30: Midterm review05/05: Basics of quantum computation (notes)05/07: Basics of quantum computation (continued); Deutsch's algorithm (notes, slides)05/12: Simon's algorithm (slides, notes)05/14: No class05/19: Grover's algorithm (notes)05/21: Grover's algorithm (continued); Shor's algorithm (intro) (notes)05/26: Period-finding and Fourier Transform (notes, slides)05/28: Period-finding and Quantum Fourier Transform (notes)06/02: Shor's algorithm (putting things together) (notes)06/04: Implementing the Quantum Fourier Transform; Hamiltonian Simulation (notes, slides)",
+        "Homeworks & ExamsHomework 1 (due Wednesday 04/08 at 11.59pm): (pdf, tex)Homework 2 (due Wednesday 04/15 at 11.59pm): (pdf, tex)Homework 3 (due Wednesday 04/22 at 11.59pm): (pdf, tex)Midterm (due Wednesday 04/29 at 11.59pm): (pdf)Homework 4 (due Wednesday 05/13 at 11.59pm): (pdf, tex)Homework 5 (due Wednesday 05/20 at 11.59pm): (pdf tex)Homework 6 (due Wednesday 05/28 at 11.59pm): (pdf, tex)Final (in person, Monday 06/08, 10.30-12.20am, CSE2 G01 - same location as class):",
+        "GradingThere will be 6 homeworks, 1 midterm (take-home), and 1 final (in person). The grade for the class will be determined based on the following weighted average of homeworks and exams: 48% homeworks, 20% midterm, 32% final.",
+        "Late submission policy5 tokens for 24 hours late submission of homeworks, no questions asked (you may use up to 3 on each homework). The tokens cannot be used on the take-home midterm. After the 5 tokens are used, homeworks submitted up to 24 hours late are graded with a 50% penalty, and homeworks submitted after 24 hours will not be counted for credit. Extenuating cirumstances are of course separate, and should be discussed directly with Andrea.",
+        "Collaboration and use of external resources (including AI)Collaboration with other classmates is encouraged! However, we ask that you write up your solutions individually, and mention your collaborators at the start of your homework solutions.You can use AI or external resources to clarify concepts from class, or concepts that you are not familiar with, but you are not allowed to use AI or external resources to directly look for the answer to a homework question. We understand that when searching for general information you may accidentally find the exact question we asked. In such cases, we ask that you tell the staff, and provide a link to what you found (if you do so, this will not count as a violation of the policy).If you are unsure about whether something is allowed, please feel free to ask Andrea.",
+        "Academic IntegrityThe goal of our assignments is for you to fully understand and internalize the content of the course. Working through homework problems is an integral part of developing this understanding (I firmly believe that there is no substitute to this for learning!). The policies above are designed for you to go through this crucial part of the learning process.Not following these policies will likely detract from your learning, and it directly negatively affects other students who are following them, since grades are determined partly based on relative performance. Therefore, we take academic integrity seriously. We refer violations of departmental policies to the Office of Academic Affairs. If you are found responsible for a violation of academic integrity on a homework problem, you will receive a 0 on the relevant problem. I understand that sometimes life can get in the way of spending as much time as you'd like to on assignments. I hope the 5 late tokens can help mitigate busy or stressful times. You should always feel free to reach out directly to Andrea for extra help on the class material (I'm available!), or if there are extenuating circumstances. We can figure something out."
+      ],
+      "links": [
+        {
+          "href": "https://docs.google.com/presentation/d/16cCYQlC2yE8XWMQ1k02MpF4kXczTDdPQ/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "ppt"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1i1CkyMRuhZOK22vUM3sCse3_Dxo6ebne/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1XLQfRPxxWeK7tPiW52Ax7lCKEJ-XSbeF/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1m6Q8RDFjEjgxLikf8mS0xtEQmPB8OFMD/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1At6EQxOw3g8PUXQIpDJb0bAsh1iWDD7_/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/1U-wkIHf2B9DtF6aIUwgiI0dlMsqWhD3B/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "Elitzur-Vaidman ppt"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/1m95RiL3m717dCfKj6IzLEbU3GXRx1OGs/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "QKD ppt (part 1)"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/1UxI8__je2SAU5Jz0Kub-D_b5hRyBhDgE/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "QKD ppt (part 2)"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1V4pv7hDJPOsGrot6paho0zKVViwuw9a0/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1bjKNJBFTPfd7ZlwIkPJ-xwxCxvjKIFQI/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/10wzfANXuPXOopsxIc6nQz0wrtXD0DU-k/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "ppt"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1sAUy_6Z7ZVhdRkChdx-xQx_SbHd-SykY/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/16kWvcPb4sRQ8phe6hJbXi4aEFvmNVpuD/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1G6b5Yt4cpwbkKVr0DBKtaOjFhUWjj5bJ/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1o_6OOtu8992cGlMO6AODvBakZ-lcWS4r/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/10Qe7hSZh3o2GHKFb7tCHgvW9qbdb5HC4/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "slides"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/1JH2O-dOzRVo3RYdbNTZWwIAblAv0cY06/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "slides"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1h0K8YhRyAwLQbAFwY_saOF_ts3YrlYGv/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1mriMA5F7TLHZ_aErsWI3_6mFORpO1J1M/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1Y9SC8kNP1f7H4fNAk-NoKSZw2pniLa7s/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1uQa5g2pnsPyQdLrOLVCSDFdkOFHDHW9u/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/1S1VjwqhFBjASLDWiok7Xjpq803eB74xe/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "slides"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1a-jGdgLUZcH26y2ePSEYWKy_F4js7vOT/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1pz4uUvWSezn8E3bQaL1WXxhKK0bHtN6T/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1ZV8x7HCdbzx9vrC3kMJ-K58F0VErfxwl/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/1_KZvi78RIlEGPfPU6WaRBY1hD1pu7UMe/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "slides"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1d19s-9S1GaP9l4d8iXOUw6J3H7Wf49Fi/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1gCIB9rJ0TVHpAJsHJWrtEYIEW8M9pK_d/view?usp=sharing",
+          "text": "tex"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1uKBViAg8d7UmJjiWRKEhWIaWBuMc4hBi/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1e8RENeho3h7zud--JUu593b2GL4NaOb3/view?usp=sharing",
+          "text": "tex"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1cyBRNqxtNESDwOzm4sasaEYvQI4g36j7/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1L8TvGjHZAvx5aQrPoZQhERbwhM6QDuer/view?usp=sharing",
+          "text": "tex"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1fH1aeUclAfrZu-wP-1pGEEg9Wy-93HfP/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1PhvMhOmrOyBLAbs_7m5V9fXx-X9SsseE/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1tVsuJk1YDyLrKKZbtQ8KaUKKl8C4mywT/view?usp=sharing",
+          "text": "tex"
+        },
+        {
+          "href": "https://drive.google.com/file/d/17mgPfsE2rPS-XMlRJYoL6LAL8tuk5Zw5/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1IRMyaSv7mkDQdiZXBo1gaOUzxqn4uV59/view?usp=sharing",
+          "text": "tex"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1XWZvP1CTfI8e1LkPQPlV9U40-iMyB5GT/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1JrzG9Jw2Si8f4jhpcuupR-Fg3rXKxCWH/view?usp=sharing",
+          "text": "tex"
+        },
+        {
+          "href": "https://www.cs.washington.edu/academics/misconduct",
+          "text": "departmental policies"
+        }
+      ],
+      "images": [],
+      "embeds": []
+    },
+    {
+      "source_url": "https://www.andreacoladangelo.com/teaching/cse493qsp23",
+      "original_path": "/teaching/cse493qsp23",
+      "file": "teaching/cse493qsp23/index.html",
+      "title": "Andrea Coladangelo's Homepage - CSE493Qsp23",
+      "source_blocks": [
+        "CSE 434: \"Intro to Quantum Computation\"(Spring 2023) *this particular iteration of the course was officially designated as 493Q, but is now offered each year as 434. See here to find the latest version.",
+        "Course InformationInstructor: Andrea ColadangeloTAs: Xun Cao, Logan Milandin, Michael WhitmeyerTime & location: Tuesdays and Thursdays 10-11.20am, CSE2 G10Class Q&A: Ed DiscussionOffice hours: Andrea: Friday 4-5.30pm (CSE2 212)Xun: Wednesday 4.30-5.30pm (CSE2 150), Thursday 4.30-5.30pm (CSE2 153)Logan: Monday 2-3pm (Allen 5th floor breakout space), Wednesday 2.30-3.30pm (CSE2 151)Michael: Tuesday 4-6pm (CSE2 151)",
+        "Course DescriptionThe goal of the course is to rigorously understand the basics of the theory of quantum computation, and to explore as many fascinating applications and phenomena in quantum information as possible. Prerequisites: students should have taken at least one linear algebra and one probability class (the more familiarity the better, but we will review what is strictly necessary at the start), and preferably also one discrete math class.",
+        "Tentative Schedule03/28: Course overview; the double-slit experiment; complex numbers (slides, notes)03/30: Linear algebra review; probability review; single-qubit states and measurements (notes)04/04: Single-qubit measurements (continued); measurements in a different basis; uncertainty principle; global and relative phases (notes)04/06: Quantum gates; Elitzur-Vaidman tester (notes, slides)04/11: Quantum key distribution, states of many qubits (notes, slides)04/13: States of many qubits (continued), measurements and gates (notes)04/18: Partial measurements, Magic Square game (notes, slides)04/20: CHSH game (notes)04/25: No class (take home midterm)04/27: Midterm review05/02: CHSH game (continued); Quantum teleportation (notes)05/04: Basics of quantum computation (notes)05/09: Deutsch's algorithm; Simon's algorithm (slides)05/11: Simon's algorithm (continued); Programming quantum algorithms (notes)05/16: Grover's algorithm (notes)05/18: Grover's algorithm (continued); Shor's algorithm and period-finding (notes)05/23: Shor's algorithm and period-finding (continued) (notes)05/25: Shor's algorithm and period-finding (continued) (notes)05/30: Final (in class)06/01: Final review; Hamiltonians and simulating quantum physics (slides)",
+        "Homeworks & ExamsHomework 1 (due Wednesday 04/05 at 11.59pm): pdf, texHomework 2 (due Wednesday 04/12 at 11.59pm): pdf , texHomework 3 (due Wednesday 04/19 at 11.59pm): pdf, texMidterm (due Wednesday 04/26 at 10am): pdf, texHomework 4 (due Wednesday 05/10 at 11.59pm): pdf, texHomework 5 (due Wednesday 05/17 at 11.59pm): pdf, texHomework 6 (due Wendesday 05/24 at 11.59pm): pdf, texFinal (in class): pdf, tex",
+        "Grading60% homeworks, 20% mid-term, 20% final"
+      ],
+      "links": [
+        {
+          "href": "/teaching",
+          "text": "here"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/1fAo2Jo4_cICPFy2EpsbiTF401aylcNtQ/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "slides"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1cYWv1Lla0y7SbUgthVXhwyf27cg_zAp4/view?usp=share_link",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1L6TYRweTP_U6xE1O4uAI_PycxPuTVUtm/view?usp=share_link",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1VCMLA8o7gCjXkTKjvPP-ivVCVdleV_ZH/view?usp=share_link",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1JcgJZxkfqz-VA-dU25pIolFsXXNablrN/view?usp=share_link",
+          "text": "notes"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/1kS_t_vPJSEpzRp10IZvMmJr5F43GUloE/edit?usp=share_link&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "slides"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1eGE9muKBj0nPMVFzrxd0gwdLebqfc_SF/view?usp=share_link",
+          "text": "notes"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/1Tqia5-nxbD0ciXfo4RgAkKaCptj0Iif5/edit?usp=share_link&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "slides"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1VcQEwsMU9RJNvTwUF11D0AwzTqmCRoJ4/view?usp=share_link",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1yOTx1nwQjQkDzlNNHGdhT6YBQ-Hl5T0d/view?usp=share_link",
+          "text": "notes"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/17K2voJ0WiRMtHo2GOcoZpASLZIopshYY/edit?usp=share_link&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "slides"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1hJUftIaEgneZtt_oSfGO5jExfFSZ6art/view?usp=share_link",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1sgZx-Cbg6QW7w0oJSaZxtvliZ2S9Op8K/view?usp=share_link",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/15wKmBxFzf0axlnwv41SX48U9F9E1WP-D/view?usp=share_link",
+          "text": "notes"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/1xAt-HR8Mfz-qk3KBbupwGV2mpFCxf18C/edit?usp=share_link&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "slides"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1ISE36HbDR_HGkQ9I2eyXzwsb8n8EdkY-/view?usp=share_link",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1WJeRWQAnisXOVjN5X05oXlFjJ3mtiMTF/view?usp=share_link",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1YAW73FIWRqQQNXQiogQ3s1bu0bHJgqli/view?usp=share_link",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1alZhX1Fgbs4z1tyz6ldWGlnPL2vSdBDq/view?usp=share_link",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/18jPBk8Ii0BNJVDvlhP9uHT3TAvmPo5qQ/view?usp=share_link",
+          "text": "notes"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/1bdmdokFtjXgPTMHCLx-b0zLuY4bqNn4T/edit?usp=share_link&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "slides"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1v4k9W6Ap2AD8DQhxiNWeKTFdVWYyURBa/view?usp=share_link",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1Mcic0qIxVphILFVuJPtvGYRRYeyU0_Ll/view?usp=share_link",
+          "text": "tex"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1GtotECcacR8dSXR4Y3EjQHdmY3IZ9eAB/view?usp=share_link",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1deT8OR1w2agx_RI4IzpAmNAYsFQQ6ulH/view?usp=share_link",
+          "text": "tex"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1Iyg8FqO2dX9g0-C-X0yC0XUGgYnjzg1R/view?usp=share_link",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1to446RcIf8tsgDyJFmecik26es2-5rEU/view?usp=share_link",
+          "text": "tex"
+        },
+        {
+          "href": "https://drive.google.com/file/d/14OewUuj3Mer_dPr4AyGcBz-Vjx5phBH9/view?usp=share_link",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1Gk47lsKjo5uElsE7jHslRJeXajT5iILP/view?usp=share_link",
+          "text": "tex"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1YPC7VnNc5dMjnBQs_oA8uXti-BFkGdPL/view?usp=share_link",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1WmD9QukvaU6NjJPLXLo5JIOg7nGEUUwZ/view?usp=share_link",
+          "text": "tex"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1hydRO3cXkmx9WsQKgG2vIfZdSvMm8MhI/view?usp=share_link",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1HIdXnDFqoFBOQQ41j1IwWnPUK_IdaWQ-/view?usp=share_link",
+          "text": "tex"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1slTkmYj24t_khRMthBwkD1Ci3bPU57GH/view?usp=share_link",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1R1Z6Pud8nX7c2o8qrPO1W07Dtv6YTZqt/view?usp=share_link",
+          "text": "tex"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1DWqUlFZHPhZ6Tk89_flivbPQqEfng_C9/view?usp=share_link",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/14FYeXSAF8OmMKgTgRPhaivdq96Ejyg5R/view?usp=share_link",
+          "text": "tex"
+        }
+      ],
+      "images": [],
+      "embeds": []
+    },
+    {
+      "source_url": "https://www.andreacoladangelo.com/teaching/cse493qsp24",
+      "original_path": "/teaching/cse493qsp24",
+      "file": "teaching/cse493qsp24/index.html",
+      "title": "Andrea Coladangelo's Homepage - CSE493Qsp24",
+      "source_blocks": [
+        "CSE 434: \"Intro to Quantum Computation\"(Spring 2024)*this particular iteration of the course was officially designated as 493Q, but is now offered each year as 434. See here to find the latest version.",
+        "Course InformationInstructor: Andrea ColadangeloTAs: Lukshya Ganjoo, Justin Tysdal, Gian Marco VisaniTime & location: Tuesday and Thursday 10-11.20am, CSE2 G10Class Q&A: Ed DiscussionOffice hours:Andrea: Monday 4-5pm (CSE2 212)Justin: Tuesday 3.30-4.30pm (CSE2 153)Luksh: Wednesday 3-4pm (Allen 5th floor breakout space)Gian Marco: Friday 2.30-3.30pm (Allen 4th floor breakout space)TA-led section: Friday 1.30-2.20pm, ECE 045",
+        "Course DescriptionThe goal of the course is to rigorously understand the basics of the theory of quantum computation, and to explore as many fascinating applications and phenomena in quantum information as possible. Prerequisites: a lot of familiarity with concepts from Math 208 (Linear Algebra) and CSE 312 (Foundations of Computing II).",
+        "Tentative Schedule03/26: Course overview; the double-slit experiment; complex numbers, linear algebra review (slides, notes)03/28: Linear algebra review (continued); single-qubit states and measurements (notes)04/02: Measurements in a different basis; uncertainty principle; global and relative phases; unitary evolution (notes)04/04: Bra-ket notation; Elitzur-Vaidman tester; Quantum Key Distribution (notes, slides, slides)04/09: States of many qubits, measurements and gates (notes)04/11: Partial measurements, Magic Square game (notes, slides)04/16: CHSH game (notes)04/18: CHSH game (continued); Quantum teleportation (notes)04/23: No class04/25: Midterm review04/30: Basics of quantum computation (notes)05/02: Basics of quantum computation (continued); Deutsch's algorithm (notes, slides)05/07: Simon's algorithm (slides, notes)05/09: Simon's algorithm (continued); Programming quantum algorithms (notes)05/14: Grover's algorithm (notes)05/16: Grover's algorithm (continued), Shor's algorithm and period-finding (part 1) (notes)05/21: Shor's algorithm and period-finding (part 2) (notes)05/23: Shor's algorithm and period-finding (part 3) (notes)05/28: Final (in class)05/30: Final review, and TBD",
+        "Homeworks & ExamsHomework 1 (due Wednesday 04/03 at 11.59pm): pdf, texHomework 2 (due Wednesday 04/10 at 11.59pm): pdf, texHomework 3 (due Wednesday 04/17 at 11.59pm): pdf, texMidterm (due Wednesday 04/24 at 11.59pm): pdf, texHomework 4 (due Wednesday 05/08 at 11.59pm): pdf, texHomework 5 (due Wednesday 05/15 at 11.59pm): pdf, texHomework 6 (due Wednesday 05/22 at 11.59pm): pdf, texFinal (in class): pdf, tex",
+        "Grading60% homeworks, 20% mid-term, 20% final",
+        "Late submission policy4 tokens for 24 hours late submission of homeworks, no questions asked (you may use at most one on each homework). The tokens cannot be used on the take-home midterm."
+      ],
+      "links": [
+        {
+          "href": "/teaching",
+          "text": "here"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/1za8eCKBJoXFhTnmw2uuX_f064HGPPi1L/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "slides"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1vx87iOP6Sb_xsDv1lGofd70E4x_Gkk_c/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1ybngdMFVMzkdKUEaehy3PhVuZy5yI18h/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1sk0cnITNG7gWh8831NoyHVjdCeTy5TlF/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/15XDXvyS-LQ_ge35Z3kqzaY2bq6iQauNw/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/1OPpKYWAg8Hp0rSXqnfFATMqF9NwgmXrZ/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "slides"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/1B3j40-vzIxKU0yEcDi7I0DrzrzlsbkYP/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "slides"
+        },
+        {
+          "href": "https://drive.google.com/file/d/113iRYKYQj4gxe9JXypAde53_6DigZn3x/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1pIBsJBnHXuFuJscftFFa70rpOZW5paSx/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/13oLHLbd6WCx4ArGpCtou6pWHY0ECJ3xc/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "slides"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1rhyLHK6rGVEK9-qqLQAX20fdQGOWnbvt/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1wBpPVerwz28Bia1FdTj_qhRTjJaQz3H7/view?usp=sharing",
+          "text": "notes)"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1dzHqlCiQPPegZeF8viQctzzRl5Ug4KDk/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1gfRez77CRpHOJ5z9wg8iyZ_Ti64yuwyv/view?usp=drive_link",
+          "text": "notes"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/1WZ8O3qpk0buCmeoHf8Fk8ePAPQDnkFAC/edit?usp=drive_link&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "slides"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/1I_1ek5CXMsaOEYGbubPD56FAw7Gr5Igq/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "slides"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1uzu3m0bigz9NCnvY6fGk1T3GQFmkpKIK/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1BBjbq5L8rivGeALdURZ22Ix3oVnb2R9s/view?usp=drive_link",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1VaLc_UhRxJvPqzduucD4OEDJyWNFpU6k/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1qnXjLrSdnh9Bzzwo36ruTb9ZHVGbZWsK/view?usp=drive_link",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1o4bDiHc5hK0X1omOOrwmGo4iyjq2yytE/view?usp=drive_link",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1u6kv7t2-dKoWjYtvUP244xLOwLi3Iyar/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1NcJhdL9XNLtIN27rj6Otbd_nf42MXlRa/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1rxqi4RAuaadDqNEXxHnExfgJSJ-7Rltz/view?usp=sharing",
+          "text": "tex"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1DbKVRJNikQTImICq7BUZ-YEcYPU5IJqy/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1HwqCnHBRq8FiDdWG2r16DjLWlwl-3TBu/view?usp=sharing",
+          "text": "tex"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1-iW01GLt8NujDxBMFNEN0eNMd-yBrTb0/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1eYrkXTBInpK1siuQP3LdtGZjvIQhhHN-/view?usp=sharing",
+          "text": "tex"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1Tot1EaJLzznpDcSTI5ZJXktbkpxWuuEh/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1OqPhXJRePoLHfpqZb0HuZdZJDQANSZzs/view?usp=sharing",
+          "text": "tex"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1fYKXfBug96L2jhJkrRD9xhv1sWzC1i_S/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1nPykwb1u8FZnSrkwi1QD4kSQQcIDt3b6/view?usp=sharing",
+          "text": "tex"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1VyPkqQYVXMUTn4aINx3xrUDr6yIm5Ga1/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/14uDCn1mcYs4ujJtpGfOlBjITGDekqwej/view?usp=sharing",
+          "text": "tex"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1gXrIu_P5sujAX42y49PCWdDatD5KAb61/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1G1K61tdVa987a8EIYP6_jJm0lp-kapKR/view?usp=sharing",
+          "text": "tex"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1ONLgXIKTD7YF2_mli67VirP54qQzCIyh/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1rFuBe5Hrnyo_fr0Ip81TnIxdFRzIOncC/view?usp=sharing",
+          "text": "tex"
+        }
+      ],
+      "images": [],
+      "embeds": []
+    },
+    {
+      "source_url": "https://www.andreacoladangelo.com/teaching/modernquantumcryptowi26",
+      "original_path": "/teaching/modernquantumcryptowi26",
+      "file": "teaching/modernquantumcryptowi26/index.html",
+      "title": "Andrea Coladangelo's Homepage - ModernQuantumCryptoWI26",
+      "source_blocks": [
+        "CSE 599C: \"Modern Quantum Cryptography\"(Winter 2026)",
+        "Course InformationInstructor: Andrea ColadangeloTime & location: Tuesdays and Thursdays 11.30am-12.50pm, CSE2 271Class Q&A: Ed DiscussionOffice hours: Thursdays 3-4pm (CSE2 212)",
+        "Course DescriptionQuantum cryptography (surprisingly!) dates back to the 80’s (or even earlier), to the discovery that quantum communication enables the exchange of secret keys with information-theoretic (i.e. “unhackable”) security. Over the past decade or so, the field has been experiencing a modern revolution, with the focus shifting towards “computational” security, and the many more applications that this relaxation brings about. This course will describe a few samples from the following broad directions in “modern” quantum cryptography, showcasing some cool applications, but also trying to focus on techniques that can be useful elsewhere:1. Security of classical protocols against quantum adversaries.2. What new cryptographic functionalities can we realize in a quantum world that are impossible classically?3. Can we base the existence of “computational” cryptography on the hardness of inherently quantum problems (i.e. problems with quantum inputs and/or quantum outputs)?;4. Verifiable demonstrations of quantum advantage based on cryptographic techniques.This is an advanced course: the recommended prerequisite is to have done well in the graduate course “Quantum Information and Computation” (CSE 534) (or in an equivalent course). Familiarity with cryptography is helpful, but not required. An alternative combination that also qualifies as a prerequisite is to have done well in a graduate Cryptography course (e.g. CSE 526) + familiarity with at least undergraduate-level quantum computation.",
+        "Schedule01/06: Course overview; quantum information and cryptography preliminaries (notes)01/08: Cryptography preliminaries (continued); zero-knowledge proofs (notes)01/13: Zero-knowledge proof for graph 3-coloring (notes)01/15: Post-quantum zero-knowledge (Marriott-Watrous rewinding, part 1) (notes)01/20: Post-quantum zero-knowledge (Marriott-Watrous rewinding, part 2) (notes)01/22: Post-quantum security of protocols in the Random Oracle Model (intro) (notes)01/27: The \"compressed oracle\" technique, part 1 (notes)01/29: The \"compressed oracle\" technique, part 2 (notes)02/03: The \"compressed oracle\" technique, part 3 (notes)02/05: Quantum query lower bounds for search and collision-finding via \"compressed oracle\" (notes)02/10: Proofs of quantumness and certifiable randomness (overview and trapdoor claw-free functions (TCF)) (notes)02/12: Proofs of quantumness and certifiable randomness (proof of quantumness from TCF + random oracle) (notes)02/17: Proofs of quantumness and certifiable randomness (certifiable randomness from TCF + random oracle, the \"inability to prove\") (notes)02/19: Proofs of quantumness and certifiable randomness (the \"inability to prove\", and encryption that protects against \"coercion\") (slides)02/24: No class02/26: The foundations of cryptography in a quantum world (intro + OWFs imply oblivious transfer, part 1) (notes, slides)03/03: No class03/05: The foundations of cryptography in a quantum world (OWFs imply oblivious transfer, part 2) (slides)03/10: The foundations of cryptography in a quantum world (random and pseudorandom quantum states) (notes)03/12: The foundations of cryptography in a quantum world (commitments from pseudorandom states) (notes)",
+        "HomeworksHomework 1 (due Wednesday 02/18 at 6pm): pdf, texHomework 2 (due Thursday 03/05 at 6pm): pdf, texHomework 3 (due Thursday 03/19 at 6pm): pdf, tex",
+        "Grading3 homeworks, each worth 1/3 of the grade.",
+        "Late submissionsYou have three tokens for a 24h late submission (no questions asked). You may use any number on the same homework."
+      ],
+      "links": [
+        {
+          "href": "https://drive.google.com/file/d/18WxGoxl2yz_Xsezb7LQ2ZsUTBb6-vNJk/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1gZGQgqmTBlRwO8YsNuls1NiJPq_TBDXw/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1kyxby8fQ2p2TdC-UNzTkn5p0u7clGWvr/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1KCTsuX_B9c78-yx8si8NVBoeHMv9p7SR/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1qM650PZudHAypo9oBTktqkB8_AOBNv9u/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1ALbbEBu4SLtUDJCKZk6Xi2htNra-oOrs/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/190QF_ZjsTmIHOJUhy4aKdil9nKO794-6/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1be8YZRXioamVuUglmSAyx0doMdzT6qQ2/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1rBNUN7xkrmAZfqhPDV0owyPBeyAVOaV3/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1Wqf3-alJQIH_Uvmc-CALUVE-SZ0aKfN-/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1iRHKjx2Exh4UJfP5Fz8tMf6awOrFxO0p/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1r-hsF1oaZsD0iAp_Dxr869iWMksH0pxE/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1BiyjEpUyIidIY7BWNlDAD-pDdVdW5v8k/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/1TyHLqAb02t5sxt8XDCj2C1MyiH4jfM01/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "slides"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1eBHCMyuQx905xoMoh09sbAndjZDWs9mS/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/1IYZLpNXqfpBUpamRL1DKdy0V5ypFbXu3/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "slides"
+        },
+        {
+          "href": "https://docs.google.com/presentation/d/12FuTeKLsf1FabP7yW0pU52vM33TnYAyO/edit?usp=sharing&ouid=106616928781092272648&rtpof=true&sd=true",
+          "text": "slides"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1PJgaw226U3PwVJoe8nXofDQlQxhteN-R/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1cB5GiFZIC9OMdl_N2OzTtkatld4RN-d9/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1Ag0kCa-goIEnXq4URJtucvpc55VpxH-1/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1bxXrwIFoXAIezoYwGJujpFXAqWg8Wvbf/view?usp=sharing",
+          "text": "tex"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1mCX1IS4zJ2xx4bVtMNilvAguJP4exOKA/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/15n3mF0ABMmuQqtIUp4Xsb1GScBmCX6R3/view?usp=sharing",
+          "text": "tex"
+        },
+        {
+          "href": "https://drive.google.com/file/d/15cPTOWG2mFqPBd2uYiOFUC5F_-DC0n-B/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1Y3wr5jazOOGolxn8sTQo-1IiK4mmEYND/view?usp=sharing",
+          "text": "tex"
+        }
+      ],
+      "images": [],
+      "embeds": []
+    },
+    {
+      "source_url": "https://www.andreacoladangelo.com/teaching/quantumlearningtheorywi25",
+      "original_path": "/teaching/quantumlearningtheorywi25",
+      "file": "teaching/quantumlearningtheorywi25/index.html",
+      "title": "Andrea Coladangelo's Homepage - QuantumLearningTheoryWI25",
+      "source_blocks": [
+        "CSE 599C: \"Quantum Learning Theory\"(Winter 2025)",
+        "Course InformationInstructor: Andrea ColadangeloTime & location: Tuesdays and Thursdays 11.30am-12.50pm, CSE2 G04Class Q&A: Ed DiscussionOffice hours: Thursdays 4:30-5.30 (CSE2 212)",
+        "Course DescriptionThis course is an introduction to the topic of “quantum learning theory”, in the sense of learning properties of a quantum state given copies of it. Unlike a classical string, whose description is entirely known from reading it once, it is not in general possible to learn the “description” of a quantum state given a single copy of it, since a measurement in general disturbs it. This leads to the question: when can we learn (a useful description of) a quantum state? We will explore various settings starting from foundational results on quantum state “discrimination” (i.e. identifying a state from a known family) and quantum state ”tomography” (i.e. learning the entire description of the state given a large number of copies), and then moving to recent developments on “shadow tomography” (i.e. learning useful classical descriptions of a state given few copies). This is an advanced class: familiarity with the contents of the graduate course “Quantum Information and Computation” (CSE 534) (or equivalent background) is a prerequisite.",
+        "Approximate List of TopicsWe will be taking inspiration from John Wright's recent course. We will be following a somewhat similar outline, and you can find good lecture notes there. A tentative list of topics:Quantum State Discrimination (identifying a state from a known finite collection of states)Quantum State Tomography (learning a full description or specific properties of an arbitrary state)Shadow Tomography (learning short but useful descriptions of states that can be used to approximately predict many properties of interest)Learning in various specialized settings (depending on time, we will explore applications of the techniques we learnt to some settings of interest, e.g. learning local Hamiltonians, learning states generatable in short-depth, distinguishing random from pseudorandom states).",
+        "Schedule01/07: General framework for quantum learning; review of quantum information; \"Quantum State Discrimination\" for two pure states (notes)01/09: Quantum State Discrimination for two mixed states (given a single copy); trace distance (notes)01/14: Quantum State Discrimination for two mixed states (given multiples copies); fidelity (notes)01/16: Quantum State Discrimination in the general setting; the \"Pretty Good Measurement\" (notes)01/21: Equality and Purity Testing; the SWAP test (notes)01/23: SWAP test and the symmetric subspace (notes)01/28: Symmetric subspace (continued); intro to Quantum State Tomography (notes)01/30: \"Tomography\" for classical distributions; single-qubit tomography (notes)02/04: Single-qubit tomography (continued); intro to the \"Pauli tomography algorithm'' (notes)02/06: (no class)02/11: The \"Pauli tomography algorithm\" (notes)02/13: The Haar Measure (notes)02/18: The Haar measure (continued); optimal pure state tomography (notes)02/20: Unitary designs; The \"quantum OR lemma\" (intro) (notes) 02/25: The \"quantum OR lemma\": an algorithm based on Marriott-Watrous estimation (notes)03/04: \"Classical shadow tomography\" (part 1) (notes)03/06: \"Classical shadow tomography\" (part 2) (notes)03/11: \"Classical shadow tomography\" (part 3) (notes)03/13: Quantum state certification of almost all states from few single-qubit measurements (notes)",
+        "HomeworksHomework 1 (due Sunday 01/19 at 6pm): pdf, texHomework 2 (due Sunday 02/02 at 6pm): pdf, texHomework 3 (due Sunday 02/16 at 6pm): pdf, texHomework 4 (due Thursday 03/06 at 6pm): pdf, texHomework 5 (due Friday 03/21 at 6pm): pdf, tex",
+        "Grading5 homeworks, each worth 20% of the grade.",
+        "Late submissionsYou have three tokens for a 24h late submission (no questions asked). You may use more than one on the same homework."
+      ],
+      "links": [
+        {
+          "href": "https://people.eecs.berkeley.edu/~jswright/quantumlearningtheory24/",
+          "text": "recent course"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1zb8N4wDqDaIOjBqdQj9w3RMWKLft7zHf/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1fewHTiDDpVR-m96bdypWjNtV7lIwgdK0/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1Rgr9iqwE0XSAhuyDp7sFH6sJWjoOHVL8/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1fmNohlxkjgolylj2mnCdz0S_0a8DE2VP/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1-Tazh92jQ-1FYwpblAKWCuPLRdDnXn_v/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1P7oLwq1gn2PaVPpd4IuhKuYbFlvqmI7y/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1d205UGxpRn4ZW662bLFBhAxYksRerwsC/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1X8S7G-TatrTHCJdayjdy_2OvTMjUiDRI/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1XJJ-10aiZRWXlKBECLcvh9wrKJ_XkAGy/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1wV8IcTDzXJOIbqQ1fdeEsXpl6ZIy6myq/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/167ZMn_vNINMBCyAvNEyqY7BptcZlDy06/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1q84BeR-wLNsK84sP__8sL8Zdpk7axJ6_/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1TqJOE9oOV_asJYgyev_Lg4xXqiTZacy9/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/14XdIkCDqJ3tZVWXgC0n5HvQA3DODeL7O/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1BJIc1pgBdGqywvYapDjPWTPF-OOzdKT9/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1AoNzcaGINREH9Btp6lHqGwePHVwM_tGx/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1Cyo9og0XQsQua_vN9IDjsAhlkusATDZT/view?usp=drive_link",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1FaRqDeF0sBjgzLpIYTM5EPjZLKguz03F/view?usp=sharing",
+          "text": "notes"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1cvD6kNKJVawnRM9bCunbigH1YfsPlinf/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1TDNHHk2C2nrzLJE-54bbP_wLkgMxRvZt/view?usp=sharing",
+          "text": "tex"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1OqsAMm_nB3AQx3r8UZy3gdTaOiFXDYvI/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/10zM_ayaK-rMgWLNeyLfu_6JD5sFkcM1d/view?usp=sharing",
+          "text": "tex"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1DSsVO6LlJzvWIN1UxK2Md2F_memes0GP/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1q9OfsB5xJja-QrvMj-RkPi-2VGtD4Y9h/view?usp=sharing",
+          "text": "tex"
+        },
+        {
+          "href": "https://drive.google.com/file/d/1bcNgWep8YOTNpJ01Gcy42755r6YvCeYh/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/11Ojp4go6VVqU8Cba-jPVgvKrvvOCiVHu/view?usp=sharing",
+          "text": "tex"
+        },
+        {
+          "href": "https://drive.google.com/file/d/18qG3g7EMVAF-eq_th3FcvGCJKQfWta4e/view?usp=sharing",
+          "text": "pdf"
+        },
+        {
+          "href": "https://drive.google.com/file/d/10LpONQGz0oTNIEIKzJ3CQsHYFxN9yFHG/view?usp=sharing",
+          "text": "tex"
+        }
+      ],
+      "images": [],
+      "embeds": []
+    },
+    {
+      "source_url": "https://www.andreacoladangelo.com/teaching/quantumprogramming",
+      "original_path": "/teaching/quantumprogramming",
+      "file": "teaching/quantumprogramming/index.html",
+      "title": "Andrea Coladangelo's Homepage - QuantumProgramming",
+      "source_blocks": [
+        "Quantum Programming tutorial with homeworks",
+        "This is a (more or less) self-contained resource that originated from this undergraduate quantum computing class. It is suitable to be integrated in an existing theoretical quantum computation class, e.g. in the format of one lecture together with a few accompanying homework problems. This resource gets you started writing quantum programs and running them on quantum devices. It uses qBraid's platform, which allows the user to write the code once, and to run it on most of the available quantum devices in the cloud (IBM, Rigetti, QuEra, IonQ, Xanadu, OQC, IQM). The quantum code in this resource is written in Qiskit, but the same code can be used to run on all devices. The existing homework files can be edited, and of course you can also create new ones and easily share them with your class.",
+        "To get started:Create an account on qBraid (or sign-in with Google).Visit the Github repo for this tutorial, and import its contents into your qBraid account by clicking on the \"Launch on qBraid\" button in the README file. If asked to select a GPU, select the \"Free\" one, and then click \"Start\".",
+        "This should automatically launch \"qBraid Lab\" and populate your account with the desired notebook files. You should land on an interface that looks more or less like the image below. The imported files appear in the file directory on the left, as part of a folder called \"493Q\". You can double-click on the folder to see its contents.",
+        "How the platform works:qBraid Lab is a platform that allows you to create and interact with Jupyter notebooks, and it includes features that are tailored to writing and running quantum programs. If you are entirely new to Jupyter notebooks (.ipynb files), these are a popular document type that combines text (Markdown), equations (Latex), and runnable code.",
+        "Double-clicking on a Jupyter notebook (.ipynb) from the directory on the left will open it at the center of the interface. A Jupyter notebook consists of \"cells\". You can run each cell within the notebook, by typing Shift+Enter, or by clicking on the \"run\" button at the top of the notebook. Each notebook cell runs within a \"virtual environment\". You can see the environment that is currently in use at the top right of the notebook. If you haven't changed anything yet, you'll see something like \"Python 3[Default]\". You'll be instructed to change this environment as you follow along the first tutorial notebook.Every cell is editable. You can save your changes by clicking on the \"save\" icon at the top of the notebook.Sometimes, it is useful to clear all outputs and variable assignments in the current notebook. You can do this by selecting \"Kernel\" in the top menu bar, and then \"Restart Kernel and Clear All Outputs\".On the right, there is a list of environments. You'll find more information on what environment to choose in the first tutorial notebook.These are more or less the essentials. To learn more about the platform you can read here.",
+        "From zero to writing your first quantum program, and submitting a job to a quantum deviceFind and open the notebook First_quantum_program.ipynb. This is a tutorial notebook that will take you through writing your first quantum program, and submitting a quantum job to an actual quantum device. You can go ahead and follow along the whole tutorial to familiarize yourself with the basics of the platform and how to write quantum programs. At the end of the tutorial, you will need to have sufficient credits to submit the program you write to an actual quantum device (you can purchase the credits if you wish to do so, but note that these are not necessary to follow along with the rest of the tutorial). If you are an instructor using this resource, one option is to familiarize with this notebook (and the platform) first, and then to go through this notebook live during class.",
+        "Homework notebooksIf you have imported the contents of this github repo correctly at the earlier step, you will see the following notebooks in your directory on the left. These homeworks involve submitting quantum jobs to various quantum devices. They assume that students have previously learnt about the relevant topics in class.HW5_Problem2.ipynb guides you through implementing Deutsch's algorithm.HW5_Problem3.ipynb guides you through implementing a quantum circuit for the CHSH game. How good of a CHSH violation, if any, do the available quantum devices achieve? :)HW6_Problem2.ipynb guides you through implementing Grover's algorithm to search for a marked input of length 3. This is definitely more challenging than the previous two problems. It takes quite a bit of care to get this to work properly. Even then, does any of the quantum devices give a meaningful result?",
+        "Customizing notebooks and creating your own shareable repository:All of the notebook files are editable within qBraid Lab. You can also create new ones, as well as new folders. If you'd like to share your notebooks with your class (in the same way as you imported the notebooks for this tutorial) you can do the following:Download the notebooks of interest from qBraid Lab (you can do this by right-clicking on a notebook file, and then clicking on \"Download\"). Create a new Github repo, and upload your notebook files there.Edit the README.md file from this tutorial by swapping the URL that it references with the URL of your Github repo. Upload the new README file to your Github repo. If you visit your Github repo, you should see the same \"Launch on qBraid\" button that you used for this tutorial, except that it now imports the files in your repo."
+      ],
+      "links": [
+        {
+          "href": "/teaching/cse493qsp23",
+          "text": "this"
+        },
+        {
+          "href": "https://www.qbraid.com",
+          "text": "qBraid"
+        },
+        {
+          "href": "https://account.qbraid.com/",
+          "text": "qBraid"
+        },
+        {
+          "href": "https://github.com/ardroc92/493Q",
+          "text": "Github repo"
+        },
+        {
+          "href": "https://docs.qbraid.com/en/latest/lab/overview.html",
+          "text": "here"
+        },
+        {
+          "href": "https://github.com/ardroc92/493Q",
+          "text": "this github repo"
+        }
+      ],
+      "images": [
+        {
+          "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tLgVq3W_jyw9djlpssKURetpH5QQT4_6Cb0ZxqgY1wIOAD1MgYHhGgaTtnYMKHnP0P8NZFXoOZN48H_kz_3uqvxQ3PdgCf3mezsO7yaQ5bUfMuRkvBvu9k3IheG4LzgpIP6-4z9qo6PlaY7nbcwX5KtlRHGE3kU7EQmu2cvwn2QDaznWunWh86OR_c7w2s7kUAmRc787jVFgr9D0uwDko3JWowHcz6l171rUc16HM=w1280",
+          "local": "assets/images/quantum-programming-tutorial-1.png"
+        },
+        {
+          "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vAaqdSSOpLCllzj2pfqTLcG1rbwLSCU9YqRIs08g6-7cyUsDtOgXvVqRNI5fz6uNU7e2SyuWSMJNOiK_9ye6ie8jOnnrXLj4EhxvZAkndJjfOLwL8cJ8hBzNfG8lXSfC-Dt6qgPGR_GPwxyM54BQTgaWiOf_8_mrUgc1H65Rgz7CYlmSbS9nz-iYQoAIMhkhohqTNkqxzQkdNYq1_rsYfgVJOtIw-rIEn-tkj1fCU=w1280",
+          "local": "assets/images/quantum-programming-tutorial-2.png"
+        },
+        {
+          "source": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sPB5NSc6zncX3QwdrZO_imn7wMEENLl4zk5zhPSmiAsfkTQf8NfCrMt_DLeg_hurati-eeuVvlW7Hnl9zdbRFBb7j-5p__toO7TxKe-NLjPNYuS2mwya6cgNA1ejo8ofTQt9hgrDvtE4Qk-2x4W3GPkMo5Bh82rK3xoaY_F3cuzpRWM9YApAxLwg1lKH4qlgyQFa6dwdpmkNtjoU3gk2uuiMLVbxMnj0jVroz6=w1280",
+          "local": "assets/images/quantum-programming-tutorial-3.png"
+        }
+      ],
+      "embeds": []
+    }
+  ]
+}

@@ -1,0 +1,272 @@
+{
+  "verified_at": "2026-10-12T19:51:35.263409+00:00",
+  "source": "https://www.andreacoladangelo.com",
+  "passed": true,
+  "source_pages": 29,
+  "html_documents": 30,
+  "local_references_checked": 232,
+  "pages": [
+    {
+      "source_path": "/advising",
+      "file": "advising/index.html",
+      "panel": null,
+      "text_blocks": 2,
+      "links": 6,
+      "images": 0,
+      "passed": true
+    },
+    {
+      "source_path": "/home",
+      "file": "index.html",
+      "panel": null,
+      "text_blocks": 4,
+      "links": 35,
+      "images": 1,
+      "passed": true
+    },
+    {
+      "source_path": "/other",
+      "file": "other/index.html",
+      "panel": null,
+      "text_blocks": 1,
+      "links": 1,
+      "images": 1,
+      "passed": true
+    },
+    {
+      "source_path": "/publications",
+      "file": "publications/index.html",
+      "panel": null,
+      "text_blocks": 1,
+      "links": 90,
+      "images": 0,
+      "passed": true
+    },
+    {
+      "source_path": "/talks",
+      "file": "talks/index.html",
+      "panel": null,
+      "text_blocks": 1,
+      "links": 10,
+      "images": 0,
+      "passed": true
+    },
+    {
+      "source_path": "/teaching",
+      "file": "teaching/index.html",
+      "panel": null,
+      "text_blocks": 1,
+      "links": 11,
+      "images": 0,
+      "passed": true
+    },
+    {
+      "source_path": "/teaching/barbados2024",
+      "file": "teaching/barbados2024/index.html",
+      "panel": null,
+      "text_blocks": 2,
+      "links": 4,
+      "images": 0,
+      "passed": true
+    },
+    {
+      "source_path": "/teaching/cse-599qau23",
+      "file": "teaching/cse-599qau23/index.html",
+      "panel": null,
+      "text_blocks": 7,
+      "links": 27,
+      "images": 0,
+      "passed": true
+    },
+    {
+      "source_path": "/teaching/cse421au25",
+      "file": "teaching/cse421au25/index.html",
+      "panel": "home",
+      "text_blocks": 3,
+      "links": 9,
+      "images": 0,
+      "passed": true
+    },
+    {
+      "source_path": "/teaching/cse421au25/calendar",
+      "file": "teaching/cse421au25/index.html",
+      "panel": "calendar",
+      "text_blocks": 3,
+      "links": 7,
+      "images": 0,
+      "passed": true
+    },
+    {
+      "source_path": "/teaching/cse421au25/exams",
+      "file": "teaching/cse421au25/index.html",
+      "panel": "exams",
+      "text_blocks": 3,
+      "links": 7,
+      "images": 0,
+      "passed": true
+    },
+    {
+      "source_path": "/teaching/cse421au25/hw",
+      "file": "teaching/cse421au25/index.html",
+      "panel": "hw",
+      "text_blocks": 4,
+      "links": 17,
+      "images": 0,
+      "passed": true
+    },
+    {
+      "source_path": "/teaching/cse421au25/lecturematerial",
+      "file": "teaching/cse421au25/index.html",
+      "panel": "lecturematerial",
+      "text_blocks": 5,
+      "links": 119,
+      "images": 0,
+      "passed": true
+    },
+    {
+      "source_path": "/teaching/cse421au25/staff",
+      "file": "teaching/cse421au25/index.html",
+      "panel": "staff",
+      "text_blocks": 11,
+      "links": 16,
+      "images": 9,
+      "passed": true
+    },
+    {
+      "source_path": "/teaching/cse421au25/syllabus",
+      "file": "teaching/cse421au25/index.html",
+      "panel": "syllabus",
+      "text_blocks": 10,
+      "links": 15,
+      "images": 0,
+      "passed": true
+    },
+    {
+      "source_path": "/teaching/cse421au26",
+      "file": "teaching/cse421au26/index.html",
+      "panel": "home",
+      "text_blocks": 3,
+      "links": 9,
+      "images": 0,
+      "passed": true
+    },
+    {
+      "source_path": "/teaching/cse421au26/calendar",
+      "file": "teaching/cse421au26/index.html",
+      "panel": "calendar",
+      "text_blocks": 3,
+      "links": 7,
+      "images": 1,
+      "passed": true
+    },
+    {
+      "source_path": "/teaching/cse421au26/exams",
+      "file": "teaching/cse421au26/index.html",
+      "panel": "exams",
+      "text_blocks": 3,
+      "links": 7,
+      "images": 0,
+      "passed": true
+    },
+    {
+      "source_path": "/teaching/cse421au26/hw",
+      "file": "teaching/cse421au26/index.html",
+      "panel": "hw",
+      "text_blocks": 4,
+      "links": 11,
+      "images": 0,
+      "passed": true
+    },
+    {
+      "source_path": "/teaching/cse421au26/lecturematerial",
+      "file": "teaching/cse421au26/index.html",
+      "panel": "lecturematerial",
+      "text_blocks": 5,
+      "links": 28,
+      "images": 0,
+      "passed": true
+    },
+    {
+      "source_path": "/teaching/cse421au26/staff",
+      "file": "teaching/cse421au26/index.html",
+      "panel": "staff",
+      "text_blocks": 13,
+      "links": 18,
+      "images": 11,
+      "passed": true
+    },
+    {
+      "source_path": "/teaching/cse421au26/syllabus",
+      "file": "teaching/cse421au26/index.html",
+      "panel": "syllabus",
+      "text_blocks": 11,
+      "links": 16,
+      "images": 1,
+      "passed": true
+    },
+    {
+      "source_path": "/teaching/cse434sp25",
+      "file": "teaching/cse434sp25/index.html",
+      "panel": null,
+      "text_blocks": 7,
+      "links": 39,
+      "images": 0,
+      "passed": true
+    },
+    {
+      "source_path": "/teaching/cse434sp26",
+      "file": "teaching/cse434sp26/index.html",
+      "panel": null,
+      "text_blocks": 9,
+      "links": 40,
+      "images": 0,
+      "passed": true
+    },
+    {
+      "source_path": "/teaching/cse493qsp23",
+      "file": "teaching/cse493qsp23/index.html",
+      "panel": null,
+      "text_blocks": 6,
+      "links": 38,
+      "images": 0,
+      "passed": true
+    },
+    {
+      "source_path": "/teaching/cse493qsp24",
+      "file": "teaching/cse493qsp24/index.html",
+      "panel": null,
+      "text_blocks": 7,
+      "links": 39,
+      "images": 0,
+      "passed": true
+    },
+    {
+      "source_path": "/teaching/modernquantumcryptowi26",
+      "file": "teaching/modernquantumcryptowi26/index.html",
+      "panel": null,
+      "text_blocks": 7,
+      "links": 25,
+      "images": 0,
+      "passed": true
+    },
+    {
+      "source_path": "/teaching/quantumlearningtheorywi25",
+      "file": "teaching/quantumlearningtheorywi25/index.html",
+      "panel": null,
+      "text_blocks": 8,
+      "links": 29,
+      "images": 0,
+      "passed": true
+    },
+    {
+      "source_path": "/teaching/quantumprogramming",
+      "file": "teaching/quantumprogramming/index.html",
+      "panel": null,
+      "text_blocks": 9,
+      "links": 6,
+      "images": 3,
+      "passed": true
+    }
+  ],
+  "issues": []
+}

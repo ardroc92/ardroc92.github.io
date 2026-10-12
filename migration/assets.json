@@ -1,0 +1,465 @@
+{
+  "captured_date": "2026-10-12",
+  "note": "Public content image bytes downloaded from the original Google Sites URLs without transformation. Source URLs include the original published size parameter.",
+  "images": [
+    {
+      "source_url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vEIjs80iuONPlnm3F1ZF10YTamq6bOXXKLQoTia_X9Vow7GVHZlyIgvD8TOeJfzqH6oSTltsSXNPan10LyidjtVy_cpD_qKOscDI57vXSLRxdk-XpWBttWp1IVAwgjiLncs9Hq53P5hNkHPyStiR9ZiuzOJc30olxJwDOnIfj_pnZ5GnMW3Z_P_3YxOGULP-mMhsk33e_erNW6WIl-Rizu3qxCPv0k0LPtUkRJoGA=w1280",
+      "occurrences": [
+        {
+          "source_page": "home",
+          "image_number": 1,
+          "google_element_id": "h.7f10e920cf54de9f_5"
+        }
+      ],
+      "download_url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vUJ7E41rZ6fLLUEMTOa_txLcKLzKmuvhDBRAO-1H7Cepc-mrGNhPtg6YcNO2p_2t_Leoij8-zqzuQ5OqOoHIt08_vLjNgfc2T2JizSGAxsqIXA2k3LRuy97Jd16LPViozaLTs7q5_5VNmmSbWoqphZChGf_PeeCAfXy8szNalnZ5p2m7ynl1PbuqJKa9e5NCKavrPjur1T_SzO6lMByZfsJ2bi3kLZQq6F0gCoKb8=w1280",
+      "path": "assets/images/andrea-coladangelo-portrait.jpg",
+      "format": "JPEG",
+      "width": 1280,
+      "height": 1280,
+      "bytes": 185685,
+      "sha256": "e3b775ea2ef2b304f635f4bb1a29702ea2e241068532f6c6afbaec2b8a91469a"
+    },
+    {
+      "source_url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uWn4irhuhCWBJxLgYPwEsGFOTyEcXo0EBJOoAeYE6ufz6ezf-yY3Qktfks1c1Gf749EmatTyEaut8paoW_jn2Dmuwy4e_yLHl7tw2PkqWa0Okw9ITelBsRYamqAdWNrgC7KtYjwocJCcuYdUhkxHtkqB-WtmMwItFdNOpT8zJk_xeCTeiphFAq7YOt8_xPb4rNCYA-sFAug8pPdujBpzZd9kb4eNQghFkfMEIUrvI=w1280",
+      "occurrences": [
+        {
+          "source_page": "teaching/cse421au25/staff",
+          "image_number": 1,
+          "google_element_id": "h.7e8f6f6630b28cdb_4"
+        },
+        {
+          "source_page": "teaching/cse421au26/staff",
+          "image_number": 1,
+          "google_element_id": "h.3befca943e61f414_67"
+        }
+      ],
+      "download_url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tbSasgu82LelS-fQMEnEOskbObpNum8I7mCfDhw7mmLg5O9uwxwR1rvaqkMahKgpZmKEED6lBEA3DwSzqtOcG38Dcns8gCwKBNTeEiZwLz2kbopbjeOoQKa_isQJ_A1jxTiUS5-98SSgTVaeSLkPRoHHlGQxNfqyWpXRyvxXHhMmkGHjB63TQW2EB3Tp3nOANY1PsCwTfESXGXFI4lJzgEvflproGmb0wsJSHOOik=w1280",
+      "path": "assets/images/cse421au25-andrea-coladangelo.jpg",
+      "format": "JPEG",
+      "width": 1280,
+      "height": 1253,
+      "bytes": 159418,
+      "sha256": "782772e70de1b8e0c7270f7ff812ddb702d82a57d6641ba2e50aee8556726d8f"
+    },
+    {
+      "source_url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vLqVracX7rZvvciFTCBTwYCb8FPU7ma49xpWIwOSm52bhR07G25h-5sYb0aKzhR7TBbMmuMw1EmupSv7A0vHddLgj0aJzFEzJgRobo9P3vfErsHsBuFJqI6mHhyuCd0cFg4kOEbdiTkXWRrYua66RYxsxd0BHo3ab9DsqaYiNUigzp8jKdaMTHBT01Ysy9SmMy0vUJ_VCpQWoYQs1-3-sq5xMSG5rql9CJutFRucc=w1280",
+      "occurrences": [
+        {
+          "source_page": "teaching/cse421au25/staff",
+          "image_number": 2,
+          "google_element_id": "h.7e8f6f6630b28cdb_11"
+        }
+      ],
+      "download_url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sF2j_nMiY6zaemti-dBYmVhbriXysSSCzSy2vBJIrShw0hu7k28V0-1sEQSbvoTW9xmeltXZ9Uc1gPAGbt_1GDQnKJ55jAhcGRbKlOSD777puO4GMgPhR3Cvw_90_qlgeS-qFYzI9PPMkCKanPJ6LwlJJod2kTxYqJMsHcJrbL3LaPL8tsJ3emjb9OOMqDDXSd5mPpKsj_Juew8mkSeT3PX0HzR1tL1gebxcg8SUI=w1280",
+      "path": "assets/images/cse421au25-jay-dharmadhikari.jpg",
+      "format": "JPEG",
+      "width": 1280,
+      "height": 1253,
+      "bytes": 272414,
+      "sha256": "49886c9844d4cd51062be67e11edc559d4713e1532fff542cf259cd30705337e"
+    },
+    {
+      "source_url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vvLCKBpl7qxqS7vp3GwFabNvQao1wAgJoytxuZCI_-R2mGtGeTegRDARvwPGnmW8qzKZJJqG6VTRyncIWNfXeeD7XTJTGmTlgk0jkTd8b38ccdBHc-9Z9cpM5OFBnpLW9vl2T2GpiDUQlJpmXGoaNjgGguaiea0gSq4S5f9QUuGksNeowrATlG7BWXXTiZY0OK-dVNsP8FarhTbVeDOPMUY2s5lxJiTxh7F124-eI=w1280",
+      "occurrences": [
+        {
+          "source_page": "teaching/cse421au25/staff",
+          "image_number": 3,
+          "google_element_id": "h.7e8f6f6630b28cdb_15"
+        }
+      ],
+      "download_url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vS5ghMUWq4lxNBYODF6FP-eB9SsfoSgk6pnJgZWgMe-msX6uRJob5hZ430p8s7tRbiyY_WBL56M2HZ-g14gOzUyNSL__E1WqMDKY_ZQeuRuTuRPBjlShNDCQdy0hn_jO3k1iGGo4nd9yNkinwK1ctf4AbkAXtlCXbMBotdHbXlRkP9LAdMLg2makLElD2H5FVTUh1MegIXrqGOhkCvpx-v0nuGuI0ceTZ61jhlSNI=w1280",
+      "path": "assets/images/cse421au25-timothy-tran.png",
+      "format": "PNG",
+      "width": 292,
+      "height": 261,
+      "bytes": 115720,
+      "sha256": "22410920a2346d47e2e8105e6dbca337856237a01a1c2aa476e7298054111de9"
+    },
+    {
+      "source_url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72urxWAHp8_Nlb9M4pLlml2Y9fr1z-dlWYzbA0tE7jPK0F9Lr9myORObVEkkZvYn0fGfjTcUURiBnLjkv1Ey6K0IQzq1-UYHduehQMMreNrfG3B--0S8TEwRHn-JYG-stoF-oUwjOOkZSR0ijA5X0bpdLC7QJyXgI1I4k_cKScMo0SD0jRtxwF12iexTx4ZzG5SuJotJlyacsxl4KM9i7tMGvORtlpClKPr2h2QoZXA=w1280",
+      "occurrences": [
+        {
+          "source_page": "teaching/cse421au25/staff",
+          "image_number": 4,
+          "google_element_id": "h.7e8f6f6630b28cdb_19"
+        }
+      ],
+      "download_url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72viF6dl167rzg6AK8ceEJ24nP-50CtxqOoAtA-XlKXClFcrw_wtEuAhqJfsl8LuQYQJaa5md86OqKN-yjME_0yKJLsgLI--9Z2YaWyOmZEo6L-wTKt3nUU2cSllEkKaItbS5-BQFSryoqclrxVCnaZcyMNfJsSV8612k4niFdVLR8zI5qKcL8OLqwD_H5MR4r3lSBbPQn7oeFZoWG7ht-lzYIrH2yk4BKuymC83xug=w1280",
+      "path": "assets/images/cse421au25-toby-thornburg.jpg",
+      "format": "JPEG",
+      "width": 547,
+      "height": 490,
+      "bytes": 65158,
+      "sha256": "5f4ca559b1c33e94123acd1b8ecca087bd5d794fef9865060c2da6074537e5ef"
+    },
+    {
+      "source_url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tPMUtPZfBtjaw4QxKQ7sP-rtSAJSi5ghz3d3aiQpXHKcVnHaGt8Nf0rtRnU7_5EXKDF2L5tWzuvwRPwqrivkxcjfW0danv-r2ExdDCumZJ5Ll3DTV1TvZdOU7ovoWMTNLiFvA-l2D_X8q7I9KSuflokKloPIu1WDE1BwKG9LYXT1ytaIt5054zLKEjsRxr27RkXGRgFHqdyy8y9oTE62FoQYziTiT3IsLQqJs0=w1280",
+      "occurrences": [
+        {
+          "source_page": "teaching/cse421au25/staff",
+          "image_number": 5,
+          "google_element_id": "h.7e8f6f6630b28cdb_23"
+        },
+        {
+          "source_page": "teaching/cse421au26/staff",
+          "image_number": 5,
+          "google_element_id": "h.3befca943e61f414_95"
+        }
+      ],
+      "download_url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72t22l2aViEwmHMwveFn8CreXEXn8ikW5q7QkcsCCWcDK0xIV78ujwg1kl-ly0H6mPJbf76QXE_Egq_nLECS0iUaNe7_Allf3MXgpFRuSKotzoKl4tRrBu9yefsmc-JfDKzRaXoW53S2Floaj0lz3SaDyxURh1zspVPzUSqxf7fqNNZAiL9ToCm81q5ibkJtZ44viyR7yjOcoI-EIqEaFSIZCz_QH1aW1WlrStmn=w1280",
+      "path": "assets/images/cse421au25-parker-vladimiroff.jpg",
+      "format": "JPEG",
+      "width": 800,
+      "height": 716,
+      "bytes": 98175,
+      "sha256": "91c6340f1509ccaa6fcb66876f8f72a6672f4f3bd8621669fe5461915c858a5d"
+    },
+    {
+      "source_url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uCmkZhdihRp43OtT81F1wJjT9wEZb4DRRhgH_vJ7wRg7xcMHkipo5jKcWNI_6J0OTnDUROd_nO2lFF6XqnYAzDjy7q7lpHXllPPBXztnfjhSF9zhgR_VSsxgRM5kKB61M5e32trgSPBW3UgF_rX7DyjJ0SNl2sWfQOQ7FJwDJ97M5x3Rn2SIfCjKtsjLt-wWftQ-7A741gEtSjwt5Nu_nQeFXOzmZo0WN4BD7GQAw=w1280",
+      "occurrences": [
+        {
+          "source_page": "teaching/cse421au25/staff",
+          "image_number": 6,
+          "google_element_id": "h.7e8f6f6630b28cdb_27"
+        }
+      ],
+      "download_url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72umgpAL998rFA57TVTLmM8AQ5-YJTcL548CjXILE-WEIXWpnEGJ_CIT21m_OvxygXLqYOyE9Fl350FJSP3TLR2O1NIfYAbhR-Pzcv2LCkyVMRfgzWHfwe7ruBVAvc7Apsd9WBstQhMPgCvH3fbDKpohBK5A7j7zoo2CTgBiAjGZStySnRQTf9cpEFNtwAS2knS0wbRwQrBU_seEdK9URsMbeXgENspbcGFm06MrEI8=w1280",
+      "path": "assets/images/cse421au25-diana-hsieh.png",
+      "format": "PNG",
+      "width": 1013,
+      "height": 906,
+      "bytes": 803808,
+      "sha256": "5075f1b815914b6156dcdeed8f956fa0b75bcfe62f6dc5d4def7820773fe50ed"
+    },
+    {
+      "source_url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vgJrXuI2LL24IolFC-6odpUrT0uOyWiPX1Hn3e6uQACnmwCzU-OH_LRCX5CpEcfN3Dgohm1K-fmgmFqjDaCPktMtfPYsHg37n-45huDafEw99QifIGf4B9Zo2lR5G7u2F2Y7ZRmNrNFSE72sPtTM84j6x-58na_NYbcXlIS1NS0_9ljGBcUA6HoeHj7IKQO2rgp-LWPMeLq5KKO4bw1GaXio47Tyixy6fH-Ptfosw=w1280",
+      "occurrences": [
+        {
+          "source_page": "teaching/cse421au25/staff",
+          "image_number": 7,
+          "google_element_id": "h.7e8f6f6630b28cdb_31"
+        }
+      ],
+      "download_url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sZSAAW4rGMSwVgfQPENW62KFiq4fivGMsE-WlzbkhPih4UgvDe5giecxmkolgqf4G0n6HgIBvB87tKy31sSJuihOJtMT6rdW0zSTfeJiU-AGIe2EYnyfvZZbv5HwuwtXjvywIKhelY9y4c-UA-MQMwW3G6TyhWVeYXwRNu7mz1-DjNiTVPR9N7AERvr9zRxQza3qBnZJ6-docGnayJCan9EUw0YSBUlmrHwJbCs-s=w1280",
+      "path": "assets/images/cse421au25-darin-ershov.jpg",
+      "format": "JPEG",
+      "width": 1280,
+      "height": 1145,
+      "bytes": 131501,
+      "sha256": "b9cd3e2708fcd31d08445d453f2157cf4a7ff0855e106965f1c351582a6fb23c"
+    },
+    {
+      "source_url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72s4L5WeYxhWuziMYnF0qOqAQXrtiDHP_XUXoXd8EpMrNBTG_WMt4xjNb_q8g_Ol1solL9nTB7cIVNoQ-joxF89gDapGr5sqCzfXo5vYlGr5x9W15OQNer68v64dabxvqMuxQTR2QWZGx1kDSL9tDvXz4csQjmv8zJ5gY-etGOTt75r4NWAbNFBAuKm6SYePwhMdTqrVoyHIEnHy6z4zskfCT5cDCu3mipM8eTDrnnw=w1280",
+      "occurrences": [
+        {
+          "source_page": "teaching/cse421au25/staff",
+          "image_number": 8,
+          "google_element_id": "h.4a371d5ad2a88f1c_0"
+        }
+      ],
+      "download_url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vAXfDIvEhA3VBw35pfkM_cQDmaYWWvhmduYx4WhNqeu3Sm8NR0rRr03EuAopYPw0tI_ofCKZ2C-jOkpyzb6Q_gAQNlra0fEAKTDYlk6NanmefVEfCVoSVL5qmphAypIuQss0xDeBmpdtbp22WXfZTldWg_v_auLEbnyXU8vcqZTay7AIfzZhMqAzResAlWhd5jwrX2Atbyg7z_DKAuV2AyJM_rkvMGW3WgfKmR0o0=w1280",
+      "path": "assets/images/cse421au25-ronald-lin.jpg",
+      "format": "JPEG",
+      "width": 520,
+      "height": 520,
+      "bytes": 78752,
+      "sha256": "4b9cebcce6bbda8965a7c08c2c4db51ccd015f52875ff50393b941665506b77a"
+    },
+    {
+      "source_url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vwV5xMU9zZqFCCqpUIdpkYGL1URl8hqONFmTwN9EIfS10EaXIVApdYWE19IpnS_p9IFWTZQuYoXjxIeKLG6UbixlzfLhsRAkUrkwfIQaNDT5fZZGnws3CmhtM68RfwExzIRppRx1kThcDt-gYOwJcJExFNVTeJyfx70yxFwsfzPX2okahjrD46DwOkG7psAzFIrlAAhoUsfSw7kPR9Z-SRkSrJa_HhyMQ7-5lD=w1280",
+      "occurrences": [
+        {
+          "source_page": "teaching/cse421au25/staff",
+          "image_number": 9,
+          "google_element_id": "h.72a7a0bf58621221_23"
+        }
+      ],
+      "download_url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72stGKr3lksSCt8jEixQQLXQrAdbPxNS9e9-UqZ9icVDB7EUdXd68n212mZZxtsw9i30ocfsVrw73bBn6PH0SJKWCDHz04CVDl3P51IBMHrdwcLHnWwdUXEfM8-TxDj4F7m6uJtVaW1YHOpWAxJwFQ0m7sSbo8zBF0AvpGzMMI2YGaEsvXGU-S-r4xh0bX786MUs0hFJk6KDr3H6yGtPtG9myMqhz7yX5IsYG2k_=w1280",
+      "path": "assets/images/cse421au25-frank-liu.jpg",
+      "format": "JPEG",
+      "width": 735,
+      "height": 657,
+      "bytes": 40032,
+      "sha256": "9ade28d625ddde0a59e8090c81d48c180039e7d692568f5eb431f7312427d5ea"
+    },
+    {
+      "source_url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72ta4eWLhVzzktpKxfIb-bEYokVavQ-zSECCwyo8fFnMhr5YOlW3q1lYwGTEPs4WTChiWdiKLh7cV3mBKt91jTV0GGBk6DpDEYQoiYFmVUHjPQJs5a0kgk7Dp2c2EQn73FgGMa-GPwreQry6R7msvC7GHJGrQGFj55639WVTmUCuy37BU9dnBv2JiQbh-qPP1XDaoVD-_hJeUgZ-KSpwBSY5pzmAt57nu1RAqUseumg=w1280",
+      "occurrences": [
+        {
+          "source_page": "teaching/cse421au26/calendar",
+          "image_number": 1,
+          "google_element_id": "h.3befca943e61f414_192"
+        }
+      ],
+      "download_url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tozT_3ofFE7IN4VII4GRsyYbFTj69dEJCWcVXp9EIBtRwTGmZ2nhTH95w5roqYWYXB8vuswJe-KdokjGt0k07lnhIrkp_ejL_b1hMRaikjwqunu9zZePn9s-Ps7z6wwUw2d1fzbQby1FMj2sN29O2P4Snfd7l33TFCHLRMm2F1uAVFm2o6WkyMB7k1IIbrm55wuGe09udim_rS7H0k4RVrK6ECO1LpimwkPSWd0dY=w1280",
+      "path": "assets/images/cse421-autumn-2026-calendar.png",
+      "format": "PNG",
+      "width": 1280,
+      "height": 945,
+      "bytes": 176108,
+      "sha256": "40cb01da28047e44adc71302d3950b305c1af117e28b5cc3871b7ad946bf89f1"
+    },
+    {
+      "source_url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72ujcoxC4jHGWR_ogAHnR07sNmulRlwh2r3LEWoxt3cgz1ikXJYJnaGOLlZi5gSd4mJr9ddGio7ALHtjHT19XmDLJ2xDi95NO5TMTBeh9OXa3bsU6j1XyJwoN7Ztok9wALHV1of4uAcgSyrVdp-Y1ZvTVhwOZeJgBtqzazOIICheGpDfL4Tzpo79dQj1UBIov2ukxgwzw8zA3-LrEnRKYG6J0zAY-_ESAWwRhdX5kN0=w1280",
+      "occurrences": [
+        {
+          "source_page": "teaching/cse421au26/staff",
+          "image_number": 2,
+          "google_element_id": "h.3befca943e61f414_74"
+        }
+      ],
+      "download_url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72t2xG2vUsV5wihRH-Ro24_KKjZP9NdRFZ-6QZmF7BhF4HDb6jLpNaxuanN-6z92emYdrlmnkAEPlIJ0VDVt1omrEd5gw23028hpgvg89FjPZmC0V4bP0C5Bi9gXrKKxkOiGeb_K3fYIURWzV3Nj43z3Fj3n072njtiaBew-o7C6-twPoI7Eo-9xyGlQgAzFFplm0ik__iaOdrXnY8twByvHA2kTeb0t4HMagCYFQk0=w1280",
+      "path": "assets/images/cse421au26-vinay-pritamani.jpg",
+      "format": "JPEG",
+      "width": 1280,
+      "height": 1253,
+      "bytes": 110024,
+      "sha256": "1f398c867ae0b4076b33db1161ea5fe4b4cdd9f25ab5f5df4788b342a936219d"
+    },
+    {
+      "source_url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uf5TLFXleKE-tzpsEap6IMpnStiPqULiD6iEPYOTaUBo4cHJQg92r4b3pdxuoDmy-I-e-4sqC73XJw9Raf5OsbfACXEjt6jaNJpAqRrhRqtNkomfT6-ygZ4TIeKBTwnxsIoap4jkoK9Rvp33t_zMyqFsaGvIGJC85ar6WllRMCSQA0_WYYucD7CRL19Y-H48LIwTC-JEw82GUuKPs-_WntR-8yx_b15J3ip5LA=w1280",
+      "occurrences": [
+        {
+          "source_page": "teaching/cse421au26/staff",
+          "image_number": 3,
+          "google_element_id": "h.3befca943e61f414_81"
+        }
+      ],
+      "download_url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sjuMKEV0uQUIvVWt3MOJfJn7AgQjiWYIyEvIqA6nM2_n8HVk2p0iLbMAojZqYb0cn5O3VERRq1wwI3PiLF_pwHdqdf3RzH5-nkLyB6dfKeEw8yONn7ZzPP4bhR0SsLgmm8uwW55QZlRtW342TwIgYl7uw2nLTMb6pUGpCfdLhtBTqni9eZjlSmCJHDbUZCR18FJ-_fqljXYcfx4l0ejHT4abLOQ5ZYho2tB0Sp=w1280",
+      "path": "assets/images/cse421au26-michael-whitmeyer.jpg",
+      "format": "JPEG",
+      "width": 668,
+      "height": 598,
+      "bytes": 110949,
+      "sha256": "c5acdcecb102ca59a2c6bdb456f28494ce93614fa992aa636852fedf290bfbaa"
+    },
+    {
+      "source_url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72ucvOgQ-jlZf6R0A9lEZ43J9SucERAVVOUHSMmRj22iHPN5oRFBBtnIAaOKIoMtddf4axvL3Cbwr_-09hSrTTdySf1RUwfStBqdkPhA46jhQHmm0ujSs_N-yhp0dN-2XWmrU7Xg1Klg1o6eFYMEie_YQx22C9ZA8smjuB2-I_TwSl_8IWgH1jhGWwKnq9u0o6KSO3Tox7o1r2SScv1XhPuE9ZW3eTXC14VJ14xbcDA=w1280",
+      "occurrences": [
+        {
+          "source_page": "teaching/cse421au26/staff",
+          "image_number": 4,
+          "google_element_id": "h.3befca943e61f414_88"
+        }
+      ],
+      "download_url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tDSKC45vVOE-9EJ0Fk31weRocYZQnJihX0Z9A2yIwqwTug5oTr9W_T3ZZv_or1-X_K_v2VSC-ezdOEwInWlKpXJ3YE02t2y77uAxsMjJyVeMMZF9ZTvwCjmHq9K8N7wr_4BQhp-iE-YagIup0NriSKgrFTlK1nDScGc20HkluH1gwCs7_0KOSVmw-sZB8T4bh0rhkzCu7951AsEdhj8BSyPj4u9lSZhX6wjo8DZ0s=w1280",
+      "path": "assets/images/cse421au26-runjia-li.jpg",
+      "format": "JPEG",
+      "width": 225,
+      "height": 201,
+      "bytes": 11571,
+      "sha256": "d983ea187f74c9f56f3aa9f73938b30b3a924a9cbe1a5a24bb251e17f2fc5fc1"
+    },
+    {
+      "source_url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vMboZtk3VFoS-_T_JfO-v3v5c4muHc6QyyuO8aEPwEUCk61WE9hbAmuq0n58au7WhAhFcpaClgUDeakl_EodV_0RqLdOxgcrojrBXvs1SE6biDS08ZOBX_Zf0lJUYsWiwdgxOp81jn9FvXFQBjAZyRBGCIA3uxIK8tijJ2xrGdLggo1t7F_YR1KJ64AdHmZXu-bn-fAV8hKJeZSA-lPOjig4bFo9S4C5NG1vynuso=w1280",
+      "occurrences": [
+        {
+          "source_page": "teaching/cse421au26/staff",
+          "image_number": 6,
+          "google_element_id": "h.3befca943e61f414_102"
+        }
+      ],
+      "download_url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vYa_ttwE4F885gU_b1tVrUuqDjj2Jyb25AxKdGXOFe2OD-G2SCHkxmkz9pZT-aIk4iwx3u1Xie98gKNjbEl6wdO0dv72nSyz7tWRxou3JL5fEcYM6arW6-nygtlx6TkN7wYn_Ftr5mKyK0B1GWC2sD-Nl1qQgAVo2SOxyrzd-OFXw6pRS6NPyKRdmI7vy-jXJbwUU27h8jH9bdoWqo1EETKsfNVsrwxI0IxW3y8ko=w1280",
+      "path": "assets/images/cse421au26-sophia-li.jpg",
+      "format": "JPEG",
+      "width": 479,
+      "height": 429,
+      "bytes": 40472,
+      "sha256": "25c6293eb87fc2c83fb27742f50e36b1cad8ae8568bd7aad557e82c78dfe8b1a"
+    },
+    {
+      "source_url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sdx7VJstv0yisbPgOJ3iuWoyHJJllXmGlv5qNWKlzDMrE7-u9es2F0oZIdZUfLklFbWwqeh3nST4cmfaABUH1TzF6UW77L0EqyaREGI292knlmEOwP9sAVrF3t_7nd2fWkyChVfRqhvu7_XEB2suBb3cK_qD8dOftEvDeOxP-u-oqDGwFbkS0Q_bDcjL3za5uMbrymCjpAd76eNJR1kjlXhU3Y2UBIPLvpU1uuUKY=w1280",
+      "occurrences": [
+        {
+          "source_page": "teaching/cse421au26/staff",
+          "image_number": 7,
+          "google_element_id": "h.3befca943e61f414_109"
+        }
+      ],
+      "download_url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72swfkxcwXqCqQpbkDGoqyfregAMKqL3p-hseUvQ0dLXYGEovyDKHNqmRcSTFWGgkGAcW2M1qtfMpJAZA_8_LuIliyBr6KpQaA3-vA7kdAqcx6Wi3ZMLRAPCAhbuXlz6Bkzk4d8dHpF4dmHXZDHz6a0gUdaYNTe7qM7KEozqzR1QJoKvbmBuElUOX_xU9t5l5s_kvvx0A2pOzQUcL3V73wEtM_XdovyVuHVIzQ24re0=w1280",
+      "path": "assets/images/cse421au26-toprak-yildirim.jpg",
+      "format": "JPEG",
+      "width": 225,
+      "height": 201,
+      "bytes": 11571,
+      "sha256": "d983ea187f74c9f56f3aa9f73938b30b3a924a9cbe1a5a24bb251e17f2fc5fc1"
+    },
+    {
+      "source_url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vRqhhXygxnvtwOz25DWjk8f46K4bzLv8Tpn8Lsd-5eZESDFF4_yff3zseXdpqmru_97-336HZqqC-G3U1xCO06D8YAvKE1bx2qXdKndfEEApGY04wDzGvzqRh8KVEGAm3J1lFU8Ss8LDwVWAaHvrONFR0YVHu6RV0C55Q7PmyUm54pGCw48fz4a5wC3wThbF0qOJa8FLfjAIwckl_OyShM_9t4VA1Lm7R8WvPrdSs=w1280",
+      "occurrences": [
+        {
+          "source_page": "teaching/cse421au26/staff",
+          "image_number": 8,
+          "google_element_id": "h.3befca943e61f414_116"
+        }
+      ],
+      "download_url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72ssoywRJSJ0nfHsbtKQ2g-UBLvbqofRt9uLYcvYscJCiWoBY46KFMft_mPyb1-XoLgGcQvSRRFr4RF9N-w-74wbVLmxMKX2AgbV0WaDaYJlJEXamFPl76u1w_ErZPX6tRFdFa5K2Fp3iphhLsYZU2p-uH9I-_shwrw1vWNFz5f-irWqtH_9t7JwTR_ervrlWurygK5AiSHXGkMvf81eOFMOiSl07qnOmkgJrqMvptk=w1280",
+      "path": "assets/images/cse421au26-sami-badal-khan.jpg",
+      "format": "JPEG",
+      "width": 1140,
+      "height": 1140,
+      "bytes": 116834,
+      "sha256": "9bd67674cf3cfd1c02f01b835acaa494c85c87eabeb9f5ea1b9acaa2aee95ef8"
+    },
+    {
+      "source_url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vTr0ow6mzqah-tdFTALW8meplNx7leOxg8sOUf7xCy6hOHf3mfkXV8SzvJmJ9kBZ2lHvZSTJRM3qDnCq7VbK7OZWisa-WzEL3fETacM6sRpkjVpETp50CV5s-gG3z_nxFHJoxZ23VhboJCOYPtQeLygDOpewpMm1N9NP0f8whJwEb-1pxpdcKHOay7c0Z6r9Q8w32Hqb6_AZzykDq7V-9LWEyzetmmUgpwuTyJ4Bk=w1280",
+      "occurrences": [
+        {
+          "source_page": "teaching/cse421au26/staff",
+          "image_number": 9,
+          "google_element_id": "h.3befca943e61f414_123"
+        }
+      ],
+      "download_url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72ur-PuCGNyC58Ghf3kWp6UWLAYa1L6GzSF5nQiO2uV9GdCoEr2pakhdhz8kaJiv_23SAIxUp8JbqR-_4lq5JAFV6x8x21Wja89Vwi8rU5qj8Nk4-_pzNx62TYGSLd89a-JFr1BjNX7lST8G3wBU_RsEb0XPapQhXLMd9Mh2Pq_ipDds27rhffeNrwLsTAB1fKaJW82rW9eD_VeCiXCQo2wU5WVr-43ZkN8j3Rrdkao=w1280",
+      "path": "assets/images/cse421au26-aaryan-pawar.jpg",
+      "format": "JPEG",
+      "width": 225,
+      "height": 201,
+      "bytes": 11571,
+      "sha256": "d983ea187f74c9f56f3aa9f73938b30b3a924a9cbe1a5a24bb251e17f2fc5fc1"
+    },
+    {
+      "source_url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72ve_TktirT-MbgbrS1n8F9Kbrhb2ZZXh_c98eEjiiu7CKVLW1YRsmjfRHYoDf4eEEKFVM0XdNyOqp5Pq-VUbdOVfHZf-WIEEPVYR74speNKsaLWIwg7ljR-ieE7QsPI0FpCqUjkGigGVcvOLmxmiR0DJBXYEQl6ngbrcZIymuXKbZYwwj2e5A2hYTljVYHj8Iu6NROoYlPzNs_o6ebnYkUxb_cloGZvShEQeFdg=w1280",
+      "occurrences": [
+        {
+          "source_page": "teaching/cse421au26/staff",
+          "image_number": 10,
+          "google_element_id": "h.3befca943e61f414_202"
+        }
+      ],
+      "download_url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sd7k03hC5NzSLSYjecpwDnz-lan6D1JWTz_oobosxyJKiz9IbroTNpHFnYEWSumQBq2-fPpXWb_Nmb1_WsZWQ4XtXMOjI3XM8bgLvst0M0m1cxPqsnBX6We8HpX0PW6lXjq9v0qi2T5OwMsH6e9fxW1zAAIRc88tsOs4mipCEy4Pa5pKYH91_29hsrzOMn8DftlASOzHJ9RkLv4d9F6K8cVEiXlwhRqmxplSve=w1280",
+      "path": "assets/images/cse421au26-escher-crawford.jpg",
+      "format": "JPEG",
+      "width": 1078,
+      "height": 965,
+      "bytes": 162256,
+      "sha256": "a4bdbf11dcb919791f635d28b2c96c9d73fc9bce21792ddffc55a3f1c9ca6692"
+    },
+    {
+      "source_url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72spd8WbMzVQ-qmBcn2WGO4ek8rlBehqrlviu4Q4VtGCmMZJ-Hn7hChcogaQWaT_qzTewlxmZAOtsCT6-f-a_ApSfoX4gay8ixzJAN57i3_fKMQTK6NIy7EdrEgTdlmXjdvs0_A8s-7IjzVidQjigLlNProRKo7hYf40wNdm--exsR6Txqha_wpSanDi7N-ZdprmTBqhxb32IYw1pEOEVc7ZdzV7RKdOL18DVJpF6ig=w1280",
+      "occurrences": [
+        {
+          "source_page": "teaching/cse421au26/staff",
+          "image_number": 11,
+          "google_element_id": "h.3befca943e61f414_209"
+        }
+      ],
+      "download_url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tb6gFl5k60S0oBBlA2VuIa9dq2FQIdZLH7hVQrKd-jyo-9m3EGl2DcW8u3PtOzWQQyTFgiCZjJnQtUEA7v6qcNaItzYSNDu_XnQNSBUSX86Ckwoa7jRgeizox375MgtoUG9NwUQIZm-gHxhM8rWkHjCv3b3M83412Cd35259NMFILeAf_f6vS-4uQFC_LiyDLRQm4g_WzRMCC8dIXtZ-i8v4hxeIntzlRMeEfpqZU=w1280",
+      "path": "assets/images/cse421au26-brice-liu.png",
+      "format": "PNG",
+      "width": 505,
+      "height": 452,
+      "bytes": 363970,
+      "sha256": "663ba76d63ca365f5ac4a268b1522603595b7bec1d4f96700789c5ee254b614d"
+    },
+    {
+      "source_url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sW4dKm55O_aN5hwPkeA3XWrl3m7R3rw_K4KLOjwxE8NuHR8Ja6t72f54SuXj6Tj1qAxBbfXMAuIJYMz8pU4txxovszZNycanNdv1SVbGnVLuySVL4yk06F_eSjB7GqHd5ieGOhp7kwaHMV3CieNwbWHcPA-dDT9Ciz5-zOMAr7r1QyvGWNQM14OiP2NWR9VQ5OnKhIQzVMWPoXypHXVv6RN1N2OGwLtikMZQSyA9U=w1280",
+      "occurrences": [
+        {
+          "source_page": "teaching/cse421au26/syllabus",
+          "image_number": 1,
+          "google_element_id": "h.59455da53f7544f0_4"
+        }
+      ],
+      "download_url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tB-EijWMFhr_W9sVYlwc8BM57cs7DMQENaJg9ixbBElxxkdMvIuOeXTPBBdob5SHG9b2kAv2G9hawyb2v3r6vxDZEI9ZeY5N5YlH6MLXYFKdmK5RYxvDgdaPVElUH9dCNR8MTA2Ho8yZud0woQ8TjCFvy_KAfX5-u2uBgh_uNIlQPgaIvnJIXI7lMOAYmqZpib-k0-ipwhJdB7mfSJGcsFvVAu44hhxx7UeIvBgL0=w1280",
+      "path": "assets/images/cse421-autumn-2026-ai-policy.png",
+      "format": "PNG",
+      "width": 484,
+      "height": 512,
+      "bytes": 33910,
+      "sha256": "abc606aecfb9bc807e03a630d90f7cdfaa41953e1d1222e28a7ab9c07197ca94"
+    },
+    {
+      "source_url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tLgVq3W_jyw9djlpssKURetpH5QQT4_6Cb0ZxqgY1wIOAD1MgYHhGgaTtnYMKHnP0P8NZFXoOZN48H_kz_3uqvxQ3PdgCf3mezsO7yaQ5bUfMuRkvBvu9k3IheG4LzgpIP6-4z9qo6PlaY7nbcwX5KtlRHGE3kU7EQmu2cvwn2QDaznWunWh86OR_c7w2s7kUAmRc787jVFgr9D0uwDko3JWowHcz6l171rUc16HM=w1280",
+      "occurrences": [
+        {
+          "source_page": "teaching/quantumprogramming",
+          "image_number": 1,
+          "google_element_id": "h.4cd191611156001d_4"
+        }
+      ],
+      "download_url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tNBaE9WtZvsVrMZekY13Nq9VLmZdE7dDPoqxjxtdPedMwUUVj8mHT22DwOeVzlfipUVEVgIc1y6unpJILuWNEDAAwFgyyoZjlw80REr9R7TvrXf7cQ1_9ZFgyTSa2PMaTCd3jmqcHBJ4SmgA77o4cGeJ4-lO2jIwKqvFUUWt92PJttzEN0ROuvAIbK1kK2vGk2Izee6PLiz3PmugzCOPhYs7pqZ-p2K-BX2eZgPuc=w1280",
+      "path": "assets/images/quantum-programming-tutorial-1.png",
+      "format": "PNG",
+      "width": 1280,
+      "height": 568,
+      "bytes": 145493,
+      "sha256": "104e9c058732bf5087cfd3e86c56ca187913d6c80b333c090a3398ecd2459fbe"
+    },
+    {
+      "source_url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vAaqdSSOpLCllzj2pfqTLcG1rbwLSCU9YqRIs08g6-7cyUsDtOgXvVqRNI5fz6uNU7e2SyuWSMJNOiK_9ye6ie8jOnnrXLj4EhxvZAkndJjfOLwL8cJ8hBzNfG8lXSfC-Dt6qgPGR_GPwxyM54BQTgaWiOf_8_mrUgc1H65Rgz7CYlmSbS9nz-iYQoAIMhkhohqTNkqxzQkdNYq1_rsYfgVJOtIw-rIEn-tkj1fCU=w1280",
+      "occurrences": [
+        {
+          "source_page": "teaching/quantumprogramming",
+          "image_number": 2,
+          "google_element_id": "h.4cd191611156001d_0"
+        }
+      ],
+      "download_url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uykU1DoF1n7MK6Yw8-onPHeZzrotDClzLCTFx7FkoQ823Ev7e2LbavQWgoSi2btgWJDIYBLHZi2_DoUmBC2zrix5PnOTnkH27fELSEUWXTOl4Ryqw0Cw0NktZxzbrEjqXE3qvIu6WyqRsG_64nvkds8BSa1i-MFxXs4DKKNqOz8SJHkxEA971ctF0AjLmKDO8tvE4-tC9RvavQ3dq_IqB6o3Yj4k_vgf-DYSGxgtQ=w1280",
+      "path": "assets/images/quantum-programming-tutorial-2.png",
+      "format": "PNG",
+      "width": 1280,
+      "height": 694,
+      "bytes": 324809,
+      "sha256": "6f67c2c713da88d87bdc363391bb86a14211f1a9177db108a171eb25352180b9"
+    },
+    {
+      "source_url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sPB5NSc6zncX3QwdrZO_imn7wMEENLl4zk5zhPSmiAsfkTQf8NfCrMt_DLeg_hurati-eeuVvlW7Hnl9zdbRFBb7j-5p__toO7TxKe-NLjPNYuS2mwya6cgNA1ejo8ofTQt9hgrDvtE4Qk-2x4W3GPkMo5Bh82rK3xoaY_F3cuzpRWM9YApAxLwg1lKH4qlgyQFa6dwdpmkNtjoU3gk2uuiMLVbxMnj0jVroz6=w1280",
+      "occurrences": [
+        {
+          "source_page": "teaching/quantumprogramming",
+          "image_number": 3,
+          "google_element_id": "h.2b4a7d32ccb116ff_0"
+        }
+      ],
+      "download_url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vpc-Ck2OCq5pgYfAqtfHcCqfbFI_QR2Qc9PieT-7Iyk4rQPGOqdZYKiHAzVpq3JS4rDvC7meMw7WyG2YInL1CKlY_8ecXmMBkbSnKaYxsVjA3gXEXNZ6RxkYmPD8JFAnMF8BY4p3L45rJPbiN4TnPQ05-gK01ervMLOullRwSfUFldifFXfpM1J6qyQ5-GBEB5WJSo1H8Q8MOonQiPU929v5t-zx04TpLac3pO=w1280",
+      "path": "assets/images/quantum-programming-tutorial-3.png",
+      "format": "PNG",
+      "width": 1280,
+      "height": 701,
+      "bytes": 239520,
+      "sha256": "3aacf650668e8be0178dc5b0c507e0afbdae59c184e18e3a4ff8c8b25fb6bdfc"
+    },
+    {
+      "source_url": "https://i.ytimg.com/vi/B7gJs7cUL24/maxresdefault.jpg",
+      "download_url": "https://i.ytimg.com/vi/B7gJs7cUL24/maxresdefault.jpg",
+      "path": "assets/images/music-video-thumbnail.jpg",
+      "width": 1280,
+      "height": 720,
+      "sha256": "6518ebe69e56291b224d78a879b18c2a76dac451308a4b9be5b3c2021b0dfb52",
+      "bytes": 127251,
+      "added_for": "Requested thumbnail fallback for direct file previews",
+      "occurrences": [
+        "/other"
+      ],
+      "format": "JPEG"
+    }
+  ],
+  "source_to_local": {
+    "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vEIjs80iuONPlnm3F1ZF10YTamq6bOXXKLQoTia_X9Vow7GVHZlyIgvD8TOeJfzqH6oSTltsSXNPan10LyidjtVy_cpD_qKOscDI57vXSLRxdk-XpWBttWp1IVAwgjiLncs9Hq53P5hNkHPyStiR9ZiuzOJc30olxJwDOnIfj_pnZ5GnMW3Z_P_3YxOGULP-mMhsk33e_erNW6WIl-Rizu3qxCPv0k0LPtUkRJoGA=w1280": "assets/images/andrea-coladangelo-portrait.jpg",
+    "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uWn4irhuhCWBJxLgYPwEsGFOTyEcXo0EBJOoAeYE6ufz6ezf-yY3Qktfks1c1Gf749EmatTyEaut8paoW_jn2Dmuwy4e_yLHl7tw2PkqWa0Okw9ITelBsRYamqAdWNrgC7KtYjwocJCcuYdUhkxHtkqB-WtmMwItFdNOpT8zJk_xeCTeiphFAq7YOt8_xPb4rNCYA-sFAug8pPdujBpzZd9kb4eNQghFkfMEIUrvI=w1280": "assets/images/cse421au25-andrea-coladangelo.jpg",
+    "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vLqVracX7rZvvciFTCBTwYCb8FPU7ma49xpWIwOSm52bhR07G25h-5sYb0aKzhR7TBbMmuMw1EmupSv7A0vHddLgj0aJzFEzJgRobo9P3vfErsHsBuFJqI6mHhyuCd0cFg4kOEbdiTkXWRrYua66RYxsxd0BHo3ab9DsqaYiNUigzp8jKdaMTHBT01Ysy9SmMy0vUJ_VCpQWoYQs1-3-sq5xMSG5rql9CJutFRucc=w1280": "assets/images/cse421au25-jay-dharmadhikari.jpg",
+    "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vvLCKBpl7qxqS7vp3GwFabNvQao1wAgJoytxuZCI_-R2mGtGeTegRDARvwPGnmW8qzKZJJqG6VTRyncIWNfXeeD7XTJTGmTlgk0jkTd8b38ccdBHc-9Z9cpM5OFBnpLW9vl2T2GpiDUQlJpmXGoaNjgGguaiea0gSq4S5f9QUuGksNeowrATlG7BWXXTiZY0OK-dVNsP8FarhTbVeDOPMUY2s5lxJiTxh7F124-eI=w1280": "assets/images/cse421au25-timothy-tran.png",
+    "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72urxWAHp8_Nlb9M4pLlml2Y9fr1z-dlWYzbA0tE7jPK0F9Lr9myORObVEkkZvYn0fGfjTcUURiBnLjkv1Ey6K0IQzq1-UYHduehQMMreNrfG3B--0S8TEwRHn-JYG-stoF-oUwjOOkZSR0ijA5X0bpdLC7QJyXgI1I4k_cKScMo0SD0jRtxwF12iexTx4ZzG5SuJotJlyacsxl4KM9i7tMGvORtlpClKPr2h2QoZXA=w1280": "assets/images/cse421au25-toby-thornburg.jpg",
+    "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tPMUtPZfBtjaw4QxKQ7sP-rtSAJSi5ghz3d3aiQpXHKcVnHaGt8Nf0rtRnU7_5EXKDF2L5tWzuvwRPwqrivkxcjfW0danv-r2ExdDCumZJ5Ll3DTV1TvZdOU7ovoWMTNLiFvA-l2D_X8q7I9KSuflokKloPIu1WDE1BwKG9LYXT1ytaIt5054zLKEjsRxr27RkXGRgFHqdyy8y9oTE62FoQYziTiT3IsLQqJs0=w1280": "assets/images/cse421au25-parker-vladimiroff.jpg",
+    "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uCmkZhdihRp43OtT81F1wJjT9wEZb4DRRhgH_vJ7wRg7xcMHkipo5jKcWNI_6J0OTnDUROd_nO2lFF6XqnYAzDjy7q7lpHXllPPBXztnfjhSF9zhgR_VSsxgRM5kKB61M5e32trgSPBW3UgF_rX7DyjJ0SNl2sWfQOQ7FJwDJ97M5x3Rn2SIfCjKtsjLt-wWftQ-7A741gEtSjwt5Nu_nQeFXOzmZo0WN4BD7GQAw=w1280": "assets/images/cse421au25-diana-hsieh.png",
+    "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vgJrXuI2LL24IolFC-6odpUrT0uOyWiPX1Hn3e6uQACnmwCzU-OH_LRCX5CpEcfN3Dgohm1K-fmgmFqjDaCPktMtfPYsHg37n-45huDafEw99QifIGf4B9Zo2lR5G7u2F2Y7ZRmNrNFSE72sPtTM84j6x-58na_NYbcXlIS1NS0_9ljGBcUA6HoeHj7IKQO2rgp-LWPMeLq5KKO4bw1GaXio47Tyixy6fH-Ptfosw=w1280": "assets/images/cse421au25-darin-ershov.jpg",
+    "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72s4L5WeYxhWuziMYnF0qOqAQXrtiDHP_XUXoXd8EpMrNBTG_WMt4xjNb_q8g_Ol1solL9nTB7cIVNoQ-joxF89gDapGr5sqCzfXo5vYlGr5x9W15OQNer68v64dabxvqMuxQTR2QWZGx1kDSL9tDvXz4csQjmv8zJ5gY-etGOTt75r4NWAbNFBAuKm6SYePwhMdTqrVoyHIEnHy6z4zskfCT5cDCu3mipM8eTDrnnw=w1280": "assets/images/cse421au25-ronald-lin.jpg",
+    "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vwV5xMU9zZqFCCqpUIdpkYGL1URl8hqONFmTwN9EIfS10EaXIVApdYWE19IpnS_p9IFWTZQuYoXjxIeKLG6UbixlzfLhsRAkUrkwfIQaNDT5fZZGnws3CmhtM68RfwExzIRppRx1kThcDt-gYOwJcJExFNVTeJyfx70yxFwsfzPX2okahjrD46DwOkG7psAzFIrlAAhoUsfSw7kPR9Z-SRkSrJa_HhyMQ7-5lD=w1280": "assets/images/cse421au25-frank-liu.jpg",
+    "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72ta4eWLhVzzktpKxfIb-bEYokVavQ-zSECCwyo8fFnMhr5YOlW3q1lYwGTEPs4WTChiWdiKLh7cV3mBKt91jTV0GGBk6DpDEYQoiYFmVUHjPQJs5a0kgk7Dp2c2EQn73FgGMa-GPwreQry6R7msvC7GHJGrQGFj55639WVTmUCuy37BU9dnBv2JiQbh-qPP1XDaoVD-_hJeUgZ-KSpwBSY5pzmAt57nu1RAqUseumg=w1280": "assets/images/cse421-autumn-2026-calendar.png",
+    "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72ujcoxC4jHGWR_ogAHnR07sNmulRlwh2r3LEWoxt3cgz1ikXJYJnaGOLlZi5gSd4mJr9ddGio7ALHtjHT19XmDLJ2xDi95NO5TMTBeh9OXa3bsU6j1XyJwoN7Ztok9wALHV1of4uAcgSyrVdp-Y1ZvTVhwOZeJgBtqzazOIICheGpDfL4Tzpo79dQj1UBIov2ukxgwzw8zA3-LrEnRKYG6J0zAY-_ESAWwRhdX5kN0=w1280": "assets/images/cse421au26-vinay-pritamani.jpg",
+    "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uf5TLFXleKE-tzpsEap6IMpnStiPqULiD6iEPYOTaUBo4cHJQg92r4b3pdxuoDmy-I-e-4sqC73XJw9Raf5OsbfACXEjt6jaNJpAqRrhRqtNkomfT6-ygZ4TIeKBTwnxsIoap4jkoK9Rvp33t_zMyqFsaGvIGJC85ar6WllRMCSQA0_WYYucD7CRL19Y-H48LIwTC-JEw82GUuKPs-_WntR-8yx_b15J3ip5LA=w1280": "assets/images/cse421au26-michael-whitmeyer.jpg",
+    "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72ucvOgQ-jlZf6R0A9lEZ43J9SucERAVVOUHSMmRj22iHPN5oRFBBtnIAaOKIoMtddf4axvL3Cbwr_-09hSrTTdySf1RUwfStBqdkPhA46jhQHmm0ujSs_N-yhp0dN-2XWmrU7Xg1Klg1o6eFYMEie_YQx22C9ZA8smjuB2-I_TwSl_8IWgH1jhGWwKnq9u0o6KSO3Tox7o1r2SScv1XhPuE9ZW3eTXC14VJ14xbcDA=w1280": "assets/images/cse421au26-runjia-li.jpg",
+    "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vMboZtk3VFoS-_T_JfO-v3v5c4muHc6QyyuO8aEPwEUCk61WE9hbAmuq0n58au7WhAhFcpaClgUDeakl_EodV_0RqLdOxgcrojrBXvs1SE6biDS08ZOBX_Zf0lJUYsWiwdgxOp81jn9FvXFQBjAZyRBGCIA3uxIK8tijJ2xrGdLggo1t7F_YR1KJ64AdHmZXu-bn-fAV8hKJeZSA-lPOjig4bFo9S4C5NG1vynuso=w1280": "assets/images/cse421au26-sophia-li.jpg",
+    "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sdx7VJstv0yisbPgOJ3iuWoyHJJllXmGlv5qNWKlzDMrE7-u9es2F0oZIdZUfLklFbWwqeh3nST4cmfaABUH1TzF6UW77L0EqyaREGI292knlmEOwP9sAVrF3t_7nd2fWkyChVfRqhvu7_XEB2suBb3cK_qD8dOftEvDeOxP-u-oqDGwFbkS0Q_bDcjL3za5uMbrymCjpAd76eNJR1kjlXhU3Y2UBIPLvpU1uuUKY=w1280": "assets/images/cse421au26-toprak-yildirim.jpg",
+    "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vRqhhXygxnvtwOz25DWjk8f46K4bzLv8Tpn8Lsd-5eZESDFF4_yff3zseXdpqmru_97-336HZqqC-G3U1xCO06D8YAvKE1bx2qXdKndfEEApGY04wDzGvzqRh8KVEGAm3J1lFU8Ss8LDwVWAaHvrONFR0YVHu6RV0C55Q7PmyUm54pGCw48fz4a5wC3wThbF0qOJa8FLfjAIwckl_OyShM_9t4VA1Lm7R8WvPrdSs=w1280": "assets/images/cse421au26-sami-badal-khan.jpg",
+    "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vTr0ow6mzqah-tdFTALW8meplNx7leOxg8sOUf7xCy6hOHf3mfkXV8SzvJmJ9kBZ2lHvZSTJRM3qDnCq7VbK7OZWisa-WzEL3fETacM6sRpkjVpETp50CV5s-gG3z_nxFHJoxZ23VhboJCOYPtQeLygDOpewpMm1N9NP0f8whJwEb-1pxpdcKHOay7c0Z6r9Q8w32Hqb6_AZzykDq7V-9LWEyzetmmUgpwuTyJ4Bk=w1280": "assets/images/cse421au26-aaryan-pawar.jpg",
+    "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72ve_TktirT-MbgbrS1n8F9Kbrhb2ZZXh_c98eEjiiu7CKVLW1YRsmjfRHYoDf4eEEKFVM0XdNyOqp5Pq-VUbdOVfHZf-WIEEPVYR74speNKsaLWIwg7ljR-ieE7QsPI0FpCqUjkGigGVcvOLmxmiR0DJBXYEQl6ngbrcZIymuXKbZYwwj2e5A2hYTljVYHj8Iu6NROoYlPzNs_o6ebnYkUxb_cloGZvShEQeFdg=w1280": "assets/images/cse421au26-escher-crawford.jpg",
+    "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72spd8WbMzVQ-qmBcn2WGO4ek8rlBehqrlviu4Q4VtGCmMZJ-Hn7hChcogaQWaT_qzTewlxmZAOtsCT6-f-a_ApSfoX4gay8ixzJAN57i3_fKMQTK6NIy7EdrEgTdlmXjdvs0_A8s-7IjzVidQjigLlNProRKo7hYf40wNdm--exsR6Txqha_wpSanDi7N-ZdprmTBqhxb32IYw1pEOEVc7ZdzV7RKdOL18DVJpF6ig=w1280": "assets/images/cse421au26-brice-liu.png",
+    "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sW4dKm55O_aN5hwPkeA3XWrl3m7R3rw_K4KLOjwxE8NuHR8Ja6t72f54SuXj6Tj1qAxBbfXMAuIJYMz8pU4txxovszZNycanNdv1SVbGnVLuySVL4yk06F_eSjB7GqHd5ieGOhp7kwaHMV3CieNwbWHcPA-dDT9Ciz5-zOMAr7r1QyvGWNQM14OiP2NWR9VQ5OnKhIQzVMWPoXypHXVv6RN1N2OGwLtikMZQSyA9U=w1280": "assets/images/cse421-autumn-2026-ai-policy.png",
+    "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tLgVq3W_jyw9djlpssKURetpH5QQT4_6Cb0ZxqgY1wIOAD1MgYHhGgaTtnYMKHnP0P8NZFXoOZN48H_kz_3uqvxQ3PdgCf3mezsO7yaQ5bUfMuRkvBvu9k3IheG4LzgpIP6-4z9qo6PlaY7nbcwX5KtlRHGE3kU7EQmu2cvwn2QDaznWunWh86OR_c7w2s7kUAmRc787jVFgr9D0uwDko3JWowHcz6l171rUc16HM=w1280": "assets/images/quantum-programming-tutorial-1.png",
+    "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vAaqdSSOpLCllzj2pfqTLcG1rbwLSCU9YqRIs08g6-7cyUsDtOgXvVqRNI5fz6uNU7e2SyuWSMJNOiK_9ye6ie8jOnnrXLj4EhxvZAkndJjfOLwL8cJ8hBzNfG8lXSfC-Dt6qgPGR_GPwxyM54BQTgaWiOf_8_mrUgc1H65Rgz7CYlmSbS9nz-iYQoAIMhkhohqTNkqxzQkdNYq1_rsYfgVJOtIw-rIEn-tkj1fCU=w1280": "assets/images/quantum-programming-tutorial-2.png",
+    "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sPB5NSc6zncX3QwdrZO_imn7wMEENLl4zk5zhPSmiAsfkTQf8NfCrMt_DLeg_hurati-eeuVvlW7Hnl9zdbRFBb7j-5p__toO7TxKe-NLjPNYuS2mwya6cgNA1ejo8ofTQt9hgrDvtE4Qk-2x4W3GPkMo5Bh82rK3xoaY_F3cuzpRWM9YApAxLwg1lKH4qlgyQFa6dwdpmkNtjoU3gk2uuiMLVbxMnj0jVroz6=w1280": "assets/images/quantum-programming-tutorial-3.png",
+    "https://i.ytimg.com/vi/B7gJs7cUL24/maxresdefault.jpg": "assets/images/music-video-thumbnail.jpg"
+  }
+}

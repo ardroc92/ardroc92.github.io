@@ -1,0 +1,64 @@
+{
+  "date": "2026-10-12",
+  "method": "Codex in-app browser against a local static HTTP server",
+  "checks": [
+    {
+      "check": "Homepage and Publications desktop visual review",
+      "result": "pass"
+    },
+    {
+      "check": "Homepage and Algorithms responsive layout at 390 \u00d7 844",
+      "result": "pass"
+    },
+    {
+      "check": "All seven Autumn 2025 Algorithms tabs at desktop width",
+      "result": "pass"
+    },
+    {
+      "check": "All seven Autumn 2026 Algorithms tabs at phone width; no horizontal overflow",
+      "result": "pass"
+    },
+    {
+      "check": "Arrow-key tab navigation and browser Back",
+      "result": "pass"
+    },
+    {
+      "check": "Old Autumn 2025 /hw/ URL redirects to Assignments tab",
+      "result": "pass"
+    },
+    {
+      "check": "Autumn 2026 calendar local image loads",
+      "result": "pass"
+    },
+    {
+      "check": "Autumn 2025 Elfsight calendar loads successfully",
+      "result": "pass"
+    },
+    {
+      "check": "Spring 2026 quantum course headings and desktop width",
+      "result": "pass"
+    },
+    {
+      "check": "Original external resource URLs retained",
+      "result": "offline fidelity check; external availability not exhaustively checked"
+    }
+  ],
+  "refinements": [
+    {
+      "check": "Reduced homepage/header name size and News gap; footer absent",
+      "result": "pass"
+    },
+    {
+      "check": "Publication venue lines near-black regular weight and both plenary phrases dark green",
+      "result": "pass"
+    },
+    {
+      "check": "YouTube HTTP player 480px wide; playback advanced to 8 seconds",
+      "result": "pass"
+    },
+    {
+      "check": "Local-thumbnail fallback visually verified using no-script HTTP fixture",
+      "result": "pass"
+    }
+  ]
+}
