@@ -78,7 +78,6 @@ iframe:focus-visible,
 }
 
 .site-header {
-  border-top: 4px solid var(--link);
   border-bottom: 1px solid var(--line);
   background: var(--surface);
 }
@@ -750,6 +749,11 @@ pre {
 
 .news-list li .detail-line {
   font-size: 0.95rem;
+}
+
+.news-list li .detail-line,
+.program-committees {
+  max-inline-size: 90ch;
 }
 
 
